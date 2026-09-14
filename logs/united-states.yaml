@@ -15,8 +15,8 @@
 #
 # A place (inside a group's `places:`) is named by exactly one of these keys,
 # which also sets its type: place (sight, the default), trail, activity,
-# event, food, drive, wildlife. E.g. `food: Some Cafe` instead of
-# `type: food` + `name: Some Cafe`.
+# event, food, drive, wildlife, stay (lodging). E.g. `food: Some Cafe`
+# instead of `type: food` + `name: Some Cafe`.
 #
 # A remark -- whether a one-off aside or something not tied to any place --
 # always goes in a `notes:` list, never a bare `note:` field. There's exactly
@@ -25,8 +25,8 @@
 # observation). The latter never gets a map pin or a location.
 #
 # Optional on a place (or a leaf area): notes (a list of remarks), verdict
-#   (repeat|fine|skip), dishes (food only, `dish:`/notes/verdict each),
-#   location.
+#   (best to worst: Lit|Pretty Good|It's Aight|Never Again), dishes (food
+#   only, `dish:`/notes/verdict each), location.
 #
 # `location` overrides the geocoded key, on a group area (all its places) or
 # a single place (wins over the area's). Leave it off unless the default
@@ -186,6 +186,10 @@ regions:
     - place: Clarence S. Higgs Memorial Beach
     - place: Fort Zachary Taylor Historic State Park Beach
     - place: The Key West Butterfly and Nature Conservatory
+  - area: Orlando
+    places:
+    - place: Disney World
+    - place: Universal Studios
 - region: Georgia
   areas:
   - area: Atlanta
@@ -306,7 +310,7 @@ regions:
     - food: The Falls Bistro
       dishes:
       - dish: Walleye strips
-        verdict: skip
+        verdict: Never Again
         notes:
         - Stronger "fish" aftertaste than I'd like
   - area: Voyageurs National Park
@@ -626,28 +630,140 @@ regions:
 - region: Utah
   areas:
   - area: Salt Lake City
+  - area: Moab
+    places:
+    - food: Indo Grill
+    - stay: Big Horn Lodge
   - area: Arches National Park
     places:
     - trail: Delicate Arch
+    - trail: Window Arch
   - area: Zion National Park
     places:
     - trail: Angel's Landing
     - trail: The Narrows
+    - stay: Gooseberry Lodge
+    - trail: The Watchman
+    - trail: Emerald Pools
   - area: Bryce Canyon National Park
     places:
     - trail: Fairyland Loop
     - trail: Navajo Loop
+    - trail: Queen's Garden
+      notes:
+      - Thor's Hammer
+    - stay: Bryce View Lodge
   - area: Canyonlands National Park
     places:
     - trail: Mesa Arch
   - area: Capitol Reef National Park
     places:
     - trail: Cassidy Arch
+    - trail: Hickman Bridge Trail
+    - trail: Grand Wash
+    - food: Curry Pizza
 - region: Virginia
   areas:
   - area: Shenandoah National Park
     places:
     - trail: Old Rag
+- region: Washington
+  areas:
+  - area: Kingston
+    location: Kingston, Kitsap County, Washington
+    places:
+    - food: Nirvana Nepali and Indian Cuisine
+      dishes:
+      - dish: Chicken korma
+  - area: Washington
+    location: Washington State, United States
+    places:
+    - drive: Washington State Highway 12
+    - drive: Hurricane Ridge Rd
+    - drive: Olympic Peninsula Loop
+  - area: Olympic National Park
+    places:
+    - trail: Mt. Storm King
+    - trail: Hall of Mosses
+    - trail: Spruce Trail
+    - trail: Hurricane Ridge
+    - place: Hoh Rainforest
+    - place: Lake Crescent
+    - place: New Dungeness Lighthouse
+    - place: Forks
+    - place: Olympic Game Farm
+      notes:
+      - Feed wild animals (Kodiak bear, brown bear, elk, llama, deer)
+    - food: Black Bear Diner
+    - food: Sunshine Cafe
+    - food: Sabai Thai
+      dishes:
+      - dish: Thai basil fried rice
+      - dish: Red curry
+  - area: Mt. Rainier National Park
+    places:
+    - place: Reflection Lake
+    - food: Mountain Goat Coffee
+      dishes:
+      - dish: Dark chocolate chia pudding
+    - food: Zesty Thai Food Truck
+    - trail: Snow and Bench Lake
+    - trail: Skyline Trail
+      notes:
+      - Panorama Point
+      - Saw black bear
+    - trail: Naches Peak
+    - wildlife: Black Bear
+    - wildlife: American Pika
+    - wildlife: Marmot
+  - area: North Cascades National Park
+    places:
+    - trail: Cascade Pass and Sahale Arm
+    - wildlife: Brown Bear
+    - wildlife: American Pika
+    - wildlife: Marmot
+    - wildlife: Mountain Goat
+  - area: Yakima
+    places:
+    - food: Joy Garden
+      dishes:
+      - dish: Korean BBQ chicken
+  - area: Leavenworth
+    notes:
+    - Amazing small Bavarian town
+    places:
+    - food: Munchin Haus
+      dishes:
+      - dish: Pretzel with a variety of 20 mustard options
+    - food: Blewett Brewing Company
+      dishes:
+      - dish: Buff Chick
+        verdict: Never Again
+      - dish: Margherita
+      - dish: Delancy
+        verdict: Lit
+    - food: Colchuck's
+      dishes:
+      - dish: Apple strudel with vanilla ice cream
+    - food: Louie's
+      dishes:
+      - dish: Spicy chicken wrap
+    - food: Yodelin Broth Company and Beer Garden
+      dishes:
+      - dish: The Yodeling
+        verdict: Never Again
+  - area: Seattle
+    places:
+    - place: Pike Place Market
+    - food: Chukar Cherries
+      notes:
+      - Dark chocolate pecans
+    - food: Noi Thai Cuisine
+      dishes:
+      - dish: Red curry
+        verdict: Lit
+      - dish: Crispy garlic chicken
+        verdict: Lit
 - region: Washington DC
   areas:
   - area: National Museum of the Marine Corps

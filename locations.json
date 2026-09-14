@@ -447,6 +447,10 @@
     "lat": 24.55483,
     "lng": -81.80207
   },
+  "Kingston, Kitsap County, Washington": {
+    "lat": 47.79871,
+    "lng": -122.49819
+  },
   "Kodaikanal, Tamil Nadu": {
     "lat": 10.23371,
     "lng": 77.49197
@@ -486,6 +490,10 @@
   "Lassen Volcanic National Park": {
     "lat": 40.49378,
     "lng": -121.40446
+  },
+  "Leavenworth, Washington": {
+    "lat": 47.59691,
+    "lng": -120.66108
   },
   "Leonard Harrison State Park": {
     "lat": 41.70031,
@@ -591,6 +599,10 @@
     "lat": 32.97153,
     "lng": -89.73485
   },
+  "Moab, Utah": {
+    "lat": 38.57381,
+    "lng": -109.54621
+  },
   "Mobile, Alabama": {
     "lat": 30.69135,
     "lng": -88.04375
@@ -598,6 +610,10 @@
   "Monterey, California": {
     "lat": 36.22311,
     "lng": -121.38774
+  },
+  "Mt. Rainier National Park, Washington": {
+    "lat": 46.85434,
+    "lng": -121.70633
   },
   "Mt. Rushmore": {
     "lat": 43.88086,
@@ -651,13 +667,25 @@
     "lat": 43.08484,
     "lng": -79.07018
   },
+  "North Cascades National Park, Washington": {
+    "lat": 48.80835,
+    "lng": -121.40622
+  },
   "Ohiopyle State Park": {
     "lat": 39.86708,
     "lng": -79.42948
   },
+  "Olympic National Park, Washington": {
+    "lat": 47.78653,
+    "lng": -123.53605
+  },
   "Ooty, Tamil Nadu": {
     "lat": 11.41268,
     "lng": 76.70305
+  },
+  "Orlando, Florida": {
+    "lat": 28.54212,
+    "lng": -81.37905
   },
   "Palisade Head, Minnesota": {
     "lat": 47.32056,
@@ -762,6 +790,10 @@
   "Scranton, Pennsylvania": {
     "lat": 41.40869,
     "lng": -75.66213
+  },
+  "Seattle, Washington": {
+    "lat": 47.60383,
+    "lng": -122.33006
   },
   "Sedona, Arizona": {
     "lat": 34.86886,
@@ -883,9 +915,21 @@
     "lat": 45.89263,
     "lng": -91.79717
   },
+  "Washington State, United States": {
+    "lat": 47.7511,
+    "lng": -120.7401
+  },
   "Wind Cave National Park, South Dakota": {
     "lat": 43.57887,
     "lng": -103.47085
+  },
+  "Winneshiek Raceway, Decorah": {
+    "lat": 43.30247,
+    "lng": -91.77535
+  },
+  "Yakima, Washington": {
+    "lat": 46.60156,
+    "lng": -120.51084
   },
   "Yellowstone National Park": {
     "lat": 44.62009,
