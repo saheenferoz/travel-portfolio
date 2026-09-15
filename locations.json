@@ -611,6 +611,10 @@
     "lat": 36.22311,
     "lng": -121.38774
   },
+  "Mt. Rainier National Park": {
+    "lat": 46.85434,
+    "lng": -121.70633
+  },
   "Mt. Rainier National Park, Washington": {
     "lat": 46.85434,
     "lng": -121.70633
@@ -667,6 +671,10 @@
     "lat": 43.08484,
     "lng": -79.07018
   },
+  "North Cascades National Park": {
+    "lat": 48.80835,
+    "lng": -121.40622
+  },
   "North Cascades National Park, Washington": {
     "lat": 48.80835,
     "lng": -121.40622
@@ -674,6 +682,10 @@
   "Ohiopyle State Park": {
     "lat": 39.86708,
     "lng": -79.42948
+  },
+  "Olympic National Park": {
+    "lat": 47.78653,
+    "lng": -123.53605
   },
   "Olympic National Park, Washington": {
     "lat": 47.78653,
