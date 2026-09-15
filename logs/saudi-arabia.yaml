@@ -1,0 +1,10 @@
+country: Saudi Arabia
+regions:
+- region: Saudi Arabia
+  areas:
+  - area: Jeddah
+    places:
+    - place: Al Sharafeyah
+    - place: Corniche Beach
+  - area: Makkah
+  - area: Madinah

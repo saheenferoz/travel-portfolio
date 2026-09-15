@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "id": "egypt-cairo-nile-river-cruise",
+      "country": "Egypt",
+      "region": "Egypt",
+      "area": "Cairo",
+      "type": "activity",
+      "name": "Nile River Cruise",
+      "location": "Cairo, Egypt"
+    },
+    {
+      "id": "egypt-giza-the-great-pyramid-of-giza",
+      "country": "Egypt",
+      "region": "Egypt",
+      "area": "Giza",
+      "type": "sight",
+      "name": "The Great Pyramid of Giza",
+      "location": "Giza, Egypt"
+    },
+    {
+      "id": "egypt-alexandria",
+      "country": "Egypt",
+      "region": "Egypt",
+      "area": "Alexandria",
+      "type": "sight",
+      "name": "Alexandria",
+      "location": "Alexandria, Egypt"
+    },
+    {
+      "id": "egypt-luxor-valley-of-the-kings",
+      "country": "Egypt",
+      "region": "Egypt",
+      "area": "Luxor",
+      "type": "sight",
+      "name": "Valley of the Kings",
+      "location": "Luxor, Egypt"
+    },
+    {
       "id": "delhi-red-fort",
       "country": "India",
       "region": "Delhi",
@@ -208,6 +244,15 @@
       "location": "Mangalore, Karnataka"
     },
     {
+      "id": "karnataka-kudremukh",
+      "country": "India",
+      "region": "Karnataka",
+      "area": "Kudremukh",
+      "type": "sight",
+      "name": "Kudremukh",
+      "location": "Kudremukh"
+    },
+    {
       "id": "karnataka-delta-beach",
       "country": "India",
       "region": "Karnataka",
@@ -341,6 +386,15 @@
       "type": "sight",
       "name": "Kollam Beach",
       "location": "Kollam Beach, Kerala"
+    },
+    {
+      "id": "kerala-alappuzha",
+      "country": "India",
+      "region": "Kerala",
+      "area": "Alappuzha",
+      "type": "sight",
+      "name": "Alappuzha",
+      "location": "Alappuzha"
     },
     {
       "id": "kerala-mayyanad-beach",
@@ -622,6 +676,15 @@
       "location": "Agastya Mala, Kerala"
     },
     {
+      "id": "kerala-asambu-reserve-forest",
+      "country": "India",
+      "region": "Kerala",
+      "area": "Asambu Reserve Forest",
+      "type": "sight",
+      "name": "Asambu Reserve Forest",
+      "location": "Asambu Reserve Forest"
+    },
+    {
       "id": "kerala-ponmudi-hill-station",
       "country": "India",
       "region": "Kerala",
@@ -665,6 +728,15 @@
       "type": "sight",
       "name": "Munnar Hill Station",
       "location": "Munnar Hill Station"
+    },
+    {
+      "id": "kerala-kolukkumalai",
+      "country": "India",
+      "region": "Kerala",
+      "area": "Kolukkumalai",
+      "type": "sight",
+      "name": "Kolukkumalai",
+      "location": "Kolukkumalai"
     },
     {
       "id": "kerala-idukki-reservoir-anchuruli-tunnel",
@@ -874,6 +946,249 @@
       "location": "Agra, Uttar Pradesh"
     },
     {
+      "id": "japan-mt-fuji",
+      "country": "Japan",
+      "region": "Japan",
+      "area": "Mt. Fuji",
+      "type": "sight",
+      "name": "Mt. Fuji",
+      "location": "Mt. Fuji, Japan"
+    },
+    {
+      "id": "japan-fujikawaguchiko",
+      "country": "Japan",
+      "region": "Japan",
+      "area": "Fujikawaguchiko",
+      "type": "sight",
+      "name": "Fujikawaguchiko",
+      "location": "Fujikawaguchiko, Japan",
+      "notes": [
+        "Shinkansen from Tokyo"
+      ]
+    },
+    {
+      "id": "japan-tokyo-shibuya-crossing",
+      "country": "Japan",
+      "region": "Japan",
+      "area": "Tokyo",
+      "type": "sight",
+      "name": "Shibuya Crossing",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": "japan-tokyo-tokyo-tower",
+      "country": "Japan",
+      "region": "Japan",
+      "area": "Tokyo",
+      "type": "sight",
+      "name": "Tokyo Tower",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": "japan-tokyo-shinjuku-gyoen-national-garden",
+      "country": "Japan",
+      "region": "Japan",
+      "area": "Tokyo",
+      "type": "sight",
+      "name": "Shinjuku Gyoen National Garden",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": "japan-tokyo-meiji-jingu",
+      "country": "Japan",
+      "region": "Japan",
+      "area": "Tokyo",
+      "type": "sight",
+      "name": "Meiji Jingu",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": "japan-tokyo-coco-curry",
+      "country": "Japan",
+      "region": "Japan",
+      "area": "Tokyo",
+      "type": "food",
+      "name": "Coco Curry",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": "japan-kyoto-arashiyama-bamboo-forest",
+      "country": "Japan",
+      "region": "Japan",
+      "area": "Kyoto",
+      "type": "sight",
+      "name": "Arashiyama Bamboo Forest",
+      "location": "Kyoto, Japan"
+    },
+    {
+      "id": "japan-kyoto-h-kan-ji-temple-yasaka-pagoda",
+      "country": "Japan",
+      "region": "Japan",
+      "area": "Kyoto",
+      "type": "sight",
+      "name": "Hōkan-ji Temple (Yasaka Pagoda)",
+      "location": "Kyoto, Japan"
+    },
+    {
+      "id": "japan-kyoto-yasaka-shrine",
+      "country": "Japan",
+      "region": "Japan",
+      "area": "Kyoto",
+      "type": "sight",
+      "name": "Yasaka Shrine",
+      "location": "Kyoto, Japan"
+    },
+    {
+      "id": "japan-kyoto-fushimi-inari-taisha",
+      "country": "Japan",
+      "region": "Japan",
+      "area": "Kyoto",
+      "type": "sight",
+      "name": "Fushimi Inari Taisha",
+      "location": "Kyoto, Japan",
+      "notes": [
+        "Hundreds of traditional Japanese gates"
+      ]
+    },
+    {
+      "id": "japan-kyoto-hanamikoji-street",
+      "country": "Japan",
+      "region": "Japan",
+      "area": "Kyoto",
+      "type": "sight",
+      "name": "Hanamikoji Street",
+      "location": "Kyoto, Japan",
+      "notes": [
+        "Geisha District"
+      ]
+    },
+    {
+      "id": "japan-nara-nara-deer-park",
+      "country": "Japan",
+      "region": "Japan",
+      "area": "Nara",
+      "type": "sight",
+      "name": "Nara Deer Park",
+      "location": "Nara, Japan"
+    },
+    {
+      "id": "mexico-cancun-hotel-xcaret-arte",
+      "country": "Mexico",
+      "region": "Mexico",
+      "area": "Cancun",
+      "type": "stay",
+      "name": "Hotel Xcaret Arte",
+      "location": "Cancun, Mexico"
+    },
+    {
+      "id": "oman-muscat",
+      "country": "Oman",
+      "region": "Oman",
+      "area": "Muscat",
+      "type": "sight",
+      "name": "Muscat",
+      "location": "Muscat, Oman"
+    },
+    {
+      "id": "saudi-arabia-jeddah-al-sharafeyah",
+      "country": "Saudi Arabia",
+      "region": "Saudi Arabia",
+      "area": "Jeddah",
+      "type": "sight",
+      "name": "Al Sharafeyah",
+      "location": "Jeddah, Saudi Arabia"
+    },
+    {
+      "id": "saudi-arabia-jeddah-corniche-beach",
+      "country": "Saudi Arabia",
+      "region": "Saudi Arabia",
+      "area": "Jeddah",
+      "type": "sight",
+      "name": "Corniche Beach",
+      "location": "Jeddah, Saudi Arabia"
+    },
+    {
+      "id": "saudi-arabia-makkah",
+      "country": "Saudi Arabia",
+      "region": "Saudi Arabia",
+      "area": "Makkah",
+      "type": "sight",
+      "name": "Makkah",
+      "location": "Makkah, Saudi Arabia"
+    },
+    {
+      "id": "saudi-arabia-madinah",
+      "country": "Saudi Arabia",
+      "region": "Saudi Arabia",
+      "area": "Madinah",
+      "type": "sight",
+      "name": "Madinah",
+      "location": "Madinah, Saudi Arabia"
+    },
+    {
+      "id": "switzerland-switzerland",
+      "country": "Switzerland",
+      "region": "Switzerland",
+      "area": "Switzerland",
+      "type": "sight",
+      "name": "Switzerland",
+      "location": "Switzerland"
+    },
+    {
+      "id": "switzerland-zurich",
+      "country": "Switzerland",
+      "region": "Switzerland",
+      "area": "Zurich",
+      "type": "sight",
+      "name": "Zurich",
+      "location": "Zurich, Switzerland"
+    },
+    {
+      "id": "switzerland-jungfrau",
+      "country": "Switzerland",
+      "region": "Switzerland",
+      "area": "Jungfrau",
+      "type": "sight",
+      "name": "Jungfrau",
+      "location": "Jungfrau, Switzerland"
+    },
+    {
+      "id": "switzerland-rhine-falls",
+      "country": "Switzerland",
+      "region": "Switzerland",
+      "area": "Rhine Falls",
+      "type": "sight",
+      "name": "Rhine Falls",
+      "location": "Rhine Falls, Switzerland"
+    },
+    {
+      "id": "united-arab-emirates-dubai-dubai-mall",
+      "country": "United Arab Emirates",
+      "region": "United Arab Emirates",
+      "area": "Dubai",
+      "type": "sight",
+      "name": "Dubai Mall",
+      "location": "Dubai, United Arab Emirates"
+    },
+    {
+      "id": "united-arab-emirates-dubai-burj-khalifa",
+      "country": "United Arab Emirates",
+      "region": "United Arab Emirates",
+      "area": "Dubai",
+      "type": "sight",
+      "name": "Burj Khalifa",
+      "location": "Dubai, United Arab Emirates"
+    },
+    {
+      "id": "united-arab-emirates-dubai-palm-jumeirah",
+      "country": "United Arab Emirates",
+      "region": "United Arab Emirates",
+      "area": "Dubai",
+      "type": "sight",
+      "name": "Palm Jumeirah",
+      "location": "Dubai, United Arab Emirates"
+    },
+    {
       "id": "alabama-mobile-uss-alabama",
       "country": "United States",
       "region": "Alabama",
@@ -935,6 +1250,24 @@
           "verdict": ""
         }
       ]
+    },
+    {
+      "id": "alabama-alabama",
+      "country": "United States",
+      "region": "Alabama",
+      "area": "Alabama",
+      "type": "sight",
+      "name": "Alabama",
+      "location": "Alabama"
+    },
+    {
+      "id": "arizona-arizona",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Arizona",
+      "type": "sight",
+      "name": "Arizona",
+      "location": "Arizona"
     },
     {
       "id": "arizona-grand-canyon-national-park",
@@ -1060,7 +1393,7 @@
       "area": "Barringer Crater (Meteor Crater Natural Landmark)",
       "type": "sight",
       "name": "Barringer Crater (Meteor Crater Natural Landmark)",
-      "location": "Meteor Crater, Arizona"
+      "location": "Barringer Crater"
     },
     {
       "id": "arizona-saguaro-national-park-cactus-forest-dr",
@@ -1090,12 +1423,30 @@
       "location": "Saguaro National Park"
     },
     {
-      "id": "arkansas-hot-springs-national-park",
+      "id": "arkansas-hot-springs-national-park-the-grand-promenade",
       "country": "United States",
       "region": "Arkansas",
       "area": "Hot Springs National Park",
       "type": "sight",
-      "name": "Hot Springs National Park",
+      "name": "The Grand Promenade",
+      "location": "Hot Springs National Park, Arkansas"
+    },
+    {
+      "id": "arkansas-hot-springs-national-park-fordyce-bathhouse-visitor-center-and-museum",
+      "country": "United States",
+      "region": "Arkansas",
+      "area": "Hot Springs National Park",
+      "type": "sight",
+      "name": "Fordyce Bathhouse Visitor Center And Museum",
+      "location": "Hot Springs National Park, Arkansas"
+    },
+    {
+      "id": "arkansas-hot-springs-national-park-goat-rock",
+      "country": "United States",
+      "region": "Arkansas",
+      "area": "Hot Springs National Park",
+      "type": "trail",
+      "name": "Goat Rock",
       "location": "Hot Springs National Park, Arkansas"
     },
     {
@@ -1315,6 +1666,15 @@
       "location": "Burney, California"
     },
     {
+      "id": "california-death-valley-national-park",
+      "country": "United States",
+      "region": "California",
+      "area": "Death Valley National Park",
+      "type": "sight",
+      "name": "Death Valley National Park",
+      "location": "Death Valley National Park"
+    },
+    {
       "id": "california-redwood-national-park-fern-canyon",
       "country": "United States",
       "region": "California",
@@ -1459,7 +1819,7 @@
       "area": "Rocky Mountain National Park",
       "type": "sight",
       "name": "Sky Pond",
-      "location": "Rocky Mountain National Park"
+      "location": "Sky Pond, Rocky Mountain National Park"
     },
     {
       "id": "colorado-great-sand-dunes-national-park-high-dune",
@@ -1495,21 +1855,66 @@
       "location": "Denver, Colorado"
     },
     {
-      "id": "colorado-black-canyon-of-the-gunnison-national-park",
+      "id": "colorado-colorado-springs",
+      "country": "United States",
+      "region": "Colorado",
+      "area": "Colorado Springs",
+      "type": "sight",
+      "name": "Colorado Springs",
+      "location": "Colorado Springs"
+    },
+    {
+      "id": "colorado-black-canyon-of-the-gunnison-national-park-warner-point-nature-trail",
       "country": "United States",
       "region": "Colorado",
       "area": "Black Canyon of the Gunnison National Park",
-      "type": "sight",
-      "name": "Black Canyon of the Gunnison National Park",
-      "location": "Black Canyon of the Gunnison National Park, Colorado"
+      "type": "trail",
+      "name": "Warner Point Nature Trail",
+      "location": "Black Canyon Of The Gunnison National Park"
     },
     {
-      "id": "colorado-mesa-verde-national-park",
+      "id": "colorado-black-canyon-of-the-gunnison-national-park-painted-wall-view-trail",
+      "country": "United States",
+      "region": "Colorado",
+      "area": "Black Canyon of the Gunnison National Park",
+      "type": "trail",
+      "name": "Painted Wall View Trail",
+      "location": "Black Canyon Of The Gunnison National Park"
+    },
+    {
+      "id": "colorado-black-canyon-of-the-gunnison-national-park-sunset-view-overlook",
+      "country": "United States",
+      "region": "Colorado",
+      "area": "Black Canyon of the Gunnison National Park",
+      "type": "trail",
+      "name": "Sunset View Overlook",
+      "location": "Black Canyon Of The Gunnison National Park"
+    },
+    {
+      "id": "colorado-black-canyon-of-the-gunnison-national-park-dragon-point",
+      "country": "United States",
+      "region": "Colorado",
+      "area": "Black Canyon of the Gunnison National Park",
+      "type": "trail",
+      "name": "Dragon Point",
+      "location": "Black Canyon Of The Gunnison National Park"
+    },
+    {
+      "id": "colorado-mesa-verde-national-park-cliff-palace-loop",
       "country": "United States",
       "region": "Colorado",
       "area": "Mesa Verde National Park",
       "type": "sight",
-      "name": "Mesa Verde National Park",
+      "name": "Cliff Palace Loop",
+      "location": "Mesa Verde National Park"
+    },
+    {
+      "id": "colorado-mesa-verde-national-park-balcony-house-loop",
+      "country": "United States",
+      "region": "Colorado",
+      "area": "Mesa Verde National Park",
+      "type": "sight",
+      "name": "Balcony House Loop",
       "location": "Mesa Verde National Park"
     },
     {
@@ -1720,12 +2125,21 @@
       "location": "Chicago"
     },
     {
-      "id": "indiana-indiana-dunes-national-park",
+      "id": "indiana-indiana-dunes-national-park-west-beach-dune-succession",
       "country": "United States",
       "region": "Indiana",
       "area": "Indiana Dunes National Park",
-      "type": "sight",
-      "name": "Indiana Dunes National Park",
+      "type": "trail",
+      "name": "West Beach - Dune Succession",
+      "location": "Indiana Dunes National Park, Indiana"
+    },
+    {
+      "id": "indiana-indiana-dunes-national-park-cowles-bog",
+      "country": "United States",
+      "region": "Indiana",
+      "area": "Indiana Dunes National Park",
+      "type": "trail",
+      "name": "Cowles Bog",
       "location": "Indiana Dunes National Park, Indiana"
     },
     {
@@ -1792,7 +2206,7 @@
       "area": "Decorah",
       "type": "sight",
       "name": "Winneshiek Raceway",
-      "location": "Decorah, Iowa",
+      "location": "Winneshiek Raceway, Decorah",
       "notes": [
         "An unexpected find",
         "15th Annual USMTS Nordic Nationals presented by Weis GMC"
@@ -2255,7 +2669,7 @@
       "area": "Chimney Rock",
       "type": "sight",
       "name": "Chimney Rock",
-      "location": "Chimney Rock, Nebraska"
+      "location": "Chimney Rock National Historic Site"
     },
     {
       "id": "nebraska-scotts-bluff-national-monument",
@@ -2667,12 +3081,21 @@
       "location": "Cuyahoga Valley National Park, Ohio"
     },
     {
-      "id": "oregon-crater-lake-national-park",
+      "id": "oregon-crater-lake-national-park-garfield-peak",
       "country": "United States",
       "region": "Oregon",
       "area": "Crater Lake National Park",
-      "type": "sight",
-      "name": "Crater Lake National Park",
+      "type": "trail",
+      "name": "Garfield Peak",
+      "location": "Crater Lake National Park"
+    },
+    {
+      "id": "oregon-crater-lake-national-park-cleetwood-cove",
+      "country": "United States",
+      "region": "Oregon",
+      "area": "Crater Lake National Park",
+      "type": "trail",
+      "name": "Cleetwood Cove",
       "location": "Crater Lake National Park"
     },
     {
@@ -3258,7 +3681,7 @@
       "area": "PA Grand Canyon",
       "type": "sight",
       "name": "Leonard Harrison State Park",
-      "location": "Pine Creek Gorge, Pennsylvania"
+      "location": "Leonard Harrison State Park"
     },
     {
       "id": "pennsylvania-scranton-lackawanna-coal-mine-tour",
@@ -3276,7 +3699,7 @@
       "area": "Scranton",
       "type": "sight",
       "name": "Steamtown National Historic Site",
-      "location": "Scranton, Pennsylvania",
+      "location": "Steamtown National Historic Site",
       "notes": [
         "Big Boy 4012"
       ]
@@ -3298,6 +3721,15 @@
       "type": "sight",
       "name": "Congaree National Park",
       "location": "Congaree National Park, South Carolina"
+    },
+    {
+      "id": "south-dakota-black-hills",
+      "country": "United States",
+      "region": "South Dakota",
+      "area": "Black Hills",
+      "type": "sight",
+      "name": "Black Hills",
+      "location": "Black Hills, South Dakota"
     },
     {
       "id": "south-dakota-deadwood",
@@ -3618,6 +4050,15 @@
       "location": "Circuit of the Americas, Texas"
     },
     {
+      "id": "texas-austin",
+      "country": "United States",
+      "region": "Texas",
+      "area": "Austin",
+      "type": "sight",
+      "name": "Austin",
+      "location": "Austin, Texas"
+    },
+    {
       "id": "utah-salt-lake-city",
       "country": "United States",
       "region": "Utah",
@@ -3756,6 +4197,15 @@
       "location": "Canyonlands National Park, Utah"
     },
     {
+      "id": "utah-canyonlands-national-park-grand-view-point",
+      "country": "United States",
+      "region": "Utah",
+      "area": "Canyonlands National Park",
+      "type": "trail",
+      "name": "Grand View Point",
+      "location": "Canyonlands National Park, Utah"
+    },
+    {
       "id": "utah-capitol-reef-national-park-cassidy-arch",
       "country": "United States",
       "region": "Utah",
@@ -3849,7 +4299,7 @@
       "area": "Olympic National Park",
       "type": "trail",
       "name": "Mt. Storm King",
-      "location": "Olympic National Park, Washington"
+      "location": "Olympic National Park"
     },
     {
       "id": "washington-olympic-national-park-hall-of-mosses",
@@ -3858,7 +4308,7 @@
       "area": "Olympic National Park",
       "type": "trail",
       "name": "Hall of Mosses",
-      "location": "Olympic National Park, Washington"
+      "location": "Olympic National Park"
     },
     {
       "id": "washington-olympic-national-park-spruce-trail",
@@ -3867,7 +4317,7 @@
       "area": "Olympic National Park",
       "type": "trail",
       "name": "Spruce Trail",
-      "location": "Olympic National Park, Washington"
+      "location": "Olympic National Park"
     },
     {
       "id": "washington-olympic-national-park-hurricane-ridge",
@@ -3876,7 +4326,7 @@
       "area": "Olympic National Park",
       "type": "trail",
       "name": "Hurricane Ridge",
-      "location": "Olympic National Park, Washington"
+      "location": "Olympic National Park"
     },
     {
       "id": "washington-olympic-national-park-hoh-rainforest",
@@ -3885,7 +4335,7 @@
       "area": "Olympic National Park",
       "type": "sight",
       "name": "Hoh Rainforest",
-      "location": "Olympic National Park, Washington"
+      "location": "Olympic National Park"
     },
     {
       "id": "washington-olympic-national-park-lake-crescent",
@@ -3894,7 +4344,7 @@
       "area": "Olympic National Park",
       "type": "sight",
       "name": "Lake Crescent",
-      "location": "Olympic National Park, Washington"
+      "location": "Olympic National Park"
     },
     {
       "id": "washington-olympic-national-park-new-dungeness-lighthouse",
@@ -3903,7 +4353,7 @@
       "area": "Olympic National Park",
       "type": "sight",
       "name": "New Dungeness Lighthouse",
-      "location": "Olympic National Park, Washington"
+      "location": "Olympic National Park"
     },
     {
       "id": "washington-olympic-national-park-forks",
@@ -3912,7 +4362,7 @@
       "area": "Olympic National Park",
       "type": "sight",
       "name": "Forks",
-      "location": "Olympic National Park, Washington"
+      "location": "Olympic National Park"
     },
     {
       "id": "washington-olympic-national-park-olympic-game-farm",
@@ -3921,7 +4371,7 @@
       "area": "Olympic National Park",
       "type": "sight",
       "name": "Olympic Game Farm",
-      "location": "Olympic National Park, Washington",
+      "location": "Olympic National Park",
       "notes": [
         "Feed wild animals (Kodiak bear, brown bear, elk, llama, deer)"
       ]
@@ -3933,7 +4383,7 @@
       "area": "Olympic National Park",
       "type": "food",
       "name": "Black Bear Diner",
-      "location": "Olympic National Park, Washington"
+      "location": "Olympic National Park"
     },
     {
       "id": "washington-olympic-national-park-sunshine-cafe",
@@ -3942,7 +4392,7 @@
       "area": "Olympic National Park",
       "type": "food",
       "name": "Sunshine Cafe",
-      "location": "Olympic National Park, Washington"
+      "location": "Olympic National Park"
     },
     {
       "id": "washington-olympic-national-park-sabai-thai",
@@ -3951,7 +4401,7 @@
       "area": "Olympic National Park",
       "type": "food",
       "name": "Sabai Thai",
-      "location": "Olympic National Park, Washington",
+      "location": "Olympic National Park",
       "items": [
         {
           "name": "Thai basil fried rice",
@@ -3970,7 +4420,7 @@
       "area": "Mt. Rainier National Park",
       "type": "sight",
       "name": "Reflection Lake",
-      "location": "Mt. Rainier National Park, Washington"
+      "location": "Mt. Rainier National Park"
     },
     {
       "id": "washington-mt-rainier-national-park-mountain-goat-coffee",
@@ -3979,7 +4429,7 @@
       "area": "Mt. Rainier National Park",
       "type": "food",
       "name": "Mountain Goat Coffee",
-      "location": "Mt. Rainier National Park, Washington",
+      "location": "Mt. Rainier National Park",
       "items": [
         {
           "name": "Dark chocolate chia pudding",
@@ -3994,7 +4444,7 @@
       "area": "Mt. Rainier National Park",
       "type": "food",
       "name": "Zesty Thai Food Truck",
-      "location": "Mt. Rainier National Park, Washington"
+      "location": "Mt. Rainier National Park"
     },
     {
       "id": "washington-mt-rainier-national-park-snow-and-bench-lake",
@@ -4003,7 +4453,7 @@
       "area": "Mt. Rainier National Park",
       "type": "trail",
       "name": "Snow and Bench Lake",
-      "location": "Mt. Rainier National Park, Washington"
+      "location": "Mt. Rainier National Park"
     },
     {
       "id": "washington-mt-rainier-national-park-skyline-trail",
@@ -4012,7 +4462,7 @@
       "area": "Mt. Rainier National Park",
       "type": "trail",
       "name": "Skyline Trail",
-      "location": "Mt. Rainier National Park, Washington",
+      "location": "Mt. Rainier National Park",
       "notes": [
         "Panorama Point",
         "Saw black bear"
@@ -4025,7 +4475,7 @@
       "area": "Mt. Rainier National Park",
       "type": "trail",
       "name": "Naches Peak",
-      "location": "Mt. Rainier National Park, Washington"
+      "location": "Mt. Rainier National Park"
     },
     {
       "id": "washington-mt-rainier-national-park-black-bear",
@@ -4034,7 +4484,7 @@
       "area": "Mt. Rainier National Park",
       "type": "wildlife",
       "name": "Black Bear",
-      "location": "Mt. Rainier National Park, Washington"
+      "location": "Mt. Rainier National Park"
     },
     {
       "id": "washington-mt-rainier-national-park-american-pika",
@@ -4043,7 +4493,7 @@
       "area": "Mt. Rainier National Park",
       "type": "wildlife",
       "name": "American Pika",
-      "location": "Mt. Rainier National Park, Washington"
+      "location": "Mt. Rainier National Park"
     },
     {
       "id": "washington-mt-rainier-national-park-marmot",
@@ -4052,7 +4502,7 @@
       "area": "Mt. Rainier National Park",
       "type": "wildlife",
       "name": "Marmot",
-      "location": "Mt. Rainier National Park, Washington"
+      "location": "Mt. Rainier National Park"
     },
     {
       "id": "washington-north-cascades-national-park-cascade-pass-and-sahale-arm",
@@ -4061,7 +4511,7 @@
       "area": "North Cascades National Park",
       "type": "trail",
       "name": "Cascade Pass and Sahale Arm",
-      "location": "North Cascades National Park, Washington"
+      "location": "North Cascades National Park"
     },
     {
       "id": "washington-north-cascades-national-park-brown-bear",
@@ -4070,7 +4520,7 @@
       "area": "North Cascades National Park",
       "type": "wildlife",
       "name": "Brown Bear",
-      "location": "North Cascades National Park, Washington"
+      "location": "North Cascades National Park"
     },
     {
       "id": "washington-north-cascades-national-park-american-pika",
@@ -4079,7 +4529,7 @@
       "area": "North Cascades National Park",
       "type": "wildlife",
       "name": "American Pika",
-      "location": "North Cascades National Park, Washington"
+      "location": "North Cascades National Park"
     },
     {
       "id": "washington-north-cascades-national-park-marmot",
@@ -4088,7 +4538,7 @@
       "area": "North Cascades National Park",
       "type": "wildlife",
       "name": "Marmot",
-      "location": "North Cascades National Park, Washington"
+      "location": "North Cascades National Park"
     },
     {
       "id": "washington-north-cascades-national-park-mountain-goat",
@@ -4097,7 +4547,7 @@
       "area": "North Cascades National Park",
       "type": "wildlife",
       "name": "Mountain Goat",
-      "location": "North Cascades National Park, Washington"
+      "location": "North Cascades National Park"
     },
     {
       "id": "washington-yakima-joy-garden",
@@ -4400,13 +4850,22 @@
       "location": "Washburn, Wisconsin"
     },
     {
+      "id": "wisconsin-cave-of-the-mounds",
+      "country": "United States",
+      "region": "Wisconsin",
+      "area": "Cave of the Mounds",
+      "type": "sight",
+      "name": "Cave of the Mounds",
+      "location": "Cave of the Mounds"
+    },
+    {
       "id": "wisconsin-madison-memorial-union",
       "country": "United States",
       "region": "Wisconsin",
       "area": "Madison",
       "type": "sight",
       "name": "Memorial Union",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-union-south",
@@ -4415,7 +4874,7 @@
       "area": "Madison",
       "type": "sight",
       "name": "Union South",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-bascom-hill",
@@ -4424,7 +4883,7 @@
       "area": "Madison",
       "type": "sight",
       "name": "Bascom Hill",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-lake-mendota",
@@ -4433,7 +4892,7 @@
       "area": "Madison",
       "type": "sight",
       "name": "Lake Mendota",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-estacion-inka",
@@ -4442,7 +4901,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Estacion Inka",
-      "location": "Madison, Wisconsin",
+      "location": "Madison Wisconsin",
       "items": [
         {
           "name": "Rotisserie chicken",
@@ -4461,7 +4920,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Mirch Masala",
-      "location": "Madison, Wisconsin",
+      "location": "Madison Wisconsin",
       "items": [
         {
           "name": "Chicken korma",
@@ -4476,7 +4935,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Der Rathskeller",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-cheba-hut",
@@ -4485,7 +4944,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Cheba Hut",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-dotty-dumpling-s-dowry",
@@ -4494,7 +4953,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Dotty Dumpling's Dowry",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-paul-s-pel-meni",
@@ -4503,7 +4962,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Paul's Pel'meni",
-      "location": "Madison, Wisconsin",
+      "location": "Madison Wisconsin",
       "items": [
         {
           "name": "Potato dumplings with the works",
@@ -4518,7 +4977,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Strada",
-      "location": "Madison, Wisconsin",
+      "location": "Madison Wisconsin",
       "items": [
         {
           "name": "Thai chicken pizza",
@@ -4533,7 +4992,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Ginger Root",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-naf-naf",
@@ -4542,7 +5001,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Naf Naf",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-sencha-tea-bar",
@@ -4551,7 +5010,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Sencha Tea Bar",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-bayfield-lake-trout",
@@ -4641,7 +5100,7 @@
       "area": "Devil's Tower National Monument",
       "type": "sight",
       "name": "Devil's Tower National Monument",
-      "location": "Devil's Tower National Monument, Wyoming"
+      "location": "Devil's Tower, Wyoming"
     },
     {
       "id": "wyoming-grand-teton-national-park-snake-river-overlook",

@@ -1,0 +1,7 @@
+country: Mexico
+regions:
+- region: Mexico
+  areas:
+  - area: Cancun
+    places:
+    - stay: Hotel Xcaret Arte

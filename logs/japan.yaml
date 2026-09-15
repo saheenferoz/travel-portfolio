@@ -1,0 +1,29 @@
+country: Japan
+regions:
+- region: Japan
+  areas:
+  - area: Mt. Fuji
+  - area: Fujikawaguchiko
+    notes:
+    - Shinkansen from Tokyo
+  - area: Tokyo
+    places:
+    - place: Shibuya Crossing
+    - place: Tokyo Tower
+    - place: Shinjuku Gyoen National Garden
+    - place: Meiji Jingu
+    - food: Coco Curry
+  - area: Kyoto
+    places:
+    - place: Arashiyama Bamboo Forest
+    - place: "Hōkan-ji Temple (Yasaka Pagoda)"
+    - place: Yasaka Shrine
+    - place: Fushimi Inari Taisha
+      notes:
+      - Hundreds of traditional Japanese gates
+    - place: Hanamikoji Street
+      notes:
+      - Geisha District
+  - area: Nara
+    places:
+    - place: Nara Deer Park

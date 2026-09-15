@@ -1,0 +1,9 @@
+country: United Arab Emirates
+regions:
+- region: United Arab Emirates
+  areas:
+  - area: Dubai
+    places:
+    - place: Dubai Mall
+    - place: Burj Khalifa
+    - place: Palm Jumeirah

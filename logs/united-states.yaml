@@ -52,8 +52,10 @@ regions:
     - food: Moe's Original BBQ
       dishes:
       - dish: Chicken fingers with white sauce
+  - area: Alabama
 - region: Arizona
   areas:
+  - area: Arizona
   - area: Grand Canyon National Park
   - area: Sedona
     places:
@@ -72,7 +74,7 @@ regions:
   - area: Phoenix
   - area: Tucson
   - area: Barringer Crater (Meteor Crater Natural Landmark)
-    location: Meteor Crater, Arizona
+    location: Barringer Crater
   - area: Saguaro National Park
     places:
     - drive: Cactus Forest Dr
@@ -81,6 +83,10 @@ regions:
 - region: Arkansas
   areas:
   - area: Hot Springs National Park
+    places:
+    - place: The Grand Promenade
+    - place: Fordyce Bathhouse Visitor Center And Museum
+    - trail: Goat Rock
   notes:
   - Arkansas novaculite rock
 - region: California
@@ -119,6 +125,7 @@ regions:
     - trail: Lassen Peak
     - trail: Cinder Cone
   - area: Burney
+  - area: Death Valley National Park
   - area: Redwood National Park
     places:
     - trail: Fern Canyon
@@ -150,6 +157,7 @@ regions:
     - place: Nymph Lake
     - place: Bear Lake
     - place: Sky Pond
+      location: Sky Pond, Rocky Mountain National Park
   - area: Great Sand Dunes National Park
     places:
     - place: High Dune
@@ -159,8 +167,18 @@ regions:
   - area: Denver
     places:
     - food: BlueFin Sushi Bar
+  - area: Colorado Springs
   - area: Black Canyon of the Gunnison National Park
+    location: Black Canyon Of The Gunnison National Park
+    places:
+    - trail: Warner Point Nature Trail
+    - trail: Painted Wall View Trail
+    - trail: Sunset View Overlook
+    - trail: Dragon Point
   - area: Mesa Verde National Park
+    places:
+    - place: Cliff Palace Loop
+    - place: Balcony House Loop
 - region: Connecticut
   areas:
   - area: Hartford
@@ -211,6 +229,9 @@ regions:
 - region: Indiana
   areas:
   - area: Indiana Dunes National Park
+    places:
+    - trail: West Beach - Dune Succession
+    - trail: Cowles Bog
   - area: Indianapolis
     places:
     - place: White River State Park
@@ -226,6 +247,7 @@ regions:
   - area: Decorah
     places:
     - place: Winneshiek Raceway
+      location: Winneshiek Raceway, Decorah
       notes:
       - An unexpected find
       - 15th Annual USMTS Nordic Nationals presented by Weis GMC
@@ -359,6 +381,7 @@ regions:
 - region: Nebraska
   areas:
   - area: Chimney Rock
+    location: Chimney Rock National Historic Site
   - area: Scotts Bluff National Monument
   - area: Agate Fossil Beds National Monument
   - area: Hudson-Meng Bison Bonebed
@@ -460,6 +483,9 @@ regions:
 - region: Oregon
   areas:
   - area: Crater Lake National Park
+    places:
+    - trail: Garfield Peak
+    - trail: Cleetwood Cove
 - region: Pennsylvania
   areas:
   - area: Presque Isle State Park
@@ -539,11 +565,13 @@ regions:
     location: Pine Creek Gorge, Pennsylvania
     places:
     - place: Leonard Harrison State Park
+      location: Leonard Harrison State Park
   - area: Scranton
     location: Scranton, Pennsylvania
     places:
     - place: Lackawanna Coal Mine Tour
     - place: Steamtown National Historic Site
+      location: Steamtown National Historic Site
       notes:
       - Big Boy 4012
 - region: Rhode Island
@@ -554,6 +582,7 @@ regions:
   - area: Congaree National Park
 - region: South Dakota
   areas:
+  - area: Black Hills
   - area: Deadwood
   - area: Crazy Horse Memorial
   - area: Mt. Rushmore
@@ -627,6 +656,8 @@ regions:
     location: Circuit of the Americas, Texas
     places:
     - event: MotoGP 2026
+    - place: Austin
+      location: Austin, Texas
 - region: Utah
   areas:
   - area: Salt Lake City
@@ -656,6 +687,7 @@ regions:
   - area: Canyonlands National Park
     places:
     - trail: Mesa Arch
+    - trail: Grand View Point
   - area: Capitol Reef National Park
     places:
     - trail: Cassidy Arch
@@ -793,7 +825,9 @@ regions:
 - region: Wisconsin
   areas:
   - area: Washburn
+  - area: Cave of the Mounds
   - area: Madison
+    location: Madison Wisconsin
     places:
     - place: Memorial Union
     - place: Union South
@@ -841,6 +875,7 @@ regions:
     - place: Old Faithful (Geyser)
     - trail: Fairy Falls Trail
   - area: Devil's Tower National Monument
+    location: Devil's Tower, Wyoming
   - area: Grand Teton National Park
     places:
     - place: Snake River Overlook

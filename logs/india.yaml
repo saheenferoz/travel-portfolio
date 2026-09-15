@@ -41,6 +41,7 @@ regions:
     - food: Woodlands Restaurant
   - area: Malpe Beach
   - area: Mangalore
+  - area: Kudremukh
   - area: Delta Beach
 - region: Kerala
   areas:
@@ -62,6 +63,7 @@ regions:
     - food: Sign leban
     - food: Mouzy banana avil milk
   - area: Kollam Beach
+  - area: Alappuzha
   - area: Mayyanad Beach
   - area: Paravur Beach
     location: Paravur Beach, Kollam, Kerala
@@ -104,6 +106,7 @@ regions:
   - area: Shendurney Wildlife Sanctuary
   - area: Agasthyamalai
     location: Agastya Mala, Kerala
+  - area: Asambu Reserve Forest
   - area: Ponmudi Hill Station
   - area: Chitteeppara
   - area: Brimore
@@ -111,6 +114,7 @@ regions:
   - area: Athirappilly Water Falls
     location: Athirappilly Falls, Thrissur, Kerala
   - area: Munnar Hill Station
+  - area: Kolukkumalai
   - area: Idukki Reservoir
     places:
     - place: Anchuruli Tunnel

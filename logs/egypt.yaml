@@ -1,0 +1,14 @@
+country: Egypt
+regions:
+- region: Egypt
+  areas:
+  - area: Cairo
+    places:
+    - activity: Nile River Cruise
+  - area: Giza
+    places:
+    - place: The Great Pyramid of Giza
+  - area: Alexandria
+  - area: Luxor
+    places:
+    - place: Valley of the Kings

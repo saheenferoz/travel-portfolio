@@ -27,6 +27,10 @@
     "lat": 9.50034,
     "lng": 76.41234
   },
+  "Alexandria, Egypt": {
+    "lat": 31.19918,
+    "lng": 29.89517
+  },
   "Anjuna Beach, Goa": {
     "lat": 15.5761,
     "lng": 73.74018
@@ -36,10 +40,6 @@
     "lng": -83.74846
   },
   "Apostle Islands National Lakeshore": {
-    "lat": 46.9375,
-    "lng": -90.58242
-  },
-  "Apostle Islands National Lakeshore, Wisconsin": {
     "lat": 46.9375,
     "lng": -90.58242
   },
@@ -107,10 +107,6 @@
     "lat": 38.57981,
     "lng": -107.7437
   },
-  "Black Canyon of the Gunnison National Park, Colorado": {
-    "lat": 38.57981,
-    "lng": -107.7437
-  },
   "Black Hills, South Dakota": {
     "lat": 43.86928,
     "lng": -103.52649
@@ -139,9 +135,17 @@
     "lat": 15.01947,
     "lng": 74.00163
   },
+  "Cairo, Egypt": {
+    "lat": 30.04439,
+    "lng": 31.23573
+  },
   "Calangute Beach, Goa": {
     "lat": 15.54249,
     "lng": 73.75556
+  },
+  "Cancun, Mexico": {
+    "lat": 21.15275,
+    "lng": -86.84258
   },
   "Canyonlands National Park, Utah": {
     "lat": 38.23326,
@@ -194,10 +198,6 @@
   "Chimney Rock National Historic Site": {
     "lat": 41.70247,
     "lng": -103.34743
-  },
-  "Chimney Rock, Nebraska": {
-    "lat": 41.70385,
-    "lng": -103.34823
   },
   "Chitteeppara, Kerala": {
     "lat": 8.64302,
@@ -287,10 +287,6 @@
     "lat": 47.82927,
     "lng": -90.04957
   },
-  "Devil's Tower National Monument, Wyoming": {
-    "lat": 44.5898,
-    "lng": -104.71516
-  },
   "Devil's Tower, Wyoming": {
     "lat": 44.59051,
     "lng": -104.7151
@@ -298,6 +294,10 @@
   "Driftwood Beach, Georgia": {
     "lat": 31.11088,
     "lng": -81.40594
+  },
+  "Dubai, United Arab Emirates": {
+    "lat": 25.07428,
+    "lng": 55.18856
   },
   "Everglades National Park, Florida": {
     "lat": 25.36794,
@@ -326,6 +326,10 @@
   "Gettysburg": {
     "lat": 39.8309,
     "lng": -77.23101
+  },
+  "Giza, Egypt": {
+    "lat": 29.98708,
+    "lng": 31.21181
   },
   "Glacier National Park": {
     "lat": 48.61749,
@@ -427,6 +431,10 @@
     "lat": 48.00738,
     "lng": -88.82899
   },
+  "Jeddah, Saudi Arabia": {
+    "lat": 21.55044,
+    "lng": 39.17424
+  },
   "Judge C.R. Magney State Park, Minnesota": {
     "lat": 47.85107,
     "lng": -90.06394
@@ -483,6 +491,10 @@
     "lat": 8.88729,
     "lng": 76.98214
   },
+  "Kyoto, Japan": {
+    "lat": 35.01158,
+    "lng": 135.76814
+  },
   "Las Vegas, Nevada": {
     "lat": 36.16743,
     "lng": -115.14841
@@ -511,9 +523,17 @@
     "lat": 40.71355,
     "lng": -74.00543
   },
+  "Luxor, Egypt": {
+    "lat": 25.7021,
+    "lng": 32.64719
+  },
   "Mackinaw City, Michigan": {
     "lat": 45.7839,
     "lng": -84.72783
+  },
+  "Madinah, Saudi Arabia": {
+    "lat": 24.47115,
+    "lng": 39.61112
   },
   "Madison Wisconsin": {
     "lat": 43.07305,
@@ -522,6 +542,10 @@
   "Madison, Wisconsin": {
     "lat": 43.07469,
     "lng": -89.38417
+  },
+  "Makkah, Saudi Arabia": {
+    "lat": 21.42085,
+    "lng": 39.82687
   },
   "Malappuram, Kerala": {
     "lat": 11.10657,
@@ -571,10 +595,6 @@
     "lat": 37.25378,
     "lng": -108.4556
   },
-  "Meteor Crater, Arizona": {
-    "lat": 35.02713,
-    "lng": -111.01838
-  },
   "Miami, Florida": {
     "lat": 25.77416,
     "lng": -80.1936
@@ -611,11 +631,11 @@
     "lat": 36.22311,
     "lng": -121.38774
   },
-  "Mt. Rainier National Park": {
-    "lat": 46.85434,
-    "lng": -121.70633
+  "Mt. Fuji, Japan": {
+    "lat": 35.36284,
+    "lng": 138.73077
   },
-  "Mt. Rainier National Park, Washington": {
+  "Mt. Rainier National Park": {
     "lat": 46.85434,
     "lng": -121.70633
   },
@@ -631,6 +651,10 @@
     "lat": 10.08887,
     "lng": 77.05953
   },
+  "Muscat, Oman": {
+    "lat": 23.61236,
+    "lng": 58.59381
+  },
   "Muthala Pozhi Perumathura, Kerala": {
     "lat": 8.63393,
     "lng": 76.78594
@@ -638,6 +662,10 @@
   "Nagercoil, Tamil Nadu": {
     "lat": 8.18399,
     "lng": 77.43154
+  },
+  "Nara, Japan": {
+    "lat": 34.68454,
+    "lng": 135.80484
   },
   "National Mall, Washington DC": {
     "lat": 38.88984,
@@ -675,19 +703,11 @@
     "lat": 48.80835,
     "lng": -121.40622
   },
-  "North Cascades National Park, Washington": {
-    "lat": 48.80835,
-    "lng": -121.40622
-  },
   "Ohiopyle State Park": {
     "lat": 39.86708,
     "lng": -79.42948
   },
   "Olympic National Park": {
-    "lat": 47.78653,
-    "lng": -123.53605
-  },
-  "Olympic National Park, Washington": {
     "lat": 47.78653,
     "lng": -123.53605
   },
@@ -886,6 +906,10 @@
   "Toadstool Geological Park and Campground, Nebraska": {
     "lat": 42.85649,
     "lng": -103.58288
+  },
+  "Tokyo, Japan": {
+    "lat": 35.67686,
+    "lng": 139.76389
   },
   "Top Station, Munnar, Kerala": {
     "lat": 10.1234,

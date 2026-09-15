@@ -1,0 +1,8 @@
+country: Switzerland
+regions:
+- region: Switzerland
+  areas:
+  - area: Switzerland
+  - area: Zurich
+  - area: Jungfrau
+  - area: Rhine Falls
