@@ -1,40 +1,40 @@
 {
   "entries": [
     {
-      "id": "egypt-cairo-nile-river-cruise",
+      "id": "alexandria-governorate-alexandria",
       "country": "Egypt",
-      "region": "Egypt",
-      "area": "Cairo",
-      "type": "activity",
-      "name": "Nile River Cruise",
-      "location": "Cairo, Egypt"
-    },
-    {
-      "id": "egypt-giza-the-great-pyramid-of-giza",
-      "country": "Egypt",
-      "region": "Egypt",
-      "area": "Giza",
-      "type": "sight",
-      "name": "The Great Pyramid of Giza",
-      "location": "Giza, Egypt"
-    },
-    {
-      "id": "egypt-alexandria",
-      "country": "Egypt",
-      "region": "Egypt",
+      "region": "Alexandria Governorate",
       "area": "Alexandria",
       "type": "sight",
       "name": "Alexandria",
-      "location": "Alexandria, Egypt"
+      "location": "Alexandria, Alexandria Governorate"
     },
     {
-      "id": "egypt-luxor-valley-of-the-kings",
+      "id": "cairo-governorate-cairo-nile-river-cruise",
       "country": "Egypt",
-      "region": "Egypt",
+      "region": "Cairo Governorate",
+      "area": "Cairo",
+      "type": "activity",
+      "name": "Nile River Cruise",
+      "location": "Cairo, Cairo Governorate"
+    },
+    {
+      "id": "giza-governorate-giza-the-great-pyramid-of-giza",
+      "country": "Egypt",
+      "region": "Giza Governorate",
+      "area": "Giza",
+      "type": "sight",
+      "name": "The Great Pyramid of Giza",
+      "location": "Giza, Giza Governorate"
+    },
+    {
+      "id": "luxor-governorate-luxor-valley-of-the-kings",
+      "country": "Egypt",
+      "region": "Luxor Governorate",
       "area": "Luxor",
       "type": "sight",
       "name": "Valley of the Kings",
-      "location": "Luxor, Egypt"
+      "location": "Luxor, Luxor Governorate"
     },
     {
       "id": "delhi-red-fort",
@@ -946,18 +946,123 @@
       "location": "Agra, Uttar Pradesh"
     },
     {
-      "id": "japan-mt-fuji",
+      "id": "kyoto-prefecture-kyoto-arashiyama-bamboo-forest",
       "country": "Japan",
-      "region": "Japan",
+      "region": "Kyoto Prefecture",
+      "area": "Kyoto",
+      "type": "sight",
+      "name": "Arashiyama Bamboo Forest",
+      "location": "Kyoto, Kyoto Prefecture"
+    },
+    {
+      "id": "kyoto-prefecture-kyoto-h-kan-ji-temple-yasaka-pagoda",
+      "country": "Japan",
+      "region": "Kyoto Prefecture",
+      "area": "Kyoto",
+      "type": "sight",
+      "name": "Hōkan-ji Temple (Yasaka Pagoda)",
+      "location": "Kyoto, Kyoto Prefecture"
+    },
+    {
+      "id": "kyoto-prefecture-kyoto-yasaka-shrine",
+      "country": "Japan",
+      "region": "Kyoto Prefecture",
+      "area": "Kyoto",
+      "type": "sight",
+      "name": "Yasaka Shrine",
+      "location": "Kyoto, Kyoto Prefecture"
+    },
+    {
+      "id": "kyoto-prefecture-kyoto-fushimi-inari-taisha",
+      "country": "Japan",
+      "region": "Kyoto Prefecture",
+      "area": "Kyoto",
+      "type": "sight",
+      "name": "Fushimi Inari Taisha",
+      "location": "Kyoto, Kyoto Prefecture",
+      "notes": [
+        "Hundreds of traditional Japanese gates"
+      ]
+    },
+    {
+      "id": "kyoto-prefecture-kyoto-hanamikoji-street",
+      "country": "Japan",
+      "region": "Kyoto Prefecture",
+      "area": "Kyoto",
+      "type": "sight",
+      "name": "Hanamikoji Street",
+      "location": "Kyoto, Kyoto Prefecture",
+      "notes": [
+        "Geisha District"
+      ]
+    },
+    {
+      "id": "nara-prefecture-nara-nara-deer-park",
+      "country": "Japan",
+      "region": "Nara Prefecture",
+      "area": "Nara",
+      "type": "sight",
+      "name": "Nara Deer Park",
+      "location": "Nara, Nara Prefecture"
+    },
+    {
+      "id": "tokyo-shibuya-crossing",
+      "country": "Japan",
+      "region": "Tokyo",
+      "area": "Tokyo",
+      "type": "sight",
+      "name": "Shibuya Crossing",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": "tokyo-tokyo-tower",
+      "country": "Japan",
+      "region": "Tokyo",
+      "area": "Tokyo",
+      "type": "sight",
+      "name": "Tokyo Tower",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": "tokyo-shinjuku-gyoen-national-garden",
+      "country": "Japan",
+      "region": "Tokyo",
+      "area": "Tokyo",
+      "type": "sight",
+      "name": "Shinjuku Gyoen National Garden",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": "tokyo-meiji-jingu",
+      "country": "Japan",
+      "region": "Tokyo",
+      "area": "Tokyo",
+      "type": "sight",
+      "name": "Meiji Jingu",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": "tokyo-coco-curry",
+      "country": "Japan",
+      "region": "Tokyo",
+      "area": "Tokyo",
+      "type": "food",
+      "name": "Coco Curry",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": "yamanashi-prefecture-mt-fuji",
+      "country": "Japan",
+      "region": "Yamanashi Prefecture",
       "area": "Mt. Fuji",
       "type": "sight",
       "name": "Mt. Fuji",
-      "location": "Mt. Fuji, Japan"
+      "location": "Mt. Fuji, Yamanashi Prefecture"
     },
     {
-      "id": "japan-fujikawaguchiko",
+      "id": "yamanashi-prefecture-fujikawaguchiko",
       "country": "Japan",
-      "region": "Japan",
+      "region": "Yamanashi Prefecture",
       "area": "Fujikawaguchiko",
       "type": "sight",
       "name": "Fujikawaguchiko",
@@ -967,163 +1072,85 @@
       ]
     },
     {
-      "id": "japan-tokyo-shibuya-crossing",
-      "country": "Japan",
-      "region": "Japan",
-      "area": "Tokyo",
-      "type": "sight",
-      "name": "Shibuya Crossing",
-      "location": "Tokyo, Japan"
-    },
-    {
-      "id": "japan-tokyo-tokyo-tower",
-      "country": "Japan",
-      "region": "Japan",
-      "area": "Tokyo",
-      "type": "sight",
-      "name": "Tokyo Tower",
-      "location": "Tokyo, Japan"
-    },
-    {
-      "id": "japan-tokyo-shinjuku-gyoen-national-garden",
-      "country": "Japan",
-      "region": "Japan",
-      "area": "Tokyo",
-      "type": "sight",
-      "name": "Shinjuku Gyoen National Garden",
-      "location": "Tokyo, Japan"
-    },
-    {
-      "id": "japan-tokyo-meiji-jingu",
-      "country": "Japan",
-      "region": "Japan",
-      "area": "Tokyo",
-      "type": "sight",
-      "name": "Meiji Jingu",
-      "location": "Tokyo, Japan"
-    },
-    {
-      "id": "japan-tokyo-coco-curry",
-      "country": "Japan",
-      "region": "Japan",
-      "area": "Tokyo",
-      "type": "food",
-      "name": "Coco Curry",
-      "location": "Tokyo, Japan"
-    },
-    {
-      "id": "japan-kyoto-arashiyama-bamboo-forest",
-      "country": "Japan",
-      "region": "Japan",
-      "area": "Kyoto",
-      "type": "sight",
-      "name": "Arashiyama Bamboo Forest",
-      "location": "Kyoto, Japan"
-    },
-    {
-      "id": "japan-kyoto-h-kan-ji-temple-yasaka-pagoda",
-      "country": "Japan",
-      "region": "Japan",
-      "area": "Kyoto",
-      "type": "sight",
-      "name": "Hōkan-ji Temple (Yasaka Pagoda)",
-      "location": "Kyoto, Japan"
-    },
-    {
-      "id": "japan-kyoto-yasaka-shrine",
-      "country": "Japan",
-      "region": "Japan",
-      "area": "Kyoto",
-      "type": "sight",
-      "name": "Yasaka Shrine",
-      "location": "Kyoto, Japan"
-    },
-    {
-      "id": "japan-kyoto-fushimi-inari-taisha",
-      "country": "Japan",
-      "region": "Japan",
-      "area": "Kyoto",
-      "type": "sight",
-      "name": "Fushimi Inari Taisha",
-      "location": "Kyoto, Japan",
-      "notes": [
-        "Hundreds of traditional Japanese gates"
-      ]
-    },
-    {
-      "id": "japan-kyoto-hanamikoji-street",
-      "country": "Japan",
-      "region": "Japan",
-      "area": "Kyoto",
-      "type": "sight",
-      "name": "Hanamikoji Street",
-      "location": "Kyoto, Japan",
-      "notes": [
-        "Geisha District"
-      ]
-    },
-    {
-      "id": "japan-nara-nara-deer-park",
-      "country": "Japan",
-      "region": "Japan",
-      "area": "Nara",
-      "type": "sight",
-      "name": "Nara Deer Park",
-      "location": "Nara, Japan"
-    },
-    {
-      "id": "mexico-cancun-hotel-xcaret-arte",
+      "id": "quintana-roo-cancun-hotel-xcaret-arte",
       "country": "Mexico",
-      "region": "Mexico",
+      "region": "Quintana Roo",
       "area": "Cancun",
       "type": "stay",
       "name": "Hotel Xcaret Arte",
-      "location": "Cancun, Mexico"
+      "location": "Cancun, Quintana Roo"
     },
     {
-      "id": "oman-muscat",
+      "id": "muscat-governorate-muscat",
       "country": "Oman",
-      "region": "Oman",
+      "region": "Muscat Governorate",
       "area": "Muscat",
       "type": "sight",
       "name": "Muscat",
-      "location": "Muscat, Oman"
+      "location": "Muscat, Muscat Governorate"
     },
     {
-      "id": "saudi-arabia-jeddah-al-sharafeyah",
+      "id": "al-madinah-province-madinah",
       "country": "Saudi Arabia",
-      "region": "Saudi Arabia",
-      "area": "Jeddah",
-      "type": "sight",
-      "name": "Al Sharafeyah",
-      "location": "Jeddah, Saudi Arabia"
-    },
-    {
-      "id": "saudi-arabia-jeddah-corniche-beach",
-      "country": "Saudi Arabia",
-      "region": "Saudi Arabia",
-      "area": "Jeddah",
-      "type": "sight",
-      "name": "Corniche Beach",
-      "location": "Jeddah, Saudi Arabia"
-    },
-    {
-      "id": "saudi-arabia-makkah",
-      "country": "Saudi Arabia",
-      "region": "Saudi Arabia",
-      "area": "Makkah",
-      "type": "sight",
-      "name": "Makkah",
-      "location": "Makkah, Saudi Arabia"
-    },
-    {
-      "id": "saudi-arabia-madinah",
-      "country": "Saudi Arabia",
-      "region": "Saudi Arabia",
+      "region": "Al Madinah Province",
       "area": "Madinah",
       "type": "sight",
       "name": "Madinah",
-      "location": "Madinah, Saudi Arabia"
+      "location": "Madinah, Al Madinah Province"
+    },
+    {
+      "id": "makkah-province-jeddah-al-sharafeyah",
+      "country": "Saudi Arabia",
+      "region": "Makkah Province",
+      "area": "Jeddah",
+      "type": "sight",
+      "name": "Al Sharafeyah",
+      "location": "Jeddah, Makkah Province"
+    },
+    {
+      "id": "makkah-province-jeddah-corniche-beach",
+      "country": "Saudi Arabia",
+      "region": "Makkah Province",
+      "area": "Jeddah",
+      "type": "sight",
+      "name": "Corniche Beach",
+      "location": "Jeddah, Makkah Province"
+    },
+    {
+      "id": "makkah-province-makkah",
+      "country": "Saudi Arabia",
+      "region": "Makkah Province",
+      "area": "Makkah",
+      "type": "sight",
+      "name": "Makkah",
+      "location": "Makkah, Makkah Province"
+    },
+    {
+      "id": "canton-of-bern-jungfrau",
+      "country": "Switzerland",
+      "region": "Canton of Bern",
+      "area": "Jungfrau",
+      "type": "sight",
+      "name": "Jungfrau",
+      "location": "Jungfrau, Switzerland"
+    },
+    {
+      "id": "canton-of-schaffhausen-rhine-falls",
+      "country": "Switzerland",
+      "region": "Canton of Schaffhausen",
+      "area": "Rhine Falls",
+      "type": "sight",
+      "name": "Rhine Falls",
+      "location": "Rhine Falls, Switzerland"
+    },
+    {
+      "id": "canton-of-z-rich-zurich",
+      "country": "Switzerland",
+      "region": "Canton of Zürich",
+      "area": "Zurich",
+      "type": "sight",
+      "name": "Zurich",
+      "location": "Zurich, Switzerland"
     },
     {
       "id": "switzerland-switzerland",
@@ -1135,54 +1162,27 @@
       "location": "Switzerland"
     },
     {
-      "id": "switzerland-zurich",
-      "country": "Switzerland",
-      "region": "Switzerland",
-      "area": "Zurich",
-      "type": "sight",
-      "name": "Zurich",
-      "location": "Zurich, Switzerland"
-    },
-    {
-      "id": "switzerland-jungfrau",
-      "country": "Switzerland",
-      "region": "Switzerland",
-      "area": "Jungfrau",
-      "type": "sight",
-      "name": "Jungfrau",
-      "location": "Jungfrau, Switzerland"
-    },
-    {
-      "id": "switzerland-rhine-falls",
-      "country": "Switzerland",
-      "region": "Switzerland",
-      "area": "Rhine Falls",
-      "type": "sight",
-      "name": "Rhine Falls",
-      "location": "Rhine Falls, Switzerland"
-    },
-    {
-      "id": "united-arab-emirates-dubai-dubai-mall",
+      "id": "dubai-dubai-mall",
       "country": "United Arab Emirates",
-      "region": "United Arab Emirates",
+      "region": "Dubai",
       "area": "Dubai",
       "type": "sight",
       "name": "Dubai Mall",
       "location": "Dubai, United Arab Emirates"
     },
     {
-      "id": "united-arab-emirates-dubai-burj-khalifa",
+      "id": "dubai-burj-khalifa",
       "country": "United Arab Emirates",
-      "region": "United Arab Emirates",
+      "region": "Dubai",
       "area": "Dubai",
       "type": "sight",
       "name": "Burj Khalifa",
       "location": "Dubai, United Arab Emirates"
     },
     {
-      "id": "united-arab-emirates-dubai-palm-jumeirah",
+      "id": "dubai-palm-jumeirah",
       "country": "United Arab Emirates",
-      "region": "United Arab Emirates",
+      "region": "Dubai",
       "area": "Dubai",
       "type": "sight",
       "name": "Palm Jumeirah",

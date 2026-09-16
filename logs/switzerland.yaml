@@ -1,8 +1,17 @@
 country: Switzerland
 regions:
+- region: Canton of Bern
+  areas:
+  - area: Jungfrau
+    location: Jungfrau, Switzerland
+- region: Canton of Schaffhausen
+  areas:
+  - area: Rhine Falls
+    location: Rhine Falls, Switzerland
+- region: Canton of Zürich
+  areas:
+  - area: Zurich
+    location: Zurich, Switzerland
 - region: Switzerland
   areas:
   - area: Switzerland
-  - area: Zurich
-  - area: Jungfrau
-  - area: Rhine Falls

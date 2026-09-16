@@ -1,14 +1,20 @@
 country: Egypt
 regions:
-- region: Egypt
+- region: Alexandria Governorate
+  areas:
+  - area: Alexandria
+- region: Cairo Governorate
   areas:
   - area: Cairo
     places:
     - activity: Nile River Cruise
+- region: Giza Governorate
+  areas:
   - area: Giza
     places:
     - place: The Great Pyramid of Giza
-  - area: Alexandria
+- region: Luxor Governorate
+  areas:
   - area: Luxor
     places:
     - place: Valley of the Kings

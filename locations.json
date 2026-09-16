@@ -27,7 +27,7 @@
     "lat": 9.50034,
     "lng": 76.41234
   },
-  "Alexandria, Egypt": {
+  "Alexandria, Alexandria Governorate": {
     "lat": 31.19918,
     "lng": 29.89517
   },
@@ -135,7 +135,7 @@
     "lat": 15.01947,
     "lng": 74.00163
   },
-  "Cairo, Egypt": {
+  "Cairo, Cairo Governorate": {
     "lat": 30.04439,
     "lng": 31.23573
   },
@@ -143,7 +143,7 @@
     "lat": 15.54249,
     "lng": 73.75556
   },
-  "Cancun, Mexico": {
+  "Cancun, Quintana Roo": {
     "lat": 21.15275,
     "lng": -86.84258
   },
@@ -327,7 +327,7 @@
     "lat": 39.8309,
     "lng": -77.23101
   },
-  "Giza, Egypt": {
+  "Giza, Giza Governorate": {
     "lat": 29.98708,
     "lng": 31.21181
   },
@@ -431,7 +431,7 @@
     "lat": 48.00738,
     "lng": -88.82899
   },
-  "Jeddah, Saudi Arabia": {
+  "Jeddah, Makkah Province": {
     "lat": 21.55044,
     "lng": 39.17424
   },
@@ -491,7 +491,7 @@
     "lat": 8.88729,
     "lng": 76.98214
   },
-  "Kyoto, Japan": {
+  "Kyoto, Kyoto Prefecture": {
     "lat": 35.01158,
     "lng": 135.76814
   },
@@ -523,7 +523,7 @@
     "lat": 40.71355,
     "lng": -74.00543
   },
-  "Luxor, Egypt": {
+  "Luxor, Luxor Governorate": {
     "lat": 25.7021,
     "lng": 32.64719
   },
@@ -531,7 +531,7 @@
     "lat": 45.7839,
     "lng": -84.72783
   },
-  "Madinah, Saudi Arabia": {
+  "Madinah, Al Madinah Province": {
     "lat": 24.47115,
     "lng": 39.61112
   },
@@ -543,7 +543,7 @@
     "lat": 43.07469,
     "lng": -89.38417
   },
-  "Makkah, Saudi Arabia": {
+  "Makkah, Makkah Province": {
     "lat": 21.42085,
     "lng": 39.82687
   },
@@ -631,9 +631,9 @@
     "lat": 36.22311,
     "lng": -121.38774
   },
-  "Mt. Fuji, Japan": {
-    "lat": 35.36284,
-    "lng": 138.73077
+  "Mt. Fuji, Yamanashi Prefecture": {
+    "lat": 35.48355,
+    "lng": 138.79545
   },
   "Mt. Rainier National Park": {
     "lat": 46.85434,
@@ -651,7 +651,7 @@
     "lat": 10.08887,
     "lng": 77.05953
   },
-  "Muscat, Oman": {
+  "Muscat, Muscat Governorate": {
     "lat": 23.61236,
     "lng": 58.59381
   },
@@ -663,7 +663,7 @@
     "lat": 8.18399,
     "lng": 77.43154
   },
-  "Nara, Japan": {
+  "Nara, Nara Prefecture": {
     "lat": 34.68454,
     "lng": 135.80484
   },

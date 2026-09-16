@@ -1,18 +1,7 @@
 country: Japan
 regions:
-- region: Japan
+- region: Kyoto Prefecture
   areas:
-  - area: Mt. Fuji
-  - area: Fujikawaguchiko
-    notes:
-    - Shinkansen from Tokyo
-  - area: Tokyo
-    places:
-    - place: Shibuya Crossing
-    - place: Tokyo Tower
-    - place: Shinjuku Gyoen National Garden
-    - place: Meiji Jingu
-    - food: Coco Curry
   - area: Kyoto
     places:
     - place: Arashiyama Bamboo Forest
@@ -24,6 +13,24 @@ regions:
     - place: Hanamikoji Street
       notes:
       - Geisha District
+- region: Nara Prefecture
+  areas:
   - area: Nara
     places:
     - place: Nara Deer Park
+- region: Tokyo
+  areas:
+  - area: Tokyo
+    places:
+    - place: Shibuya Crossing
+    - place: Tokyo Tower
+    - place: Shinjuku Gyoen National Garden
+    - place: Meiji Jingu
+    - food: Coco Curry
+- region: Yamanashi Prefecture
+  areas:
+  - area: Mt. Fuji
+  - area: Fujikawaguchiko
+    location: Fujikawaguchiko, Japan
+    notes:
+    - Shinkansen from Tokyo
