@@ -459,6 +459,10 @@
     "lat": 47.79871,
     "lng": -122.49819
   },
+  "Kinzua Bridge State Park": {
+    "lat": 41.759,
+    "lng": -78.58349
+  },
   "Kodaikanal, Tamil Nadu": {
     "lat": 10.23371,
     "lng": 77.49197
@@ -695,6 +699,10 @@
     "lat": 37.8967,
     "lng": -81.043
   },
+  "Niagara Falls, Canada": {
+    "lat": 43.10656,
+    "lng": -79.0639
+  },
   "Niagara Falls, New York": {
     "lat": 43.08484,
     "lng": -79.07018
@@ -915,6 +923,10 @@
     "lat": 10.1234,
     "lng": 77.2451
   },
+  "Toronto, Canada": {
+    "lat": 43.65348,
+    "lng": -79.38393
+  },
   "Trivandrum City, Kerala": {
     "lat": 8.4834,
     "lng": 76.94746
@@ -954,6 +966,10 @@
   "Washington State, United States": {
     "lat": 47.7511,
     "lng": -120.7401
+  },
+  "Watkins Glen State Park": {
+    "lat": 42.3615,
+    "lng": -76.92885
   },
   "Wind Cave National Park, South Dakota": {
     "lat": 43.57887,

@@ -7,6 +7,48 @@
   "gridColumns": 4,
   "photos": [
     {
+      "src": "photos/2026-10-04_Niagara_Falls,_Canada.jpg",
+      "caption": "",
+      "location": "Niagara Falls, Canada",
+      "date": "2026-10-04",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-03_Toronto,_Canada_1.jpg",
+      "caption": "",
+      "location": "Toronto, Canada",
+      "date": "2026-10-03",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-03_Toronto,_Canada_2.JPG",
+      "caption": "",
+      "location": "Toronto, Canada",
+      "date": "2026-10-03",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-03_Toronto,_Canada_3.JPG",
+      "caption": "",
+      "location": "Toronto, Canada",
+      "date": "2026-10-03",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-02_Kinzua_Bridge_State_Park.JPG",
+      "caption": "",
+      "location": "Kinzua Bridge State Park",
+      "date": "2026-10-02",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-02_Watkins_Glen_State_Park.jpg",
+      "caption": "",
+      "location": "Watkins Glen State Park",
+      "date": "2026-10-02",
+      "map": ""
+    },
+    {
       "src": "photos/2026-09-12_North_Cascades_National_Park_1.JPG",
       "caption": "",
       "location": "North Cascades National Park",
