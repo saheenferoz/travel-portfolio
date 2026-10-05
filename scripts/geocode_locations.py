@@ -4,7 +4,9 @@ Geocode photo and travel-log locations for the map page.
 
 Reads unique `location` values from photos.json and logs.json, skips ones
 already present in locations.json, looks up the rest via the free Nominatim
-(OpenStreetMap) API, and rewrites locations.json sorted by name.
+(OpenStreetMap) API, and rewrites locations.json sorted by name. Any
+locations.json entry no longer referenced by either file is dropped, so
+stale pins never linger after a photo or log entry is edited or removed.
 
 Failed lookups are logged and skipped (exit code stays 0) so the sync
 workflow never breaks; fix those by hand-editing locations.json.
@@ -81,6 +83,11 @@ def main() -> None:
     wanted |= location_names(root / "logs.json", "entries", required=False)
     missing = sorted(wanted - set(known))
 
+    pruned = sorted(set(known) - wanted)
+    for name in pruned:
+        del known[name]
+        print(f"pruned: {name!r} (no longer referenced)")
+
     failed = 0
     for i, name in enumerate(missing):
         if i > 0:
@@ -106,7 +113,7 @@ def main() -> None:
     )
     print(
         f"done: {len(missing) - failed} added, {failed} failed, "
-        f"{len(out)} total in {locations_path.name}"
+        f"{len(pruned)} pruned, {len(out)} total in {locations_path.name}"
     )
 
 

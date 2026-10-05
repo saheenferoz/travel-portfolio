@@ -412,42 +412,43 @@ regions:
     - Planetarium
 - region: New York
   areas:
-  - area: Staten Island Ferry
-    notes:
-    - Free
-    - Try to get to the very front of the boat
-  - area: Statue of Liberty
-  - area: Intrepid Museum
-    notes:
-    - Real space shuttle
-  - area: Brooklyn Bridge
-  - area: Vanderbilt Mansion National Historic Site
-  - area: Central Park
-    location: Central Park, New York
+  - area: New York City
     places:
+    - place: Staten Island Ferry
+      notes:
+      - Free
+      - Try to get to the very front of the boat
+    - place: Statue of Liberty
+    - place: Intrepid Museum
+      notes:
+      - Real space shuttle
+    - place: Brooklyn Bridge
     - place: Central Park
     - place: American Museum of Natural History
       notes:
       - Where "Night at the Museum" was shot
-  - area: Midtown
-    location: Midtown, New York
-    places:
     - place: Times Square
     - place: The Flatiron Building
     - place: Empire State Building
     - place: Chrysler Building
-  - area: Hudson Yards
-    location: Hudson Yards, New York
-    places:
     - place: The Vessel
     - place: The High Line
-  - area: Lower Manhattan
-    location: Lower Manhattan, New York
-    places:
     - place: Battery Park
     - place: The Oculus
     - place: World Trade Center
+    - food: Din Tai Fung
+      dishes:
+      - dish: Chicken Xiao Long Bao
+      - dish: Steamed Buns - Chicken and Mushroom
+      - dish: Wok Fried Noodles - Chicken
+      - dish: Steamed Chocolate Buns
+    - food: Ayada
+      dishes:
+      - dish: Mango Sticky Rice
+      - dish: Pad Kraprow Ground Chicken
+  - area: Vanderbilt Mansion National Historic Site
   - area: Niagara Falls
+  - area: Watkins Glen State Park
 - region: North Carolina
   areas:
   - area: Raleigh
@@ -488,6 +489,7 @@ regions:
     - trail: Cleetwood Cove
 - region: Pennsylvania
   areas:
+  - area: Kinzua Bridge State Park
   - area: Presque Isle State Park
   - area: Gettysburg
     notes:
@@ -827,7 +829,7 @@ regions:
   - area: Washburn
   - area: Cave of the Mounds
   - area: Madison
-    location: Madison Wisconsin
+    location: Madison, Wisconsin
     places:
     - place: Memorial Union
     - place: Union South

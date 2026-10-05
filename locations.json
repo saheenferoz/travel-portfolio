@@ -395,10 +395,6 @@
     "lat": 29.75894,
     "lng": -95.3677
   },
-  "Hudson Yards, New York": {
-    "lat": 40.75591,
-    "lng": -74.00053
-  },
   "Hudson-Meng Bison Bonebed, Nebraska": {
     "lat": 42.82861,
     "lng": -103.6015
@@ -434,10 +430,6 @@
   "Jeddah, Makkah Province": {
     "lat": 21.55044,
     "lng": 39.17424
-  },
-  "Judge C.R. Magney State Park, Minnesota": {
-    "lat": 47.85107,
-    "lng": -90.06394
   },
   "Jungfrau, Switzerland": {
     "lat": 46.53677,
@@ -523,10 +515,6 @@
     "lat": 38.25424,
     "lng": -85.75941
   },
-  "Lower Manhattan, New York": {
-    "lat": 40.71355,
-    "lng": -74.00543
-  },
   "Luxor, Luxor Governorate": {
     "lat": 25.7021,
     "lng": 32.64719
@@ -602,10 +590,6 @@
   "Miami, Florida": {
     "lat": 25.77416,
     "lng": -80.1936
-  },
-  "Midtown, New York": {
-    "lat": 40.75512,
-    "lng": -73.98478
   },
   "Milwaukee, Wisconsin": {
     "lat": 43.03865,
@@ -699,6 +683,10 @@
     "lat": 37.8967,
     "lng": -81.043
   },
+  "New York City, New York": {
+    "lat": 40.71273,
+    "lng": -74.00602
+  },
   "Niagara Falls, Canada": {
     "lat": 43.10656,
     "lng": -79.0639
@@ -706,6 +694,10 @@
   "Niagara Falls, New York": {
     "lat": 43.08484,
     "lng": -79.07018
+  },
+  "Niagara Falls, Ontario": {
+    "lat": 43.10656,
+    "lng": -79.0639
   },
   "North Cascades National Park": {
     "lat": 48.80835,
@@ -746,10 +738,6 @@
   "Pikes Peak": {
     "lat": 38.8404,
     "lng": -105.04395
-  },
-  "Pine Creek Gorge, Pennsylvania": {
-    "lat": 41.72563,
-    "lng": -77.42828
   },
   "Pittsburgh": {
     "lat": 40.4407,
@@ -924,6 +912,10 @@
     "lng": 77.2451
   },
   "Toronto, Canada": {
+    "lat": 43.65348,
+    "lng": -79.38393
+  },
+  "Toronto, Ontario": {
     "lat": 43.65348,
     "lng": -79.38393
   },

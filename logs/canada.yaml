@@ -1,0 +1,27 @@
+country: Canada
+regions:
+- region: Ontario
+  areas:
+  - area: Niagara Falls
+    places:
+    - place: Table Rock Welcome Centre
+    - food: Kanthari
+      dishes:
+      - dish: Porotta
+      - dish: Beef roast
+      notes:
+      - Kerala restaurant. Met Robin the owner.
+  - area: Toronto
+    places:
+    - place: Brookfield Place
+    - place: Flatiron Building
+    - place: St. Lawrence Market
+    - place: Ward's Island
+    - place: Centre Island
+    - place: Casa Loma
+    - place: Baldwin Steps
+    - place: Pocket Planet Canada
+    - place: Sankofa Square
+    - place: Eaton Centre
+    - place: Nathan Phillips Square
+    - place: CN Tower
