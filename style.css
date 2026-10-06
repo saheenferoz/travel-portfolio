@@ -926,10 +926,13 @@ body.map-page .avatar {
 
 /* ---- Logs ---- */
 
+/* Also wraps the single-child region page, where this gap has no visible
+   effect; the index's .log-country sections handle their own spacing so
+   collapsed headers can stack as a tight accordion. */
 .log-content {
   display: flex;
   flex-direction: column;
-  gap: 56px;
+  gap: 0;
   max-width: 46rem;
   margin-inline: auto;
 }
@@ -943,6 +946,61 @@ body.map-page .avatar {
   padding-bottom: 10px;
   margin-bottom: 30px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.log-country-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+  background: none;
+  border: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  padding: 18px 2px;
+  font-family: inherit;
+  cursor: pointer;
+  color: var(--text-secondary);
+  transition: color 0.15s ease;
+}
+
+.log-country:first-child .log-country-toggle {
+  padding-top: 0;
+}
+
+.log-country-toggle:hover,
+.log-country-toggle:focus-visible {
+  color: var(--text-primary);
+}
+
+.log-country-chevron {
+  flex-shrink: 0;
+  width: 8px;
+  height: 8px;
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: rotate(-45deg);
+  transition: transform 0.2s ease;
+}
+
+.log-country-toggle[aria-expanded="true"] .log-country-chevron {
+  transform: rotate(45deg);
+}
+
+.log-country-body {
+  overflow: hidden;
+  padding: 0 0 26px;
+}
+
+/* The first region's link carries the same 15px padding as every other
+   row for a consistent click target; trim just the top so it doesn't
+   stack with the toggle's own padding and look like a double gap. */
+.log-country-body .log-index-item:first-child .log-index-link {
+  padding-top: 4px;
+}
+
+.log-country-body[hidden] {
+  display: none;
 }
 
 .log-region + .log-region {
@@ -1115,6 +1173,13 @@ body.map-page .avatar {
 
 .log-index-list {
   list-style: none;
+}
+
+/* Countries without a collapsible toggle (region name matches country name)
+   render their list directly in .log-country, so it needs its own spacing
+   from neighboring accordion rows. */
+.log-country > .log-index-list {
+  padding: 20px 0;
 }
 
 .log-index-item + .log-index-item {

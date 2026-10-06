@@ -62,19 +62,63 @@
     return item;
   }
 
-  function renderIndex(countries) {
+  /** Toggle buttons share this so expanding one collapses whichever other
+      country was open; starts with none open unless `openId` names one. */
+  function renderIndex(countries, openId) {
     document.title = "Saheen Feroz — Logs";
+    var current = null;
+
+    function setExpanded(entry, expanded) {
+      entry.toggle.setAttribute("aria-expanded", expanded ? "true" : "false");
+      entry.body.hidden = !expanded;
+    }
+
+    function expand(entry) {
+      if (current && current !== entry) setExpanded(current, false);
+      setExpanded(entry, true);
+      current = entry;
+    }
+
     countries.forEach(function (country) {
       var section = el("section", "log-country");
-      if (country.showHeading) {
-        section.id = country.id;
-        section.appendChild(el("h2", "log-country-heading", country.name));
-      }
       var list = el("ul", "log-index-list");
       country.regions.forEach(function (region) {
         list.appendChild(renderIndexLink(region));
       });
-      section.appendChild(list);
+
+      if (country.showHeading) {
+        section.id = country.id;
+
+        var body = el("div", "log-country-body");
+        body.appendChild(list);
+
+        var toggle = el("button", "log-country-heading log-country-toggle");
+        toggle.type = "button";
+        toggle.setAttribute("aria-expanded", "false");
+        toggle.appendChild(el("span", "log-country-name", country.name));
+        toggle.appendChild(el("span", "log-country-chevron"));
+
+        var entry = { toggle: toggle, body: body };
+        setExpanded(entry, false);
+
+        toggle.addEventListener("click", function () {
+          var expanded = toggle.getAttribute("aria-expanded") === "true";
+          if (expanded) {
+            setExpanded(entry, false);
+            current = null;
+          } else {
+            expand(entry);
+          }
+        });
+
+        section.appendChild(toggle);
+        section.appendChild(body);
+
+        if (country.id === openId) expand(entry);
+      } else {
+        section.appendChild(list);
+      }
+
       content.appendChild(section);
     });
   }
@@ -187,7 +231,7 @@
           el("p", "log-empty", "No logs for that place yet. Here is everywhere else.")
         );
       }
-      renderIndex(countries);
+      renderIndex(countries, anchor);
     }
 
     // A deep link cannot scroll to an anchor that did not exist at load time.
