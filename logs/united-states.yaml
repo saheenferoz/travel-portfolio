@@ -435,7 +435,7 @@ regions:
     - place: The High Line
     - place: Battery Park
     - place: The Oculus
-    - place: World Trade Center
+    - place: One World Trade Center
     - food: Din Tai Fung
       dishes:
       - dish: Chicken Xiao Long Bao
@@ -829,7 +829,7 @@ regions:
   - area: Washburn
   - area: Cave of the Mounds
   - area: Madison
-    location: Madison, Wisconsin
+    location: Madison Wisconsin
     places:
     - place: Memorial Union
     - place: Union South

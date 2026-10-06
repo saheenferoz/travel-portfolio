@@ -3,6 +3,7 @@ regions:
 - region: Ontario
   areas:
   - area: Niagara Falls
+    location: Niagara Falls, Canada
     places:
     - place: Table Rock Welcome Centre
     - food: Kanthari
@@ -12,6 +13,7 @@ regions:
       notes:
       - Kerala restaurant. Met Robin the owner.
   - area: Toronto
+    location: Toronto, Canada
     places:
     - place: Brookfield Place
     - place: Flatiron Building

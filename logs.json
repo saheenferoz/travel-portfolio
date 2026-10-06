@@ -7,7 +7,7 @@
       "area": "Niagara Falls",
       "type": "sight",
       "name": "Table Rock Welcome Centre",
-      "location": "Niagara Falls, Ontario"
+      "location": "Niagara Falls, Canada"
     },
     {
       "id": "ontario-niagara-falls-kanthari",
@@ -16,7 +16,7 @@
       "area": "Niagara Falls",
       "type": "food",
       "name": "Kanthari",
-      "location": "Niagara Falls, Ontario",
+      "location": "Niagara Falls, Canada",
       "items": [
         {
           "name": "Porotta",
@@ -38,7 +38,7 @@
       "area": "Toronto",
       "type": "sight",
       "name": "Brookfield Place",
-      "location": "Toronto, Ontario"
+      "location": "Toronto, Canada"
     },
     {
       "id": "ontario-toronto-flatiron-building",
@@ -47,7 +47,7 @@
       "area": "Toronto",
       "type": "sight",
       "name": "Flatiron Building",
-      "location": "Toronto, Ontario"
+      "location": "Toronto, Canada"
     },
     {
       "id": "ontario-toronto-st-lawrence-market",
@@ -56,7 +56,7 @@
       "area": "Toronto",
       "type": "sight",
       "name": "St. Lawrence Market",
-      "location": "Toronto, Ontario"
+      "location": "Toronto, Canada"
     },
     {
       "id": "ontario-toronto-ward-s-island",
@@ -65,7 +65,7 @@
       "area": "Toronto",
       "type": "sight",
       "name": "Ward's Island",
-      "location": "Toronto, Ontario"
+      "location": "Toronto, Canada"
     },
     {
       "id": "ontario-toronto-centre-island",
@@ -74,7 +74,7 @@
       "area": "Toronto",
       "type": "sight",
       "name": "Centre Island",
-      "location": "Toronto, Ontario"
+      "location": "Toronto, Canada"
     },
     {
       "id": "ontario-toronto-casa-loma",
@@ -83,7 +83,7 @@
       "area": "Toronto",
       "type": "sight",
       "name": "Casa Loma",
-      "location": "Toronto, Ontario"
+      "location": "Toronto, Canada"
     },
     {
       "id": "ontario-toronto-baldwin-steps",
@@ -92,7 +92,7 @@
       "area": "Toronto",
       "type": "sight",
       "name": "Baldwin Steps",
-      "location": "Toronto, Ontario"
+      "location": "Toronto, Canada"
     },
     {
       "id": "ontario-toronto-pocket-planet-canada",
@@ -101,7 +101,7 @@
       "area": "Toronto",
       "type": "sight",
       "name": "Pocket Planet Canada",
-      "location": "Toronto, Ontario"
+      "location": "Toronto, Canada"
     },
     {
       "id": "ontario-toronto-sankofa-square",
@@ -110,7 +110,7 @@
       "area": "Toronto",
       "type": "sight",
       "name": "Sankofa Square",
-      "location": "Toronto, Ontario"
+      "location": "Toronto, Canada"
     },
     {
       "id": "ontario-toronto-eaton-centre",
@@ -119,7 +119,7 @@
       "area": "Toronto",
       "type": "sight",
       "name": "Eaton Centre",
-      "location": "Toronto, Ontario"
+      "location": "Toronto, Canada"
     },
     {
       "id": "ontario-toronto-nathan-phillips-square",
@@ -128,7 +128,7 @@
       "area": "Toronto",
       "type": "sight",
       "name": "Nathan Phillips Square",
-      "location": "Toronto, Ontario"
+      "location": "Toronto, Canada"
     },
     {
       "id": "ontario-toronto-cn-tower",
@@ -137,7 +137,7 @@
       "area": "Toronto",
       "type": "sight",
       "name": "CN Tower",
-      "location": "Toronto, Ontario"
+      "location": "Toronto, Canada"
     },
     {
       "id": "alexandria-governorate-alexandria",
@@ -2946,7 +2946,7 @@
       "area": "New York City",
       "type": "sight",
       "name": "Staten Island Ferry",
-      "location": "Staten Island Ferry, New York",
+      "location": "New York City, New York",
       "notes": [
         "Free",
         "Try to get to the very front of the boat"
@@ -2959,7 +2959,7 @@
       "area": "New York City",
       "type": "sight",
       "name": "Statue of Liberty",
-      "location": "Statue of Liberty, New York"
+      "location": "New York City, New York"
     },
     {
       "id": "new-york-new-york-city-intrepid-museum",
@@ -2968,7 +2968,7 @@
       "area": "New York City",
       "type": "sight",
       "name": "Intrepid Museum",
-      "location": "Intrepid Museum, New York",
+      "location": "New York City, New York",
       "notes": [
         "Real space shuttle"
       ]
@@ -2980,7 +2980,7 @@
       "area": "New York City",
       "type": "sight",
       "name": "Brooklyn Bridge",
-      "location": "Brooklyn Bridge, New York"
+      "location": "New York City, New York"
     },
     {
       "id": "new-york-new-york-city-central-park",
@@ -2989,7 +2989,7 @@
       "area": "New York City",
       "type": "sight",
       "name": "Central Park",
-      "location": "Central Park, New York"
+      "location": "New York City, New York"
     },
     {
       "id": "new-york-new-york-city-american-museum-of-natural-history",
@@ -3076,12 +3076,12 @@
       "location": "New York City, New York"
     },
     {
-      "id": "new-york-new-york-city-world-trade-center",
+      "id": "new-york-new-york-city-one-world-trade-center",
       "country": "United States",
       "region": "New York",
       "area": "New York City",
       "type": "sight",
-      "name": "World Trade Center",
+      "name": "One World Trade Center",
       "location": "New York City, New York"
     },
     {
@@ -5068,7 +5068,7 @@
       "area": "Madison",
       "type": "sight",
       "name": "Memorial Union",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-union-south",
@@ -5077,7 +5077,7 @@
       "area": "Madison",
       "type": "sight",
       "name": "Union South",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-bascom-hill",
@@ -5086,7 +5086,7 @@
       "area": "Madison",
       "type": "sight",
       "name": "Bascom Hill",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-lake-mendota",
@@ -5095,7 +5095,7 @@
       "area": "Madison",
       "type": "sight",
       "name": "Lake Mendota",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-estacion-inka",
@@ -5104,7 +5104,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Estacion Inka",
-      "location": "Madison, Wisconsin",
+      "location": "Madison Wisconsin",
       "items": [
         {
           "name": "Rotisserie chicken",
@@ -5123,7 +5123,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Mirch Masala",
-      "location": "Madison, Wisconsin",
+      "location": "Madison Wisconsin",
       "items": [
         {
           "name": "Chicken korma",
@@ -5138,7 +5138,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Der Rathskeller",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-cheba-hut",
@@ -5147,7 +5147,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Cheba Hut",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-dotty-dumpling-s-dowry",
@@ -5156,7 +5156,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Dotty Dumpling's Dowry",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-paul-s-pel-meni",
@@ -5165,7 +5165,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Paul's Pel'meni",
-      "location": "Madison, Wisconsin",
+      "location": "Madison Wisconsin",
       "items": [
         {
           "name": "Potato dumplings with the works",
@@ -5180,7 +5180,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Strada",
-      "location": "Madison, Wisconsin",
+      "location": "Madison Wisconsin",
       "items": [
         {
           "name": "Thai chicken pizza",
@@ -5195,7 +5195,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Ginger Root",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-naf-naf",
@@ -5204,7 +5204,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Naf Naf",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-madison-sencha-tea-bar",
@@ -5213,7 +5213,7 @@
       "area": "Madison",
       "type": "food",
       "name": "Sencha Tea Bar",
-      "location": "Madison, Wisconsin"
+      "location": "Madison Wisconsin"
     },
     {
       "id": "wisconsin-bayfield-lake-trout",

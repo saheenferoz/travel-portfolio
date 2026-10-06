@@ -119,10 +119,6 @@
     "lat": 8.75694,
     "lng": 77.18889
   },
-  "Brooklyn Bridge, New York": {
-    "lat": 40.70622,
-    "lng": -73.99702
-  },
   "Bryce Canyon National Park": {
     "lat": 37.57079,
     "lng": -112.18559
@@ -166,10 +162,6 @@
   "Cave of the Mounds": {
     "lat": 43.01674,
     "lng": -89.81486
-  },
-  "Central Park, New York": {
-    "lat": 40.78277,
-    "lng": -73.96536
   },
   "Centralia, Pennsylvania": {
     "lat": 40.80423,
@@ -419,10 +411,6 @@
     "lat": 48.60103,
     "lng": -93.41059
   },
-  "Intrepid Museum, New York": {
-    "lat": 40.7646,
-    "lng": -73.9996
-  },
   "Isle Royale National Park": {
     "lat": 48.00738,
     "lng": -88.82899
@@ -530,10 +518,6 @@
   "Madison Wisconsin": {
     "lat": 43.07305,
     "lng": -89.40123
-  },
-  "Madison, Wisconsin": {
-    "lat": 43.07469,
-    "lng": -89.38417
   },
   "Makkah, Makkah Province": {
     "lat": 21.42085,
@@ -694,10 +678,6 @@
   "Niagara Falls, New York": {
     "lat": 43.08484,
     "lng": -79.07018
-  },
-  "Niagara Falls, Ontario": {
-    "lat": 43.10656,
-    "lng": -79.0639
   },
   "North Cascades National Park": {
     "lat": 48.80835,
@@ -863,17 +843,9 @@
     "lat": 47.2001,
     "lng": -91.36702
   },
-  "Staten Island Ferry, New York": {
-    "lat": 40.64243,
-    "lng": -74.07459
-  },
   "Staten Island, New York": {
     "lat": 40.58346,
     "lng": -74.1496
-  },
-  "Statue of Liberty, New York": {
-    "lat": 40.68925,
-    "lng": -74.04455
   },
   "Steamtown National Historic Site": {
     "lat": 41.40796,
@@ -912,10 +884,6 @@
     "lng": 77.2451
   },
   "Toronto, Canada": {
-    "lat": 43.65348,
-    "lng": -79.38393
-  },
-  "Toronto, Ontario": {
     "lat": 43.65348,
     "lng": -79.38393
   },
