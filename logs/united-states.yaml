@@ -402,6 +402,18 @@ regions:
     - place: Luxor Hotel & Casino (Pyramid)
     - place: The Sphere
   - area: Hoover Dam
+- region: New Hampshire
+  areas:
+  - area: Conway
+  - area: Franconia Notch State Park
+    places:
+    - place: Artist's Bluff
+  - area: Sugar Hill
+    places:
+    - food: Polly's Pancake Parlor
+  - area: New Hampshire
+    places:
+    - drive: Kancamagus Highway
 - region: New Jersey
   areas:
   - area: Hoboken
@@ -410,6 +422,25 @@ regions:
   - area: Liberty Science Center
     notes:
     - Planetarium
+  - area: Parsippany
+    places:
+    - food: A2B Indian Veg Restaurant
+    - food: Tandoori Flames
+    - food: Rajni Indian Cuisine
+  - area: Journal Square
+    places:
+    - food: Misree Chai
+      dishes:
+      - dish: Mango Milk Tea
+        verdict: Pretty Good
+    - food: Vatan Indian Vegetarian Cuisine & Bakery
+      dishes:
+      - dish: Dahi Puri
+        verdict: Pretty Good
+      - dish: Pani Puri
+        verdict: Pretty Good
+      - dish: Gobi Manchurian Roll
+        verdict: Pretty Good
 - region: New York
   areas:
   - area: New York City
@@ -421,7 +452,7 @@ regions:
     - place: Statue of Liberty
     - place: Intrepid Museum
       notes:
-      - Real space shuttle
+      - Space Shuttle Enterprise
     - place: Brooklyn Bridge
     - place: Central Park
     - place: American Museum of Natural History
@@ -446,6 +477,20 @@ regions:
       dishes:
       - dish: Mango Sticky Rice
       - dish: Pad Kraprow Ground Chicken
+    - place: 9/11 Memorial
+    - food: Mitr Thai Restaurant
+  - area: New Windsor
+    places:
+    - food: Citrus Restaurant (Indian)
+      dishes:
+      - dish: Chicken Korma
+        verdict: Never Again
+  - area: Albany
+    places:
+    - food: Sadudee Thai Food
+      dishes:
+      - dish: Masamaan Curry
+        verdict: Pretty Good
   - area: Vanderbilt Mansion National Historic Site
   - area: Niagara Falls
   - area: Watkins Glen State Park
@@ -505,6 +550,8 @@ regions:
   - area: Flight 93 National Memorial
   - area: Pittsburgh
     places:
+    - place: Allegheny Observatory
+    - place: Steepest Street in the US
     - place: Schenley Park
     - place: National Aviary
     - place: Phipps Conservatory and Botanical Gardens
@@ -696,6 +743,23 @@ regions:
     - trail: Hickman Bridge Trail
     - trail: Grand Wash
     - food: Curry Pizza
+- region: Vermont
+  areas:
+  - area: Waterbury
+    places:
+    - place: Ben & Jerry's Ice Cream Factory
+    - food: Cold Hollow Cider Mill
+      dishes:
+      - dish: Fresh Apple Cider
+      - dish: Apple Cider Donuts
+      - dish: Maple Creemee
+  - area: Stowe
+  - area: Woodstock
+    places:
+    - place: Sugarbush Farm
+    - place: Quechee Gorge
+    - place: Marsh-Billings-Rockefeller National Historical Park
+  - area: Jewell Brook Site 1 Reservoir
 - region: Virginia
   areas:
   - area: Shenandoah National Park

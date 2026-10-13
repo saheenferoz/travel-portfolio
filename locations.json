@@ -27,6 +27,10 @@
     "lat": 9.50034,
     "lng": 76.41234
   },
+  "Albany, New York": {
+    "lat": 42.65117,
+    "lng": -73.75497
+  },
   "Alexandria, Alexandria Governorate": {
     "lat": 31.19918,
     "lng": 29.89517
@@ -218,6 +222,10 @@
   "Congaree National Park, South Carolina": {
     "lat": 33.79416,
     "lng": -80.76365
+  },
+  "Conway, New Hampshire": {
+    "lat": 44.00055,
+    "lng": -71.07296
   },
   "Courtallam Five Falls, Tamil Nadu": {
     "lat": 8.93262,
@@ -422,6 +430,14 @@
   "Jeddah, Makkah Province": {
     "lat": 21.55044,
     "lng": 39.17424
+  },
+  "Jewell Brook Site 1 Reservoir, Vermont": {
+    "lat": 43.36149,
+    "lng": -72.72344
+  },
+  "Journal Square, New Jersey": {
+    "lat": 40.73101,
+    "lng": -74.06229
   },
   "Jungfrau, Switzerland": {
     "lat": 46.53677,
@@ -663,6 +679,10 @@
     "lat": 39.61599,
     "lng": -75.66296
   },
+  "New Hampshire, United States": {
+    "lat": 43.48491,
+    "lng": -71.6554
+  },
   "New Orleans, Louisiana": {
     "lat": 29.95614,
     "lng": -90.07339
@@ -670,6 +690,10 @@
   "New River Gorge National Park & Preserve, West Virginia": {
     "lat": 37.8967,
     "lng": -81.043
+  },
+  "New Windsor, New York": {
+    "lat": 41.47676,
+    "lng": -74.02375
   },
   "New York City": {
     "lat": 40.71273,
@@ -710,6 +734,10 @@
   "Paravur Beach, Kollam, Kerala": {
     "lat": 8.811,
     "lng": 76.669
+  },
+  "Parsippany, New Jersey": {
+    "lat": 40.86238,
+    "lng": -74.40324
   },
   "Petrified Forest National Park": {
     "lat": 34.97448,
@@ -859,6 +887,10 @@
     "lat": 44.46438,
     "lng": -72.68562
   },
+  "Sugar Hill, New Hampshire": {
+    "lat": 44.21568,
+    "lng": -71.79727
+  },
   "Switzerland": {
     "lat": 46.79856,
     "lng": 8.23197
@@ -934,6 +966,10 @@
   "Washington State, United States": {
     "lat": 47.7511,
     "lng": -120.7401
+  },
+  "Waterbury, Vermont": {
+    "lat": 44.33792,
+    "lng": -72.75638
   },
   "Watkins Glen State Park": {
     "lat": 42.3615,

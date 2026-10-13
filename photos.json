@@ -8,7 +8,7 @@
   "photos": [
     {
       "src": "photos/2026-10-10_Franconia_Notch_State_Park,_New_Hampshire.JPG",
-      "caption": "",
+      "caption": "Artist's Bluff",
       "location": "Franconia Notch State Park, New Hampshire",
       "date": "2026-10-10",
       "map": ""
@@ -36,7 +36,7 @@
     },
     {
       "src": "photos/2026-10-07_New_York_City.JPG",
-      "caption": "",
+      "caption": "Manhattan Bridge from Washington St.",
       "location": "New York City",
       "date": "2026-10-07",
       "map": ""
@@ -50,21 +50,21 @@
     },
     {
       "src": "photos/2026-10-03_Toronto,_Canada_1.jpg",
-      "caption": "",
+      "caption": "CN Tower",
       "location": "Toronto, Canada",
       "date": "2026-10-03",
       "map": ""
     },
     {
       "src": "photos/2026-10-03_Toronto,_Canada_2.JPG",
-      "caption": "",
+      "caption": "Brookflied Place",
       "location": "Toronto, Canada",
       "date": "2026-10-03",
       "map": ""
     },
     {
       "src": "photos/2026-10-03_Toronto,_Canada_3.JPG",
-      "caption": "",
+      "caption": "Casa Loma",
       "location": "Toronto, Canada",
       "date": "2026-10-03",
       "map": ""
@@ -85,35 +85,35 @@
     },
     {
       "src": "photos/2026-09-12_North_Cascades_National_Park_1.JPG",
-      "caption": "",
+      "caption": "American Pika",
       "location": "North Cascades National Park",
       "date": "2026-09-12",
       "map": ""
     },
     {
       "src": "photos/2026-09-12_North_Cascades_National_Park_2.JPG",
-      "caption": "",
+      "caption": "Cascade Pass and Sahale Arm",
       "location": "North Cascades National Park",
       "date": "2026-09-12",
       "map": ""
     },
     {
       "src": "photos/2026-09-12_North_Cascades_National_Park_3.JPG",
-      "caption": "",
+      "caption": "White Mountain Goat and her calf",
       "location": "North Cascades National Park",
       "date": "2026-09-12",
       "map": ""
     },
     {
       "src": "photos/2026-09-12_North_Cascades_National_Park_4.JPG",
-      "caption": "",
+      "caption": "Willow Grouse in summer plumage",
       "location": "North Cascades National Park",
       "date": "2026-09-12",
       "map": ""
     },
     {
       "src": "photos/2026-09-12_North_Cascades_National_Park_5.JPG",
-      "caption": "",
+      "caption": "Brown Bear",
       "location": "North Cascades National Park",
       "date": "2026-09-12",
       "map": ""
@@ -134,7 +134,7 @@
     },
     {
       "src": "photos/2026-09-06_Olympic_National_Park.JPG",
-      "caption": "",
+      "caption": "Mt. Storm King",
       "location": "Olympic National Park",
       "date": "2026-09-06",
       "map": ""

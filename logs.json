@@ -2910,6 +2910,42 @@
       "location": "Hoover Dam, Nevada"
     },
     {
+      "id": "new-hampshire-conway",
+      "country": "United States",
+      "region": "New Hampshire",
+      "area": "Conway",
+      "type": "sight",
+      "name": "Conway",
+      "location": "Conway, New Hampshire"
+    },
+    {
+      "id": "new-hampshire-franconia-notch-state-park-artist-s-bluff",
+      "country": "United States",
+      "region": "New Hampshire",
+      "area": "Franconia Notch State Park",
+      "type": "sight",
+      "name": "Artist's Bluff",
+      "location": "Franconia Notch State Park, New Hampshire"
+    },
+    {
+      "id": "new-hampshire-sugar-hill-polly-s-pancake-parlor",
+      "country": "United States",
+      "region": "New Hampshire",
+      "area": "Sugar Hill",
+      "type": "food",
+      "name": "Polly's Pancake Parlor",
+      "location": "Sugar Hill, New Hampshire"
+    },
+    {
+      "id": "new-hampshire-kancamagus-highway",
+      "country": "United States",
+      "region": "New Hampshire",
+      "area": "New Hampshire",
+      "type": "drive",
+      "name": "Kancamagus Highway",
+      "location": "New Hampshire, United States"
+    },
+    {
       "id": "new-jersey-hoboken",
       "country": "United States",
       "region": "New Jersey",
@@ -2937,6 +2973,71 @@
       "location": "Liberty Science Center, New Jersey",
       "notes": [
         "Planetarium"
+      ]
+    },
+    {
+      "id": "new-jersey-parsippany-a2b-indian-veg-restaurant",
+      "country": "United States",
+      "region": "New Jersey",
+      "area": "Parsippany",
+      "type": "food",
+      "name": "A2B Indian Veg Restaurant",
+      "location": "Parsippany, New Jersey"
+    },
+    {
+      "id": "new-jersey-parsippany-tandoori-flames",
+      "country": "United States",
+      "region": "New Jersey",
+      "area": "Parsippany",
+      "type": "food",
+      "name": "Tandoori Flames",
+      "location": "Parsippany, New Jersey"
+    },
+    {
+      "id": "new-jersey-parsippany-rajni-indian-cuisine",
+      "country": "United States",
+      "region": "New Jersey",
+      "area": "Parsippany",
+      "type": "food",
+      "name": "Rajni Indian Cuisine",
+      "location": "Parsippany, New Jersey"
+    },
+    {
+      "id": "new-jersey-journal-square-misree-chai",
+      "country": "United States",
+      "region": "New Jersey",
+      "area": "Journal Square",
+      "type": "food",
+      "name": "Misree Chai",
+      "location": "Journal Square, New Jersey",
+      "items": [
+        {
+          "name": "Mango Milk Tea",
+          "verdict": "Pretty Good"
+        }
+      ]
+    },
+    {
+      "id": "new-jersey-journal-square-vatan-indian-vegetarian-cuisine-bakery",
+      "country": "United States",
+      "region": "New Jersey",
+      "area": "Journal Square",
+      "type": "food",
+      "name": "Vatan Indian Vegetarian Cuisine & Bakery",
+      "location": "Journal Square, New Jersey",
+      "items": [
+        {
+          "name": "Dahi Puri",
+          "verdict": "Pretty Good"
+        },
+        {
+          "name": "Pani Puri",
+          "verdict": "Pretty Good"
+        },
+        {
+          "name": "Gobi Manchurian Roll",
+          "verdict": "Pretty Good"
+        }
       ]
     },
     {
@@ -2970,7 +3071,7 @@
       "name": "Intrepid Museum",
       "location": "New York City",
       "notes": [
-        "Real space shuttle"
+        "Space Shuttle Enterprise"
       ]
     },
     {
@@ -3127,6 +3228,54 @@
         {
           "name": "Pad Kraprow Ground Chicken",
           "verdict": ""
+        }
+      ]
+    },
+    {
+      "id": "new-york-new-york-city-9-11-memorial",
+      "country": "United States",
+      "region": "New York",
+      "area": "New York City",
+      "type": "sight",
+      "name": "9/11 Memorial",
+      "location": "New York City"
+    },
+    {
+      "id": "new-york-new-york-city-mitr-thai-restaurant",
+      "country": "United States",
+      "region": "New York",
+      "area": "New York City",
+      "type": "food",
+      "name": "Mitr Thai Restaurant",
+      "location": "New York City"
+    },
+    {
+      "id": "new-york-new-windsor-citrus-restaurant-indian",
+      "country": "United States",
+      "region": "New York",
+      "area": "New Windsor",
+      "type": "food",
+      "name": "Citrus Restaurant (Indian)",
+      "location": "New Windsor, New York",
+      "items": [
+        {
+          "name": "Chicken Korma",
+          "verdict": "Never Again"
+        }
+      ]
+    },
+    {
+      "id": "new-york-albany-sadudee-thai-food",
+      "country": "United States",
+      "region": "New York",
+      "area": "Albany",
+      "type": "food",
+      "name": "Sadudee Thai Food",
+      "location": "Albany, New York",
+      "items": [
+        {
+          "name": "Masamaan Curry",
+          "verdict": "Pretty Good"
         }
       ]
     },
@@ -3372,6 +3521,24 @@
       "type": "sight",
       "name": "Flight 93 National Memorial",
       "location": "Flight 93 National Memorial, Pennsylvania"
+    },
+    {
+      "id": "pennsylvania-pittsburgh-allegheny-observatory",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "sight",
+      "name": "Allegheny Observatory",
+      "location": "Pittsburgh"
+    },
+    {
+      "id": "pennsylvania-pittsburgh-steepest-street-in-the-us",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "sight",
+      "name": "Steepest Street in the US",
+      "location": "Pittsburgh"
     },
     {
       "id": "pennsylvania-pittsburgh-schenley-park",
@@ -4443,6 +4610,83 @@
       "type": "food",
       "name": "Curry Pizza",
       "location": "Capitol Reef National Park"
+    },
+    {
+      "id": "vermont-waterbury-ben-jerry-s-ice-cream-factory",
+      "country": "United States",
+      "region": "Vermont",
+      "area": "Waterbury",
+      "type": "sight",
+      "name": "Ben & Jerry's Ice Cream Factory",
+      "location": "Waterbury, Vermont"
+    },
+    {
+      "id": "vermont-waterbury-cold-hollow-cider-mill",
+      "country": "United States",
+      "region": "Vermont",
+      "area": "Waterbury",
+      "type": "food",
+      "name": "Cold Hollow Cider Mill",
+      "location": "Waterbury, Vermont",
+      "items": [
+        {
+          "name": "Fresh Apple Cider",
+          "verdict": ""
+        },
+        {
+          "name": "Apple Cider Donuts",
+          "verdict": ""
+        },
+        {
+          "name": "Maple Creemee",
+          "verdict": ""
+        }
+      ]
+    },
+    {
+      "id": "vermont-stowe",
+      "country": "United States",
+      "region": "Vermont",
+      "area": "Stowe",
+      "type": "sight",
+      "name": "Stowe",
+      "location": "Stowe, Vermont"
+    },
+    {
+      "id": "vermont-woodstock-sugarbush-farm",
+      "country": "United States",
+      "region": "Vermont",
+      "area": "Woodstock",
+      "type": "sight",
+      "name": "Sugarbush Farm",
+      "location": "Woodstock, Vermont"
+    },
+    {
+      "id": "vermont-woodstock-quechee-gorge",
+      "country": "United States",
+      "region": "Vermont",
+      "area": "Woodstock",
+      "type": "sight",
+      "name": "Quechee Gorge",
+      "location": "Woodstock, Vermont"
+    },
+    {
+      "id": "vermont-woodstock-marsh-billings-rockefeller-national-historical-park",
+      "country": "United States",
+      "region": "Vermont",
+      "area": "Woodstock",
+      "type": "sight",
+      "name": "Marsh-Billings-Rockefeller National Historical Park",
+      "location": "Woodstock, Vermont"
+    },
+    {
+      "id": "vermont-jewell-brook-site-1-reservoir",
+      "country": "United States",
+      "region": "Vermont",
+      "area": "Jewell Brook Site 1 Reservoir",
+      "type": "sight",
+      "name": "Jewell Brook Site 1 Reservoir",
+      "location": "Jewell Brook Site 1 Reservoir, Vermont"
     },
     {
       "id": "virginia-shenandoah-national-park-old-rag",
