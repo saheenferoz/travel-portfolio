@@ -303,6 +303,10 @@
     "lat": 40.06177,
     "lng": -78.89714
   },
+  "Franconia Notch State Park, New Hampshire": {
+    "lat": 44.14438,
+    "lng": -71.69095
+  },
   "Fremont, California": {
     "lat": 37.54827,
     "lng": -121.98857
@@ -667,6 +671,10 @@
     "lat": 37.8967,
     "lng": -81.043
   },
+  "New York City": {
+    "lat": 40.71273,
+    "lng": -74.00602
+  },
   "New York City, New York": {
     "lat": 40.71273,
     "lng": -74.00602
@@ -851,6 +859,10 @@
     "lat": 41.40796,
     "lng": -75.67155
   },
+  "Stowe, Vermont": {
+    "lat": 44.46438,
+    "lng": -72.68562
+  },
   "Switzerland": {
     "lat": 46.79856,
     "lng": 8.23197
@@ -938,6 +950,10 @@
   "Winneshiek Raceway, Decorah": {
     "lat": 43.30247,
     "lng": -91.77535
+  },
+  "Woodstock, Vermont": {
+    "lat": 43.62476,
+    "lng": -72.51898
   },
   "Yakima, Washington": {
     "lat": 46.60156,

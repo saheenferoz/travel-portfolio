@@ -7,6 +7,41 @@
   "gridColumns": 4,
   "photos": [
     {
+      "src": "photos/2026-10-10_Franconia_Notch_State_Park,_New_Hampshire.JPG",
+      "caption": "",
+      "location": "Franconia Notch State Park, New Hampshire",
+      "date": "2026-10-10",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-10_Woodstock,_Vermont.JPG",
+      "caption": "",
+      "location": "Woodstock, Vermont",
+      "date": "2026-10-10",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-10_Jewell_Brook_Site_#1_Reservoir,_Vermont.JPG",
+      "caption": "",
+      "location": "Jewell Brook Site #1 Reservoir, Vermont",
+      "date": "2026-10-10",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-09_Stowe,_Vermont.jpg",
+      "caption": "",
+      "location": "Stowe, Vermont",
+      "date": "2026-10-09",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-07_New_York_City.JPG",
+      "caption": "",
+      "location": "New York City",
+      "date": "2026-10-07",
+      "map": ""
+    },
+    {
       "src": "photos/2026-10-04_Niagara_Falls,_Canada.jpg",
       "caption": "",
       "location": "Niagara Falls, Canada",
