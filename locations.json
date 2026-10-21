@@ -99,6 +99,10 @@
     "lat": 36.1437,
     "lng": -121.56459
   },
+  "Biltmore Estate, North Carolina": {
+    "lat": 35.54574,
+    "lng": -82.55817
+  },
   "Birmingham, Alabama": {
     "lat": 33.52068,
     "lng": -86.80243
@@ -519,6 +523,10 @@
     "lat": 40.70818,
     "lng": -74.05469
   },
+  "Linn Cove Viaduct": {
+    "lat": 36.09332,
+    "lng": -81.81303
+  },
   "Louisville, Kentucky": {
     "lat": 38.25424,
     "lng": -85.75941
@@ -850,6 +858,10 @@
   "Sedona, Arizona": {
     "lat": 34.86886,
     "lng": -111.76144
+  },
+  "Seneca Rocks, West Virginia": {
+    "lat": 38.83471,
+    "lng": -79.36615
   },
   "Sequoia National Park, California": {
     "lat": 36.49584,

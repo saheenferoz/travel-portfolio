@@ -7,6 +7,13 @@
   "gridColumns": 4,
   "photos": [
     {
+      "src": "photos/2026-10-18_Linn_Cove_Viaduct.JPG",
+      "caption": "",
+      "location": "Linn Cove Viaduct",
+      "date": "2026-10-18",
+      "map": ""
+    },
+    {
       "src": "photos/2026-10-18_Mabry_Mill,_Virginia.JPG",
       "caption": "",
       "location": "Mabry Mill, Virginia",
@@ -21,10 +28,31 @@
       "map": ""
     },
     {
+      "src": "photos/2026-10-18_Pine_Tree_Overlook,_Virginia.JPG",
+      "caption": "",
+      "location": "Pine Tree Overlook, Virginia",
+      "date": "2026-10-18",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-18_Seneca_Rocks,_West_Virginia.JPG",
+      "caption": "",
+      "location": "Seneca Rocks, West Virginia",
+      "date": "2026-10-18",
+      "map": ""
+    },
+    {
       "src": "photos/2026-10-18_Pine_Tree_Overlook,_Virginia_2.JPG",
       "caption": "",
       "location": "Pine Tree Overlook, Virginia",
       "date": "2026-10-18",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-17_Biltmore_Estate,_North_Carolina.JPG",
+      "caption": "",
+      "location": "Biltmore Estate, North Carolina",
+      "date": "2026-10-17",
       "map": ""
     },
     {
