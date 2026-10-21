@@ -527,6 +527,10 @@
     "lat": 25.7021,
     "lng": 32.64719
   },
+  "Mabry Mill, Virginia": {
+    "lat": 36.75088,
+    "lng": -80.406
+  },
   "Mackinaw City, Michigan": {
     "lat": 45.7839,
     "lng": -84.72783
@@ -739,6 +743,10 @@
     "lat": 40.86238,
     "lng": -74.40324
   },
+  "Peaks of Otter, Virginia": {
+    "lat": 37.44477,
+    "lng": -79.60242
+  },
   "Petrified Forest National Park": {
     "lat": 34.97448,
     "lng": -109.70799
@@ -750,6 +758,10 @@
   "Pikes Peak": {
     "lat": 38.8404,
     "lng": -105.04395
+  },
+  "Pine Tree Overlook, Virginia": {
+    "lat": 37.44585,
+    "lng": -79.72361
   },
   "Pittsburgh": {
     "lat": 40.4407,
