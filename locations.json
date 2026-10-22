@@ -235,6 +235,10 @@
     "lat": 39.96226,
     "lng": -83.00071
   },
+  "Congaree National Park": {
+    "lat": 33.79416,
+    "lng": -80.76365
+  },
   "Congaree National Park, South Carolina": {
     "lat": 33.79416,
     "lng": -80.76365
@@ -434,6 +438,10 @@
   "India Gate, Delhi": {
     "lat": 28.61293,
     "lng": 77.22949
+  },
+  "Indiana Dunes National Park": {
+    "lat": 41.61527,
+    "lng": -87.20726
   },
   "Indiana Dunes National Park, Indiana": {
     "lat": 41.61527,
