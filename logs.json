@@ -3316,6 +3316,104 @@
       "location": "Raleigh, North Carolina"
     },
     {
+      "id": "north-carolina-cherokee",
+      "country": "United States",
+      "region": "North Carolina",
+      "area": "Cherokee",
+      "type": "sight",
+      "name": "Cherokee",
+      "location": "Cherokee, North Carolina"
+    },
+    {
+      "id": "north-carolina-asheville-biltmore-estate",
+      "country": "United States",
+      "region": "North Carolina",
+      "area": "Asheville",
+      "type": "sight",
+      "name": "Biltmore Estate",
+      "location": "Biltmore Estate, North Carolina"
+    },
+    {
+      "id": "north-carolina-asheville-grove-arcade",
+      "country": "United States",
+      "region": "North Carolina",
+      "area": "Asheville",
+      "type": "sight",
+      "name": "Grove Arcade",
+      "location": "Asheville, North Carolina"
+    },
+    {
+      "id": "north-carolina-asheville-pack-square-park",
+      "country": "United States",
+      "region": "North Carolina",
+      "area": "Asheville",
+      "type": "sight",
+      "name": "Pack Square Park",
+      "location": "Asheville, North Carolina"
+    },
+    {
+      "id": "north-carolina-asheville-blue-ridge-parkway-visitor-center",
+      "country": "United States",
+      "region": "North Carolina",
+      "area": "Asheville",
+      "type": "sight",
+      "name": "Blue Ridge Parkway Visitor Center",
+      "location": "Asheville, North Carolina"
+    },
+    {
+      "id": "north-carolina-asheville-chai-pani",
+      "country": "United States",
+      "region": "North Carolina",
+      "area": "Asheville",
+      "type": "food",
+      "name": "Chai Pani",
+      "location": "Asheville, North Carolina",
+      "items": [
+        {
+          "name": "SPDP (Dahi Puri)",
+          "verdict": "Lit",
+          "notes": [
+            "Probably the best Dahi Puri I've ever had"
+          ]
+        },
+        {
+          "name": "Matchstick Okra Fries",
+          "verdict": "Pretty Good"
+        },
+        {
+          "name": "Aloo Tikki Chaat",
+          "verdict": "Lit"
+        }
+      ]
+    },
+    {
+      "id": "north-carolina-linn-cove-viaduct",
+      "country": "United States",
+      "region": "North Carolina",
+      "area": "Linn Cove Viaduct",
+      "type": "sight",
+      "name": "Linn Cove Viaduct",
+      "location": "Linn Cove Viaduct"
+    },
+    {
+      "id": "north-carolina-blue-ridge-parkway",
+      "country": "United States",
+      "region": "North Carolina",
+      "area": "North Carolina",
+      "type": "drive",
+      "name": "Blue Ridge Parkway",
+      "location": "Blue Ridge Parkway"
+    },
+    {
+      "id": "north-carolina-i-40-between-asheville-and-old-fort",
+      "country": "United States",
+      "region": "North Carolina",
+      "area": "North Carolina",
+      "type": "drive",
+      "name": "I-40 (Between Asheville and Old Fort)",
+      "location": "North Carolina, United States"
+    },
+    {
       "id": "north-dakota-theodore-roosevelt-national-park-north-unit-scenic-drive",
       "country": "United States",
       "region": "North Dakota",
@@ -3583,7 +3681,11 @@
       "area": "Pittsburgh",
       "type": "sight",
       "name": "Market Square",
-      "location": "Pittsburgh"
+      "location": "Pittsburgh",
+      "notes": [
+        "Ice rink in the middle during winter",
+        "Christmas village in December"
+      ]
     },
     {
       "id": "pennsylvania-pittsburgh-strip-district",
@@ -3682,7 +3784,22 @@
       "area": "Pittsburgh",
       "type": "sight",
       "name": "Kennywood Amusement Park",
-      "location": "Pittsburgh"
+      "location": "Pittsburgh",
+      "notes": [
+        "They do a haunted Halloween themed event in October"
+      ]
+    },
+    {
+      "id": "pennsylvania-pittsburgh-pittsburgh-vintage-grand-prix",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "event",
+      "name": "Pittsburgh Vintage Grand Prix",
+      "location": "Pittsburgh",
+      "notes": [
+        "Usually in June"
+      ]
     },
     {
       "id": "pennsylvania-pittsburgh-us-30-lincoln-highway",
@@ -4036,6 +4153,121 @@
       "location": "Pittsburgh"
     },
     {
+      "id": "pennsylvania-pittsburgh-condado-tacos",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "food",
+      "name": "Condado Tacos",
+      "location": "Pittsburgh",
+      "items": [
+        {
+          "name": "Lucy's Fire",
+          "verdict": "Pretty Good"
+        }
+      ]
+    },
+    {
+      "id": "pennsylvania-pittsburgh-caff-mona-la-bistro",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "food",
+      "name": "Caffé Mona La Bistro",
+      "location": "Pittsburgh"
+    },
+    {
+      "id": "pennsylvania-pittsburgh-bangkok-balcony",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "food",
+      "name": "Bangkok Balcony",
+      "location": "Pittsburgh"
+    },
+    {
+      "id": "pennsylvania-pittsburgh-the-abbey-on-butler-street",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "food",
+      "name": "The Abbey on Butler Street",
+      "location": "Pittsburgh"
+    },
+    {
+      "id": "pennsylvania-pittsburgh-chutney-s",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "food",
+      "name": "Chutney's",
+      "location": "Pittsburgh"
+    },
+    {
+      "id": "pennsylvania-pittsburgh-yuzu-kitchen",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "food",
+      "name": "Yuzu Kitchen",
+      "location": "Pittsburgh"
+    },
+    {
+      "id": "pennsylvania-pittsburgh-tupelo-honey",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "food",
+      "name": "Tupelo Honey",
+      "location": "Pittsburgh"
+    },
+    {
+      "id": "pennsylvania-pittsburgh-reva-modern-indian-cuisine",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "food",
+      "name": "Reva Modern Indian Cuisine",
+      "location": "Pittsburgh",
+      "items": [
+        {
+          "name": "Chicken Korma",
+          "verdict": ""
+        },
+        {
+          "name": "Chicken Dum Biriyani",
+          "verdict": ""
+        }
+      ]
+    },
+    {
+      "id": "pennsylvania-pittsburgh-city-kitchen",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "food",
+      "name": "City Kitchen",
+      "location": "Pittsburgh"
+    },
+    {
+      "id": "pennsylvania-pittsburgh-kura-revolving-sushi",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "food",
+      "name": "Kura Revolving Sushi",
+      "location": "Pittsburgh"
+    },
+    {
+      "id": "pennsylvania-pittsburgh-poulet-bleu",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Pittsburgh",
+      "type": "food",
+      "name": "Poulet Bleu",
+      "location": "Pittsburgh"
+    },
+    {
       "id": "pennsylvania-harrisburg-nalan-indian-cuisine",
       "country": "United States",
       "region": "Pennsylvania",
@@ -4375,6 +4607,108 @@
       "location": "Great Smoky Mountains National Park"
     },
     {
+      "id": "tennessee-gatlinburg-crockett-s-breakfast-camp",
+      "country": "United States",
+      "region": "Tennessee",
+      "area": "Gatlinburg",
+      "type": "food",
+      "name": "Crockett's Breakfast Camp",
+      "location": "Gatlinburg, Tennessee"
+    },
+    {
+      "id": "tennessee-pigeon-forge",
+      "country": "United States",
+      "region": "Tennessee",
+      "area": "Pigeon Forge",
+      "type": "sight",
+      "name": "Pigeon Forge",
+      "location": "Pigeon Forge, Tennessee"
+    },
+    {
+      "id": "tennessee-knoxville-sunsphere",
+      "country": "United States",
+      "region": "Tennessee",
+      "area": "Knoxville",
+      "type": "sight",
+      "name": "Sunsphere",
+      "location": "Knoxville, Tennessee"
+    },
+    {
+      "id": "tennessee-knoxville-world-s-fair-park",
+      "country": "United States",
+      "region": "Tennessee",
+      "area": "Knoxville",
+      "type": "sight",
+      "name": "World's Fair Park",
+      "location": "Knoxville, Tennessee"
+    },
+    {
+      "id": "tennessee-knoxville-market-square",
+      "country": "United States",
+      "region": "Tennessee",
+      "area": "Knoxville",
+      "type": "sight",
+      "name": "Market Square",
+      "location": "Knoxville, Tennessee"
+    },
+    {
+      "id": "tennessee-knoxville-good-golly-tamale",
+      "country": "United States",
+      "region": "Tennessee",
+      "area": "Knoxville",
+      "type": "food",
+      "name": "Good Golly Tamale",
+      "location": "Knoxville, Tennessee",
+      "items": [
+        {
+          "name": "Chicken Tinga",
+          "verdict": "Pretty Good"
+        }
+      ]
+    },
+    {
+      "id": "tennessee-knoxville-jackie-s-dream",
+      "country": "United States",
+      "region": "Tennessee",
+      "area": "Knoxville",
+      "type": "food",
+      "name": "Jackie's Dream",
+      "location": "Knoxville, Tennessee",
+      "items": [
+        {
+          "name": "Knox Hot Chicken",
+          "verdict": "Lit"
+        }
+      ]
+    },
+    {
+      "id": "tennessee-i-77",
+      "country": "United States",
+      "region": "Tennessee",
+      "area": "Tennessee",
+      "type": "drive",
+      "name": "I-77",
+      "location": "Tennessee, United States"
+    },
+    {
+      "id": "tennessee-tail-of-the-dragon-route-129",
+      "country": "United States",
+      "region": "Tennessee",
+      "area": "Tennessee",
+      "type": "drive",
+      "name": "Tail of the Dragon (Route 129)",
+      "location": "Tennessee, United States"
+    },
+    {
+      "id": "tennessee-route-28",
+      "country": "United States",
+      "region": "Tennessee",
+      "area": "Tennessee",
+      "type": "drive",
+      "name": "Route 28",
+      "location": "Tennessee, United States"
+    },
+    {
       "id": "texas-houston-buffalo-bayou-park",
       "country": "United States",
       "region": "Texas",
@@ -4689,6 +5023,15 @@
       "location": "Jewell Brook Site 1 Reservoir, Vermont"
     },
     {
+      "id": "vermont-route-100",
+      "country": "United States",
+      "region": "Vermont",
+      "area": "Vermont",
+      "type": "drive",
+      "name": "Route 100",
+      "location": "Vermont, United States"
+    },
+    {
       "id": "virginia-shenandoah-national-park-old-rag",
       "country": "United States",
       "region": "Virginia",
@@ -4696,6 +5039,102 @@
       "type": "trail",
       "name": "Old Rag",
       "location": "Shenandoah National Park, Virginia"
+    },
+    {
+      "id": "virginia-tysons",
+      "country": "United States",
+      "region": "Virginia",
+      "area": "Tysons",
+      "type": "sight",
+      "name": "Tysons",
+      "location": "Tysons, Virginia"
+    },
+    {
+      "id": "virginia-mabry-mill",
+      "country": "United States",
+      "region": "Virginia",
+      "area": "Mabry Mill",
+      "type": "sight",
+      "name": "Mabry Mill",
+      "location": "Mabry Mill, Virginia"
+    },
+    {
+      "id": "virginia-the-great-valley-overlook",
+      "country": "United States",
+      "region": "Virginia",
+      "area": "The Great Valley Overlook",
+      "type": "sight",
+      "name": "The Great Valley Overlook",
+      "location": "The Great Valley Overlook, Virginia"
+    },
+    {
+      "id": "virginia-peaks-of-otter",
+      "country": "United States",
+      "region": "Virginia",
+      "area": "Peaks of Otter",
+      "type": "sight",
+      "name": "Peaks of Otter",
+      "location": "Peaks of Otter, Virginia"
+    },
+    {
+      "id": "virginia-ravens-roost-overlook",
+      "country": "United States",
+      "region": "Virginia",
+      "area": "Ravens Roost Overlook",
+      "type": "sight",
+      "name": "Ravens Roost Overlook",
+      "location": "Ravens Roost Overlook, Virginia"
+    },
+    {
+      "id": "virginia-pine-tree-overlook",
+      "country": "United States",
+      "region": "Virginia",
+      "area": "Pine Tree Overlook",
+      "type": "sight",
+      "name": "Pine Tree Overlook",
+      "location": "Pine Tree Overlook, Virginia"
+    },
+    {
+      "id": "virginia-humpback-rocks",
+      "country": "United States",
+      "region": "Virginia",
+      "area": "Humpback Rocks",
+      "type": "sight",
+      "name": "Humpback Rocks",
+      "location": "Humpback Rocks, Virginia"
+    },
+    {
+      "id": "virginia-staunton-thai-staunton-restaurant",
+      "country": "United States",
+      "region": "Virginia",
+      "area": "Staunton",
+      "type": "food",
+      "name": "Thai Staunton Restaurant",
+      "location": "Staunton, Virginia",
+      "items": [
+        {
+          "name": "Chicken Kra-Pow Gai Sub",
+          "verdict": "Pretty Good"
+        }
+      ]
+    },
+    {
+      "id": "virginia-blue-ridge-parkway",
+      "country": "United States",
+      "region": "Virginia",
+      "area": "Virginia",
+      "type": "drive",
+      "name": "Blue Ridge Parkway",
+      "location": "Blue Ridge Parkway"
+    },
+    {
+      "id": "virginia-u-s-route-250",
+      "country": "United States",
+      "region": "Virginia",
+      "area": "Virginia",
+      "type": "drive",
+      "name": "U.S. Route 250",
+      "location": "Virginia, United States"
     },
     {
       "id": "washington-kingston-nirvana-nepali-and-indian-cuisine",
@@ -5286,6 +5725,42 @@
       "type": "sight",
       "name": "Thurmond Historic Town",
       "location": "New River Gorge National Park & Preserve, West Virginia"
+    },
+    {
+      "id": "west-virginia-seneca-rocks",
+      "country": "United States",
+      "region": "West Virginia",
+      "area": "Seneca Rocks",
+      "type": "sight",
+      "name": "Seneca Rocks",
+      "location": "Seneca Rocks, West Virginia"
+    },
+    {
+      "id": "west-virginia-wv-28",
+      "country": "United States",
+      "region": "West Virginia",
+      "area": "West Virginia",
+      "type": "drive",
+      "name": "WV-28",
+      "location": "West Virginia, United States"
+    },
+    {
+      "id": "west-virginia-snowy-mountain-rd",
+      "country": "United States",
+      "region": "West Virginia",
+      "area": "West Virginia",
+      "type": "drive",
+      "name": "Snowy Mountain Rd",
+      "location": "West Virginia, United States"
+    },
+    {
+      "id": "west-virginia-us-33-seneca-skyway",
+      "country": "United States",
+      "region": "West Virginia",
+      "area": "West Virginia",
+      "type": "drive",
+      "name": "US-33 (Seneca Skyway)",
+      "location": "West Virginia, United States"
     },
     {
       "id": "wisconsin-washburn",

@@ -59,6 +59,10 @@
     "lat": 8.61667,
     "lng": 77.35
   },
+  "Asheville, North Carolina": {
+    "lat": 35.59536,
+    "lng": -82.55084
+  },
   "Ashtamudi Lake, Kerala": {
     "lat": 8.94782,
     "lng": 76.57028
@@ -186,6 +190,10 @@
   "Chennai, Tamil Nadu": {
     "lat": 13.08369,
     "lng": 80.27019
+  },
+  "Cherokee, North Carolina": {
+    "lat": 35.11841,
+    "lng": -84.08862
   },
   "Cherry Springs State Park": {
     "lat": 41.66276,
@@ -335,6 +343,10 @@
     "lat": 38.87438,
     "lng": -104.88241
   },
+  "Gatlinburg, Tennessee": {
+    "lat": 35.71426,
+    "lng": -83.51016
+  },
   "Gettysburg": {
     "lat": 39.8309,
     "lng": -77.23101
@@ -411,6 +423,10 @@
     "lat": 42.82861,
     "lng": -103.6015
   },
+  "Humpback Rocks, Virginia": {
+    "lat": 37.9613,
+    "lng": -78.90064
+  },
   "Idukki Reservoir": {
     "lat": 9.7752,
     "lng": 77.05278
@@ -470,6 +486,10 @@
   "Kinzua Bridge State Park": {
     "lat": 41.759,
     "lng": -78.58349
+  },
+  "Knoxville, Tennessee": {
+    "lat": 35.96039,
+    "lng": -83.92103
   },
   "Kodaikanal, Tamil Nadu": {
     "lat": 10.23371,
@@ -723,6 +743,10 @@
     "lat": 43.08484,
     "lng": -79.07018
   },
+  "North Carolina, United States": {
+    "lat": 35.67296,
+    "lng": -79.03929
+  },
   "North Cascades National Park": {
     "lat": 48.80835,
     "lng": -121.40622
@@ -767,6 +791,10 @@
     "lat": 33.44844,
     "lng": -112.07414
   },
+  "Pigeon Forge, Tennessee": {
+    "lat": 35.78842,
+    "lng": -83.55433
+  },
   "Pikes Peak": {
     "lat": 38.8404,
     "lng": -105.04395
@@ -806,6 +834,10 @@
   "Rapid City, South Dakota": {
     "lat": 44.0806,
     "lng": -103.22802
+  },
+  "Ravens Roost Overlook, Virginia": {
+    "lat": 37.93379,
+    "lng": -78.95245
   },
   "Red Fort, Delhi": {
     "lat": 28.65608,
@@ -907,6 +939,10 @@
     "lat": 40.58346,
     "lng": -74.1496
   },
+  "Staunton, Virginia": {
+    "lat": 38.14959,
+    "lng": -79.07256
+  },
   "Steamtown National Historic Site": {
     "lat": 41.40796,
     "lng": -75.67155
@@ -930,6 +966,14 @@
   "Tenkasi, Tamil Nadu": {
     "lat": 9.09339,
     "lng": 77.47584
+  },
+  "Tennessee, United States": {
+    "lat": 35.77301,
+    "lng": -86.28201
+  },
+  "The Great Valley Overlook, Virginia": {
+    "lat": 37.41115,
+    "lng": -79.78699
   },
   "Thenmala, Kerala": {
     "lat": 8.96527,
@@ -963,6 +1007,10 @@
     "lat": 32.22288,
     "lng": -110.97485
   },
+  "Tysons, Virginia": {
+    "lat": 38.91913,
+    "lng": -77.22296
+  },
   "Udupi, Karnataka": {
     "lat": 13.52698,
     "lng": 74.87319
@@ -983,6 +1031,14 @@
     "lat": 8.42535,
     "lng": 76.99393
   },
+  "Vermont, United States": {
+    "lat": 44.59907,
+    "lng": -72.50026
+  },
+  "Virginia, United States": {
+    "lat": 37.12322,
+    "lng": -78.49277
+  },
   "Voyageurs National Park": {
     "lat": 48.46555,
     "lng": -92.8854
@@ -1002,6 +1058,10 @@
   "Watkins Glen State Park": {
     "lat": 42.3615,
     "lng": -76.92885
+  },
+  "West Virginia, United States": {
+    "lat": 38.47584,
+    "lng": -80.84084
   },
   "Wind Cave National Park, South Dakota": {
     "lat": 43.57887,

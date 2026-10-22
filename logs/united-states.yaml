@@ -497,6 +497,28 @@ regions:
 - region: North Carolina
   areas:
   - area: Raleigh
+  - area: Cherokee
+  - area: Asheville
+    places:
+    - place: Biltmore Estate
+    - place: Grove Arcade
+    - place: Pack Square Park
+    - place: Blue Ridge Parkway Visitor Center
+    - food: Chai Pani
+      dishes:
+      - dish: SPDP (Dahi Puri)
+        verdict: Lit
+        notes:
+        - Probably the best Dahi Puri I've ever had
+      - dish: Matchstick Okra Fries
+        verdict: Pretty Good
+      - dish: Aloo Tikki Chaat
+        verdict: Lit
+  - area: Linn Cove Viaduct
+  - area: North Carolina
+    places:
+    - drive: Blue Ridge Parkway
+    - drive: I-40 (Between Asheville and Old Fort)
 - region: North Dakota
   areas:
   - area: Theodore Roosevelt National Park
@@ -557,6 +579,9 @@ regions:
     - place: Phipps Conservatory and Botanical Gardens
     - place: Frick Park
     - place: Market Square
+      notes:
+      - Ice rink in the middle during winter
+      - Christmas village in December
     - place: Strip District
     - place: Lawrenceville (Butler Street)
     - place: Highland Park
@@ -568,6 +593,11 @@ regions:
     - place: Puttery (Mini Golf)
     - place: Puttshack (Mini Golf)
     - place: Kennywood Amusement Park
+      notes:
+      - They do a haunted Halloween themed event in October
+    - event: Pittsburgh Vintage Grand Prix
+      notes:
+      - Usually in June
     - drive: US-30 Lincoln Highway
     - food: Dancing Crab Thai Noodle House
     - food: Tocayo Taqueria
@@ -607,6 +637,23 @@ regions:
     - food: Kyo Matcha
     - food: Tsaocaa - Bubble Tea
     - food: Cheesecake factory
+    - food: Condado Tacos
+      dishes:
+      - dish: Lucy's Fire
+        verdict: Pretty Good
+    - food: Caffé Mona La Bistro
+    - food: Bangkok Balcony
+    - food: The Abbey on Butler Street
+    - food: Chutney's
+    - food: Yuzu Kitchen
+    - food: Tupelo Honey
+    - food: Reva Modern Indian Cuisine
+      dishes:
+      - dish: Chicken Korma
+      - dish: Chicken Dum Biriyani
+    - food: City Kitchen
+    - food: Kura Revolving Sushi
+    - food: Poulet Bleu
   - area: Harrisburg
     places:
     - food: Nalan Indian Cuisine
@@ -687,6 +734,28 @@ regions:
     places:
     - trail: Alum Cave
     - trail: Kuwohi Observation Deck
+  - area: Gatlinburg
+    places:
+    - food: Crockett's Breakfast Camp
+  - area: Pigeon Forge
+  - area: Knoxville
+    places:
+    - place: Sunsphere
+    - place: World's Fair Park
+    - place: Market Square
+    - food: Good Golly Tamale
+      dishes:
+      - dish: Chicken Tinga
+        verdict: Pretty Good
+    - food: Jackie's Dream
+      dishes:
+      - dish: Knox Hot Chicken
+        verdict: Lit
+  - area: Tennessee
+    places:
+    - drive: I-77
+    - drive: Tail of the Dragon (Route 129)
+    - drive: Route 28
 - region: Texas
   areas:
   - area: Houston
@@ -760,11 +829,31 @@ regions:
     - place: Quechee Gorge
     - place: Marsh-Billings-Rockefeller National Historical Park
   - area: Jewell Brook Site 1 Reservoir
+  - area: Vermont
+    places:
+    - drive: Route 100
 - region: Virginia
   areas:
   - area: Shenandoah National Park
     places:
     - trail: Old Rag
+  - area: Tysons
+  - area: Mabry Mill
+  - area: The Great Valley Overlook
+  - area: Peaks of Otter
+  - area: Ravens Roost Overlook
+  - area: Pine Tree Overlook
+  - area: Humpback Rocks
+  - area: Staunton
+    places:
+    - food: Thai Staunton Restaurant
+      dishes:
+      - dish: Chicken Kra-Pow Gai Sub
+        verdict: Pretty Good
+  - area: Virginia
+    places:
+    - drive: Blue Ridge Parkway
+    - drive: U.S. Route 250
 - region: Washington
   areas:
   - area: Kingston
@@ -888,6 +977,12 @@ regions:
     places:
     - place: New River Gorge Bridge Overlook
     - place: Thurmond Historic Town
+  - area: Seneca Rocks
+  - area: West Virginia
+    places:
+    - drive: WV-28
+    - drive: Snowy Mountain Rd
+    - drive: US-33 (Seneca Skyway)
 - region: Wisconsin
   areas:
   - area: Washburn
