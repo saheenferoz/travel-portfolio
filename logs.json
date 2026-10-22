@@ -2270,7 +2270,7 @@
       "area": "Indiana Dunes National Park",
       "type": "trail",
       "name": "West Beach - Dune Succession",
-      "location": "Indiana Dunes National Park, Indiana"
+      "location": "Indiana Dunes National Park"
     },
     {
       "id": "indiana-indiana-dunes-national-park-cowles-bog",
@@ -2279,7 +2279,7 @@
       "area": "Indiana Dunes National Park",
       "type": "trail",
       "name": "Cowles Bog",
-      "location": "Indiana Dunes National Park, Indiana"
+      "location": "Indiana Dunes National Park"
     },
     {
       "id": "indiana-indianapolis-white-river-state-park",
@@ -4322,7 +4322,7 @@
       "area": "Congaree National Park",
       "type": "sight",
       "name": "Congaree National Park",
-      "location": "Congaree National Park, South Carolina"
+      "location": "Congaree National Park"
     },
     {
       "id": "south-dakota-black-hills",
