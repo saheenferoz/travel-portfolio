@@ -7,6 +7,13 @@
   "gridColumns": 4,
   "photos": [
     {
+      "src": "photos/2026-10-22_Pittsburgh.JPG",
+      "caption": "",
+      "location": "Pittsburgh",
+      "date": "2026-10-22",
+      "map": ""
+    },
+    {
       "src": "photos/2026-10-18_Blue_Ridge_Parkway.jpg",
       "caption": "",
       "location": "Blue Ridge Parkway",
