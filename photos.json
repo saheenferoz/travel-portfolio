@@ -7,6 +7,20 @@
   "gridColumns": 4,
   "photos": [
     {
+      "src": "photos/2026-10-24_Circuit_of_the_Americas.jpg",
+      "caption": "",
+      "location": "Circuit of the Americas",
+      "date": "2026-10-24",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-24_Circuit_of_the_Americas_2.jpg",
+      "caption": "",
+      "location": "Circuit of the Americas",
+      "date": "2026-10-24",
+      "map": ""
+    },
+    {
       "src": "photos/2026-10-22_Pittsburgh.JPG",
       "caption": "",
       "location": "Pittsburgh",
