@@ -53,7 +53,7 @@ TYPE_KEYS = {
 }
 ALLOWED_TYPES = frozenset(TYPE_KEYS.values()) | {"note"}
 # Verdict scale, best to worst.
-ALLOWED_VERDICTS = frozenset({"Lit", "Pretty Good", "It's Aight", "Never Again"})
+ALLOWED_VERDICTS = frozenset({"Lit", "Pretty Good", "Not Bad", "It's Aight", "Never Again"})
 
 COUNTRY_KEYS = frozenset({"country", "regions"})
 REGION_KEYS = frozenset({"region", "areas", "notes"})

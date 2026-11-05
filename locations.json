@@ -3,6 +3,10 @@
     "lat": 44.35631,
     "lng": -68.21548
   },
+  "Adrian, Texas": {
+    "lat": 35.27478,
+    "lng": -102.66521
+  },
   "Agastya Mala, Kerala": {
     "lat": 8.65,
     "lng": 77.2167
@@ -34,6 +38,10 @@
   "Alexandria, Alexandria Governorate": {
     "lat": 31.19918,
     "lng": 29.89517
+  },
+  "Amarillo, Texas": {
+    "lat": 35.20729,
+    "lng": -101.83712
   },
   "Anjuna Beach, Goa": {
     "lat": 15.5761,
@@ -123,6 +131,10 @@
     "lat": 43.86928,
     "lng": -103.52649
   },
+  "Blanding, Utah": {
+    "lat": 37.62396,
+    "lng": -109.47802
+  },
   "Blue Ridge Parkway": {
     "lat": 36.14776,
     "lng": -81.7151
@@ -163,6 +175,10 @@
     "lat": 38.23326,
     "lng": -109.92066
   },
+  "Capitan, New Mexico": {
+    "lat": 33.54538,
+    "lng": -105.57209
+  },
   "Capitol Reef National Park": {
     "lat": 38.06703,
     "lng": -111.15526
@@ -174,6 +190,10 @@
   "Cascade Falls, Minnesota": {
     "lat": 47.70856,
     "lng": -90.5238
+  },
+  "Catoosa, Oklahoma": {
+    "lat": 36.18899,
+    "lng": -95.74582
   },
   "Cave of the Mounds": {
     "lat": 43.01674,
@@ -223,13 +243,13 @@
     "lat": 30.13563,
     "lng": -97.63662
   },
-  "Circuit of the Americas, Texas": {
-    "lat": 30.13563,
-    "lng": -97.63662
-  },
   "Cleveland": {
     "lat": 41.49966,
     "lng": -81.69368
+  },
+  "Clinton, Oklahoma": {
+    "lat": 35.51561,
+    "lng": -98.96731
   },
   "Colorado Springs": {
     "lat": 38.83396,
@@ -258,6 +278,10 @@
   "Crazy Horse Memorial, South Dakota": {
     "lat": 43.83629,
     "lng": -103.62305
+  },
+  "Cuba, Missouri": {
+    "lat": 38.06302,
+    "lng": -91.40325
   },
   "Custer State Park, South Dakota": {
     "lat": 43.74298,
@@ -319,9 +343,21 @@
     "lat": 25.07428,
     "lng": 55.18856
   },
+  "Dwight, Illinois": {
+    "lat": 41.09448,
+    "lng": -88.42506
+  },
+  "Elk City, Oklahoma": {
+    "lat": 35.41401,
+    "lng": -99.41386
+  },
   "Everglades National Park, Florida": {
     "lat": 25.36794,
     "lng": -80.87831
+  },
+  "Fallingwater, Pennsylvania": {
+    "lat": 39.90626,
+    "lng": -79.46793
   },
   "Flatirons, Colorado": {
     "lat": 39.98881,
@@ -343,6 +379,14 @@
     "lat": 35.50107,
     "lng": 138.7653
   },
+  "Galena, Kansas": {
+    "lat": 37.07415,
+    "lng": -94.63904
+  },
+  "Gallup, New Mexico": {
+    "lat": 35.52835,
+    "lng": -108.74391
+  },
   "Garden of the Gods, Colorado": {
     "lat": 38.87438,
     "lng": -104.88241
@@ -362,6 +406,10 @@
   "Glacier National Park": {
     "lat": 48.61749,
     "lng": -113.76089
+  },
+  "Glenrio, Texas": {
+    "lat": 35.17894,
+    "lng": -103.0424
   },
   "Gooseberry Falls, Minnesota": {
     "lat": 47.14512,
@@ -394,6 +442,10 @@
   "Great Smoky Mountains National Park": {
     "lat": 35.63422,
     "lng": -83.40237
+  },
+  "Groom, Texas": {
+    "lat": 35.20366,
+    "lng": -101.10682
   },
   "Guttenberg, Iowa": {
     "lat": 42.78582,
@@ -430,6 +482,10 @@
   "Humpback Rocks, Virginia": {
     "lat": 37.9613,
     "lng": -78.90064
+  },
+  "Hydro, Oklahoma": {
+    "lat": 35.54896,
+    "lng": -98.57773
   },
   "Idukki Reservoir": {
     "lat": 9.7752,
@@ -543,6 +599,10 @@
     "lat": 47.59691,
     "lng": -120.66108
   },
+  "Lebanon, Missouri": {
+    "lat": 37.68067,
+    "lng": -92.66378
+  },
   "Leonard Harrison State Park": {
     "lat": 41.70031,
     "lng": -77.45382
@@ -551,9 +611,17 @@
     "lat": 40.70818,
     "lng": -74.05469
   },
+  "Lincoln, New Mexico": {
+    "lat": 33.75257,
+    "lng": -105.41588
+  },
   "Linn Cove Viaduct": {
     "lat": 36.09332,
     "lng": -81.81303
+  },
+  "Livingston, Illinois": {
+    "lat": 40.86825,
+    "lng": -88.56311
   },
   "Louisville, Kentucky": {
     "lat": 38.25424,
@@ -578,6 +646,10 @@
   "Madison Wisconsin": {
     "lat": 43.07305,
     "lng": -89.40123
+  },
+  "Magdalena, New Mexico": {
+    "lat": 34.11699,
+    "lng": -107.24337
   },
   "Makkah, Makkah Province": {
     "lat": 21.42085,
@@ -618,6 +690,10 @@
   "Mayyanad Beach, Kerala": {
     "lat": 8.85608,
     "lng": 76.61647
+  },
+  "McLean, Texas": {
+    "lat": 35.23255,
+    "lng": -100.59986
   },
   "Medora, North Dakota": {
     "lat": 46.9139,
@@ -662,6 +738,10 @@
   "Monterey, California": {
     "lat": 36.22311,
     "lng": -121.38774
+  },
+  "Mt Olive, Illinois": {
+    "lat": 39.07222,
+    "lng": -89.72717
   },
   "Mt. Fuji, Yamanashi Prefecture": {
     "lat": 35.48355,
@@ -711,6 +791,10 @@
     "lat": 38.72239,
     "lng": -77.17003
   },
+  "Natural Bridges National Monument, Utah": {
+    "lat": 37.6026,
+    "lng": -110.01118
+  },
   "Needles Highway, South Dakota": {
     "lat": 43.84333,
     "lng": -103.56206
@@ -722,6 +806,10 @@
   "New Hampshire, United States": {
     "lat": 43.48491,
     "lng": -71.6554
+  },
+  "New Mexico, United States": {
+    "lat": 34.58021,
+    "lng": -105.99605
   },
   "New Orleans, Louisiana": {
     "lat": 29.95614,
@@ -747,6 +835,10 @@
     "lat": 43.08484,
     "lng": -79.07018
   },
+  "Normal, Illinois": {
+    "lat": 40.5093,
+    "lng": -88.98439
+  },
   "North Carolina, United States": {
     "lat": 35.67296,
     "lng": -79.03929
@@ -755,9 +847,17 @@
     "lat": 48.80835,
     "lng": -121.40622
   },
+  "Odell, Illinois": {
+    "lat": 41.00364,
+    "lng": -88.52534
+  },
   "Ohiopyle State Park": {
     "lat": 39.86708,
     "lng": -79.42948
+  },
+  "Oklahoma City, Oklahoma": {
+    "lat": 35.47299,
+    "lng": -97.51705
   },
   "Olympic National Park": {
     "lat": 47.78653,
@@ -791,6 +891,10 @@
     "lat": 34.97448,
     "lng": -109.70799
   },
+  "Philadelphia, Pennsylvania": {
+    "lat": 39.95272,
+    "lng": -75.16353
+  },
   "Phoenix, Arizona": {
     "lat": 33.44844,
     "lng": -112.07414
@@ -807,13 +911,25 @@
     "lat": 37.44585,
     "lng": -79.72361
   },
+  "Pinnacles National Park, California": {
+    "lat": 36.48625,
+    "lng": -121.17114
+  },
   "Pittsburgh": {
     "lat": 40.4407,
     "lng": -80.00257
   },
+  "Point Reyes National Seashore, California": {
+    "lat": 38.07053,
+    "lng": -122.91761
+  },
   "Ponmudi Hill Station, Kerala": {
     "lat": 8.76689,
     "lng": 77.10948
+  },
+  "Pontiac, Illinois": {
+    "lat": 40.88087,
+    "lng": -88.62978
   },
   "Poovar, Kerala": {
     "lat": 8.31874,
@@ -859,6 +975,10 @@
     "lat": 40.35539,
     "lng": -105.7177
   },
+  "Roswell, New Mexico": {
+    "lat": 33.39433,
+    "lng": -104.52295
+  },
   "Saguaro National Park": {
     "lat": 32.16838,
     "lng": -110.61835
@@ -878,6 +998,10 @@
   "Sandy Point State Park, Maryland": {
     "lat": 39.01936,
     "lng": -76.40549
+  },
+  "Sapulpa, Oklahoma": {
+    "lat": 36.0005,
+    "lng": -96.10496
   },
   "Savannah, Georgia": {
     "lat": 32.07901,
@@ -907,6 +1031,10 @@
     "lat": 36.49584,
     "lng": -118.55992
   },
+  "Shamrock, Texas": {
+    "lat": 35.21422,
+    "lng": -100.24901
+  },
   "Shenandoah National Park, Virginia": {
     "lat": 38.47197,
     "lng": -78.4637
@@ -914,6 +1042,10 @@
   "Shendurney Wildlife Sanctuary, Kerala": {
     "lat": 8.86055,
     "lng": 77.21381
+  },
+  "Ship Rock, New Mexico": {
+    "lat": 36.6875,
+    "lng": -108.83639
   },
   "Shovel Point, Minnesota": {
     "lat": 47.33953,
@@ -931,6 +1063,10 @@
     "lat": 38.89807,
     "lng": -77.00821
   },
+  "Socorro, New Mexico": {
+    "lat": 34.05729,
+    "lng": -106.89308
+  },
   "South Dakota, United States": {
     "lat": 44.64718,
     "lng": -100.34876
@@ -938,6 +1074,22 @@
   "Split Rock Lighthouse, Minnesota": {
     "lat": 47.2001,
     "lng": -91.36702
+  },
+  "Springfield, Illinois": {
+    "lat": 39.79902,
+    "lng": -89.64396
+  },
+  "Springfield, Missouri": {
+    "lat": 37.20817,
+    "lng": -93.29227
+  },
+  "St. Louis, Missouri": {
+    "lat": 38.62541,
+    "lng": -90.19001
+  },
+  "St. Robert, Missouri": {
+    "lat": 37.81407,
+    "lng": -92.13751
   },
   "Staten Island, New York": {
     "lat": 40.58346,
@@ -954,6 +1106,10 @@
   "Stowe, Vermont": {
     "lat": 44.46438,
     "lng": -72.68562
+  },
+  "Stroud, Oklahoma": {
+    "lat": 35.74777,
+    "lng": -96.65667
   },
   "Sugar Hill, New Hampshire": {
     "lat": 44.21568,
@@ -1011,6 +1167,14 @@
     "lat": 32.22288,
     "lng": -110.97485
   },
+  "Tucumcari, New Mexico": {
+    "lat": 35.17194,
+    "lng": -103.72504
+  },
+  "Tulsa, Oklahoma": {
+    "lat": 36.15631,
+    "lng": -95.99275
+  },
   "Tysons, Virginia": {
     "lat": 38.91913,
     "lng": -77.22296
@@ -1018,6 +1182,10 @@
   "Udupi, Karnataka": {
     "lat": 13.52698,
     "lng": 74.87319
+  },
+  "Utah, United States": {
+    "lat": 39.42252,
+    "lng": -111.71436
   },
   "Vagamon, Kerala": {
     "lat": 9.6886,

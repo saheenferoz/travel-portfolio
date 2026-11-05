@@ -1814,6 +1814,24 @@
       "location": "Death Valley National Park"
     },
     {
+      "id": "california-point-reyes-national-seashore",
+      "country": "United States",
+      "region": "California",
+      "area": "Point Reyes National Seashore",
+      "type": "sight",
+      "name": "Point Reyes National Seashore",
+      "location": "Point Reyes National Seashore, California"
+    },
+    {
+      "id": "california-pinnacles-national-park",
+      "country": "United States",
+      "region": "California",
+      "area": "Pinnacles National Park",
+      "type": "sight",
+      "name": "Pinnacles National Park",
+      "location": "Pinnacles National Park, California"
+    },
+    {
       "id": "california-redwood-national-park-fern-canyon",
       "country": "United States",
       "region": "California",
@@ -2264,6 +2282,93 @@
       "location": "Chicago"
     },
     {
+      "id": "illinois-chicago-chicago-route-66-start-of-the-trail-sign",
+      "country": "United States",
+      "region": "Illinois",
+      "area": "Chicago",
+      "type": "sight",
+      "name": "Chicago Route 66 Start of the Trail Sign",
+      "location": "Chicago"
+    },
+    {
+      "id": "illinois-dwight-ambler-s-texaco-gas-station",
+      "country": "United States",
+      "region": "Illinois",
+      "area": "Dwight",
+      "type": "sight",
+      "name": "Ambler's Texaco Gas Station",
+      "location": "Dwight, Illinois"
+    },
+    {
+      "id": "illinois-odell-standard-oil-of-illinois-gas-station",
+      "country": "United States",
+      "region": "Illinois",
+      "area": "Odell",
+      "type": "sight",
+      "name": "Standard Oil of Illinois Gas Station",
+      "location": "Odell, Illinois"
+    },
+    {
+      "id": "illinois-pontiac-route-66-association-of-illinois",
+      "country": "United States",
+      "region": "Illinois",
+      "area": "Pontiac",
+      "type": "sight",
+      "name": "Route 66 Association of Illinois",
+      "location": "Pontiac, Illinois"
+    },
+    {
+      "id": "illinois-normal-pizza-payaa",
+      "country": "United States",
+      "region": "Illinois",
+      "area": "Normal",
+      "type": "food",
+      "name": "Pizza Payaa",
+      "location": "Normal, Illinois",
+      "items": [
+        {
+          "name": "Chipotle BBQ Chicken",
+          "verdict": "It's Aight"
+        }
+      ]
+    },
+    {
+      "id": "illinois-normal-sprague-s-super-service-station",
+      "country": "United States",
+      "region": "Illinois",
+      "area": "Normal",
+      "type": "sight",
+      "name": "Sprague's Super Service Station",
+      "location": "Normal, Illinois"
+    },
+    {
+      "id": "illinois-springfield-cozy-dog-drive-in",
+      "country": "United States",
+      "region": "Illinois",
+      "area": "Springfield",
+      "type": "food",
+      "name": "Cozy Dog Drive In",
+      "location": "Springfield, Illinois"
+    },
+    {
+      "id": "illinois-mt-olive-soulsby-service-station",
+      "country": "United States",
+      "region": "Illinois",
+      "area": "Mt Olive",
+      "type": "sight",
+      "name": "Soulsby Service Station",
+      "location": "Mt Olive, Illinois"
+    },
+    {
+      "id": "illinois-livingston-pink-elephant-antique-mall",
+      "country": "United States",
+      "region": "Illinois",
+      "area": "Livingston",
+      "type": "sight",
+      "name": "Pink Elephant Antique Mall",
+      "location": "Livingston, Illinois"
+    },
+    {
       "id": "indiana-indiana-dunes-national-park-west-beach-dune-succession",
       "country": "United States",
       "region": "Indiana",
@@ -2374,6 +2479,30 @@
       "type": "note",
       "name": "Rolling cornfields",
       "location": ""
+    },
+    {
+      "id": "kansas-galena-m-torito-mexican-restaurant",
+      "country": "United States",
+      "region": "Kansas",
+      "area": "Galena",
+      "type": "food",
+      "name": "Mí Torito Mexican Restaurant",
+      "location": "Galena, Kansas",
+      "items": [
+        {
+          "name": "Fajita Quesadilla",
+          "verdict": "Not Bad"
+        }
+      ]
+    },
+    {
+      "id": "kansas-galena-cars-on-the-route",
+      "country": "United States",
+      "region": "Kansas",
+      "area": "Galena",
+      "type": "sight",
+      "name": "Cars on the Route",
+      "location": "Galena, Kansas"
     },
     {
       "id": "kentucky-mammoth-cave-national-park-historic-cave-tour",
@@ -2784,6 +2913,88 @@
       ]
     },
     {
+      "id": "missouri-st-louis-gateway-arch-national-park",
+      "country": "United States",
+      "region": "Missouri",
+      "area": "St. Louis",
+      "type": "sight",
+      "name": "Gateway Arch National Park",
+      "location": "St. Louis, Missouri"
+    },
+    {
+      "id": "missouri-cuba-wagon-wheel-motel",
+      "country": "United States",
+      "region": "Missouri",
+      "area": "Cuba",
+      "type": "stay",
+      "name": "Wagon Wheel Motel",
+      "location": "Cuba, Missouri"
+    },
+    {
+      "id": "missouri-cuba-route-66-rocker",
+      "country": "United States",
+      "region": "Missouri",
+      "area": "Cuba",
+      "type": "sight",
+      "name": "Route 66 Rocker",
+      "location": "Cuba, Missouri"
+    },
+    {
+      "id": "missouri-cuba-rivera-maya-mexican-restaurant",
+      "country": "United States",
+      "region": "Missouri",
+      "area": "Cuba",
+      "type": "food",
+      "name": "Rivera Maya Mexican Restaurant",
+      "location": "Cuba, Missouri",
+      "items": [
+        {
+          "name": "Pollo Ranchero",
+          "verdict": "It's Aight"
+        },
+        {
+          "name": "Mole Poblano",
+          "verdict": "It's Aight"
+        }
+      ]
+    },
+    {
+      "id": "missouri-st-robert-uranus-missouri-towne-center",
+      "country": "United States",
+      "region": "Missouri",
+      "area": "St. Robert",
+      "type": "sight",
+      "name": "Uranus Missouri Towne Center",
+      "location": "St. Robert, Missouri"
+    },
+    {
+      "id": "missouri-st-robert-uranus-fudge-factory-general-store",
+      "country": "United States",
+      "region": "Missouri",
+      "area": "St. Robert",
+      "type": "food",
+      "name": "Uranus Fudge Factory & General Store",
+      "location": "St. Robert, Missouri"
+    },
+    {
+      "id": "missouri-lebanon-munger-moss-motel",
+      "country": "United States",
+      "region": "Missouri",
+      "area": "Lebanon",
+      "type": "stay",
+      "name": "Munger Moss Motel",
+      "location": "Lebanon, Missouri"
+    },
+    {
+      "id": "missouri-springfield-route-66-car-museum",
+      "country": "United States",
+      "region": "Missouri",
+      "area": "Springfield",
+      "type": "sight",
+      "name": "Route 66 Car Museum",
+      "location": "Springfield, Missouri"
+    },
+    {
       "id": "montana-glacier-national-park-avalanche-lake",
       "country": "United States",
       "region": "Montana",
@@ -3039,6 +3250,145 @@
           "verdict": "Pretty Good"
         }
       ]
+    },
+    {
+      "id": "new-mexico-roswell-sara-s-mediterranean-caf-grill",
+      "country": "United States",
+      "region": "New Mexico",
+      "area": "Roswell",
+      "type": "food",
+      "name": "Sara's Mediterranean Café & Grill",
+      "location": "Roswell, New Mexico",
+      "items": [
+        {
+          "name": "Chicken Kabob",
+          "verdict": "Not Bad"
+        },
+        {
+          "name": "Falafel Bowl",
+          "verdict": "Not Bad"
+        }
+      ]
+    },
+    {
+      "id": "new-mexico-roswell-international-ufo-museum-and-research-center-and-gift-shop",
+      "country": "United States",
+      "region": "New Mexico",
+      "area": "Roswell",
+      "type": "sight",
+      "name": "International UFO Museum and Research Center and Gift Shop",
+      "location": "Roswell, New Mexico"
+    },
+    {
+      "id": "new-mexico-socorro-yo-mama-s-grill",
+      "country": "United States",
+      "region": "New Mexico",
+      "area": "Socorro",
+      "type": "food",
+      "name": "Yo Mama's Grill",
+      "location": "Socorro, New Mexico",
+      "items": [
+        {
+          "name": "Bosque Burger with Green Chili",
+          "verdict": "Not Bad"
+        }
+      ]
+    },
+    {
+      "id": "new-mexico-lincoln",
+      "country": "United States",
+      "region": "New Mexico",
+      "area": "Lincoln",
+      "type": "sight",
+      "name": "Lincoln",
+      "location": "Lincoln, New Mexico"
+    },
+    {
+      "id": "new-mexico-capitan-smokey-bear-historical-park",
+      "country": "United States",
+      "region": "New Mexico",
+      "area": "Capitan",
+      "type": "sight",
+      "name": "Smokey Bear Historical Park",
+      "location": "Capitan, New Mexico",
+      "notes": [
+        "Smokey Bear's grave (mascot for wildfire prevention). He was rescued from a nearby wildfire as a cub."
+      ]
+    },
+    {
+      "id": "new-mexico-magdalena-nrao-very-large-array",
+      "country": "United States",
+      "region": "New Mexico",
+      "area": "Magdalena",
+      "type": "sight",
+      "name": "NRAO Very Large Array",
+      "location": "Magdalena, New Mexico"
+    },
+    {
+      "id": "new-mexico-magdalena-magdalena-motor-inn",
+      "country": "United States",
+      "region": "New Mexico",
+      "area": "Magdalena",
+      "type": "stay",
+      "name": "Magdalena Motor Inn",
+      "location": "Magdalena, New Mexico"
+    },
+    {
+      "id": "new-mexico-tucumcari-route-66-monument",
+      "country": "United States",
+      "region": "New Mexico",
+      "area": "Tucumcari",
+      "type": "sight",
+      "name": "Route 66 Monument",
+      "location": "Tucumcari, New Mexico"
+    },
+    {
+      "id": "new-mexico-tucumcari-blue-swallow-motel",
+      "country": "United States",
+      "region": "New Mexico",
+      "area": "Tucumcari",
+      "type": "stay",
+      "name": "Blue Swallow Motel",
+      "location": "Tucumcari, New Mexico"
+    },
+    {
+      "id": "new-mexico-ship-rock",
+      "country": "United States",
+      "region": "New Mexico",
+      "area": "Ship Rock",
+      "type": "sight",
+      "name": "Ship Rock",
+      "location": "Ship Rock, New Mexico",
+      "notes": [
+        "Towering natural rock formation sacred to Native American culture"
+      ]
+    },
+    {
+      "id": "new-mexico-gallup",
+      "country": "United States",
+      "region": "New Mexico",
+      "area": "Gallup",
+      "type": "sight",
+      "name": "Gallup",
+      "location": "Gallup, New Mexico"
+    },
+    {
+      "id": "new-mexico-us-70",
+      "country": "United States",
+      "region": "New Mexico",
+      "area": "New Mexico",
+      "type": "drive",
+      "name": "US-70",
+      "location": "New Mexico, United States"
+    },
+    {
+      "id": "new-mexico-us-380",
+      "country": "United States",
+      "region": "New Mexico",
+      "area": "New Mexico",
+      "type": "drive",
+      "name": "US-380",
+      "location": "New Mexico, United States"
     },
     {
       "id": "new-york-new-york-city-staten-island-ferry",
@@ -3522,6 +3872,93 @@
       "location": "Cuyahoga Valley National Park, Ohio"
     },
     {
+      "id": "oklahoma-stroud-rock-cafe",
+      "country": "United States",
+      "region": "Oklahoma",
+      "area": "Stroud",
+      "type": "food",
+      "name": "Rock Cafe",
+      "location": "Stroud, Oklahoma",
+      "items": [
+        {
+          "name": "Chicken Fried Steak",
+          "verdict": "It's Aight"
+        }
+      ],
+      "notes": [
+        "Sally Carrera from Cars movie was inspired by the owner. When a fire brought down the cafe, the movie producers sent props and memorabilia to rebuild it."
+      ]
+    },
+    {
+      "id": "oklahoma-oklahoma-city-pops",
+      "country": "United States",
+      "region": "Oklahoma",
+      "area": "Oklahoma City",
+      "type": "sight",
+      "name": "Pops",
+      "location": "Oklahoma City, Oklahoma",
+      "notes": [
+        "Serves a variety of unique and weird soda flavors"
+      ]
+    },
+    {
+      "id": "oklahoma-catoosa-blue-whale-of-catoosa",
+      "country": "United States",
+      "region": "Oklahoma",
+      "area": "Catoosa",
+      "type": "sight",
+      "name": "Blue Whale of Catoosa",
+      "location": "Catoosa, Oklahoma",
+      "notes": [
+        "A man who wanted to spread animal awareness asked his neighbor to build this plan of his; after 100 hours of labor, he refused to take payment after learning about its purpose."
+      ]
+    },
+    {
+      "id": "oklahoma-sapulpa-heart-of-route-66-auto-museum",
+      "country": "United States",
+      "region": "Oklahoma",
+      "area": "Sapulpa",
+      "type": "sight",
+      "name": "Heart of Route 66 Auto Museum",
+      "location": "Sapulpa, Oklahoma"
+    },
+    {
+      "id": "oklahoma-tulsa-route-66-musical-highway",
+      "country": "United States",
+      "region": "Oklahoma",
+      "area": "Tulsa",
+      "type": "sight",
+      "name": "Route 66 Musical Highway",
+      "location": "Tulsa, Oklahoma"
+    },
+    {
+      "id": "oklahoma-hydro-lucille-s-historic-highway-gas-station",
+      "country": "United States",
+      "region": "Oklahoma",
+      "area": "Hydro",
+      "type": "sight",
+      "name": "Lucille's Historic Highway Gas Station",
+      "location": "Hydro, Oklahoma"
+    },
+    {
+      "id": "oklahoma-clinton-oklahoma-route-66-museum",
+      "country": "United States",
+      "region": "Oklahoma",
+      "area": "Clinton",
+      "type": "sight",
+      "name": "Oklahoma Route 66 Museum",
+      "location": "Clinton, Oklahoma"
+    },
+    {
+      "id": "oklahoma-elk-city-national-route-66-museum-and-transportation-museum",
+      "country": "United States",
+      "region": "Oklahoma",
+      "area": "Elk City",
+      "type": "sight",
+      "name": "National Route 66 Museum and Transportation Museum",
+      "location": "Elk City, Oklahoma"
+    },
+    {
       "id": "oregon-crater-lake-national-park-garfield-peak",
       "country": "United States",
       "region": "Oregon",
@@ -3547,6 +3984,15 @@
       "type": "sight",
       "name": "Kinzua Bridge State Park",
       "location": "Kinzua Bridge State Park"
+    },
+    {
+      "id": "pennsylvania-fallingwater",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Fallingwater",
+      "type": "sight",
+      "name": "Fallingwater",
+      "location": "Fallingwater, Pennsylvania"
     },
     {
       "id": "pennsylvania-presque-isle-state-park",
@@ -4277,6 +4723,15 @@
       "location": "Harrisburg, Pennsylvania"
     },
     {
+      "id": "pennsylvania-philadelphia-eastern-state-penitentiary",
+      "country": "United States",
+      "region": "Pennsylvania",
+      "area": "Philadelphia",
+      "type": "sight",
+      "name": "Eastern State Penitentiary",
+      "location": "Philadelphia, Pennsylvania"
+    },
+    {
       "id": "pennsylvania-pa-grand-canyon-leonard-harrison-state-park",
       "country": "United States",
       "region": "Pennsylvania",
@@ -4745,22 +5200,187 @@
       ]
     },
     {
-      "id": "texas-austin-motogp-2026",
+      "id": "texas-austin-formula-1-us-gp",
       "country": "United States",
       "region": "Texas",
       "area": "Austin",
       "type": "event",
-      "name": "MotoGP 2026",
-      "location": "Circuit of the Americas, Texas"
+      "name": "Formula 1 US GP",
+      "location": "Circuit of the Americas"
     },
     {
-      "id": "texas-austin",
+      "id": "texas-austin-motogp",
+      "country": "United States",
+      "region": "Texas",
+      "area": "Austin",
+      "type": "event",
+      "name": "MotoGP",
+      "location": "Circuit of the Americas"
+    },
+    {
+      "id": "texas-austin-capitol-building",
       "country": "United States",
       "region": "Texas",
       "area": "Austin",
       "type": "sight",
-      "name": "Austin",
+      "name": "Capitol Building",
       "location": "Austin, Texas"
+    },
+    {
+      "id": "texas-austin-sixth-street-historic-district",
+      "country": "United States",
+      "region": "Texas",
+      "area": "Austin",
+      "type": "sight",
+      "name": "Sixth Street Historic District",
+      "location": "Austin, Texas"
+    },
+    {
+      "id": "texas-austin-ben-lynn-s",
+      "country": "United States",
+      "region": "Texas",
+      "area": "Austin",
+      "type": "food",
+      "name": "Ben & Lynn's",
+      "location": "Austin, Texas",
+      "items": [
+        {
+          "name": "Fried Chicken Sandwich (optional: Texas Dust)",
+          "verdict": "Lit"
+        }
+      ]
+    },
+    {
+      "id": "texas-austin-thai-zen",
+      "country": "United States",
+      "region": "Texas",
+      "area": "Austin",
+      "type": "food",
+      "name": "Thai Zen",
+      "location": "Austin, Texas",
+      "items": [
+        {
+          "name": "Panang Curry",
+          "verdict": "Pretty Good"
+        },
+        {
+          "name": "Thai Basil Chili Fried Rice",
+          "verdict": "Pretty Good"
+        }
+      ]
+    },
+    {
+      "id": "texas-austin-terry-black-s-bbq",
+      "country": "United States",
+      "region": "Texas",
+      "area": "Austin",
+      "type": "food",
+      "name": "Terry Black's BBQ",
+      "location": "Austin, Texas",
+      "items": [
+        {
+          "name": "Beef Brisket",
+          "verdict": "It's Aight"
+        }
+      ]
+    },
+    {
+      "id": "texas-austin-1618-asian-fusion",
+      "country": "United States",
+      "region": "Texas",
+      "area": "Austin",
+      "type": "food",
+      "name": "1618 Asian Fusion",
+      "location": "Austin, Texas",
+      "items": [
+        {
+          "name": "Panang Curry",
+          "verdict": "Pretty Good"
+        },
+        {
+          "name": "Vegetable Dumplings",
+          "verdict": ""
+        },
+        {
+          "name": "Thai Tum Yum & Coconut Fried Rice",
+          "verdict": "Pretty Good"
+        }
+      ]
+    },
+    {
+      "id": "texas-amarillo-the-big-texan-steak-ranch-brewery",
+      "country": "United States",
+      "region": "Texas",
+      "area": "Amarillo",
+      "type": "food",
+      "name": "The Big Texan Steak Ranch & Brewery",
+      "location": "Amarillo, Texas",
+      "items": [
+        {
+          "name": "Beef Tenderloin Steak",
+          "verdict": "It's Aight"
+        }
+      ]
+    },
+    {
+      "id": "texas-amarillo-cadillac-ranch",
+      "country": "United States",
+      "region": "Texas",
+      "area": "Amarillo",
+      "type": "sight",
+      "name": "Cadillac Ranch",
+      "location": "Amarillo, Texas"
+    },
+    {
+      "id": "texas-shamrock-conoco-tower-station-u-drop-inn-cafe",
+      "country": "United States",
+      "region": "Texas",
+      "area": "Shamrock",
+      "type": "sight",
+      "name": "Conoco Tower Station & U-Drop Inn Cafe",
+      "location": "Shamrock, Texas",
+      "notes": [
+        "Real life inspiration for Ramone's House of Body Art from the Cars movie"
+      ]
+    },
+    {
+      "id": "texas-mclean-restored-1929-route-66-gas-station",
+      "country": "United States",
+      "region": "Texas",
+      "area": "McLean",
+      "type": "sight",
+      "name": "Restored 1929 Route 66 Gas Station",
+      "location": "McLean, Texas"
+    },
+    {
+      "id": "texas-groom-leaning-tower-of-texas",
+      "country": "United States",
+      "region": "Texas",
+      "area": "Groom",
+      "type": "sight",
+      "name": "Leaning Tower of Texas",
+      "location": "Groom, Texas"
+    },
+    {
+      "id": "texas-adrian-midpoint-cafe",
+      "country": "United States",
+      "region": "Texas",
+      "area": "Adrian",
+      "type": "sight",
+      "name": "Midpoint Cafe",
+      "location": "Adrian, Texas"
+    },
+    {
+      "id": "texas-glenrio",
+      "country": "United States",
+      "region": "Texas",
+      "area": "Glenrio",
+      "type": "sight",
+      "name": "Glenrio",
+      "location": "Glenrio, Texas",
+      "notes": [
+        "Ghost town"
+      ]
     },
     {
       "id": "utah-salt-lake-city",
@@ -4944,6 +5564,66 @@
       "type": "food",
       "name": "Curry Pizza",
       "location": "Capitol Reef National Park"
+    },
+    {
+      "id": "utah-blanding-edge-of-the-cedars-state-park-museum",
+      "country": "United States",
+      "region": "Utah",
+      "area": "Blanding",
+      "type": "sight",
+      "name": "Edge of the Cedars State Park Museum",
+      "location": "Blanding, Utah"
+    },
+    {
+      "id": "utah-blanding-smoke-pizza-co",
+      "country": "United States",
+      "region": "Utah",
+      "area": "Blanding",
+      "type": "food",
+      "name": "Smoke Pizza Co.",
+      "location": "Blanding, Utah",
+      "items": [
+        {
+          "name": "Chicken BBQ & Ranch Pizza",
+          "verdict": "Not Bad"
+        }
+      ]
+    },
+    {
+      "id": "utah-natural-bridges-national-monument",
+      "country": "United States",
+      "region": "Utah",
+      "area": "Natural Bridges National Monument",
+      "type": "sight",
+      "name": "Natural Bridges National Monument",
+      "location": "Natural Bridges National Monument, Utah"
+    },
+    {
+      "id": "utah-utah-state-route-95",
+      "country": "United States",
+      "region": "Utah",
+      "area": "Utah",
+      "type": "drive",
+      "name": "Utah State Route 95",
+      "location": "Utah, United States"
+    },
+    {
+      "id": "utah-moki-dugway",
+      "country": "United States",
+      "region": "Utah",
+      "area": "Utah",
+      "type": "drive",
+      "name": "Moki Dugway",
+      "location": "Utah, United States"
+    },
+    {
+      "id": "utah-hwy-261",
+      "country": "United States",
+      "region": "Utah",
+      "area": "Utah",
+      "type": "drive",
+      "name": "Hwy 261",
+      "location": "Utah, United States"
     },
     {
       "id": "vermont-waterbury-ben-jerry-s-ice-cream-factory",

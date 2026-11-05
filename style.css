@@ -1112,15 +1112,23 @@ body.map-page .avatar {
   white-space: nowrap;
 }
 
-.log-verdict.is-repeat {
+.log-verdict.is-lit {
   color: #6fcf8f;
 }
 
-.log-verdict.is-fine {
-  color: #9a9a9a;
+.log-verdict.is-pretty-good {
+  color: #a3d977;
 }
 
-.log-verdict.is-skip {
+.log-verdict.is-not-bad {
+  color: #d9c777;
+}
+
+.log-verdict.is-it-s-aight {
+  color: #d9a877;
+}
+
+.log-verdict.is-never-again {
   color: #e08278;
 }
 

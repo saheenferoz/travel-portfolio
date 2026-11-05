@@ -12,7 +12,13 @@
     wildlife: "Wildlife",
     note: "Notes",
   };
-  var VERDICT_LABELS = { repeat: "Would repeat", fine: "Fine", skip: "Skip" };
+  var VERDICT_LABELS = {
+    "Lit": "Lit",
+    "Pretty Good": "Pretty Good",
+    "Not Bad": "Not Bad",
+    "It's Aight": "It's Aight",
+    "Never Again": "Never Again",
+  };
   var MAX_THUMBS = 10;
 
   function slugify(text) {
@@ -289,7 +295,7 @@
 
   function renderVerdict(verdict) {
     if (!VERDICT_LABELS[verdict]) return null;
-    return el("span", "log-verdict is-" + verdict, VERDICT_LABELS[verdict]);
+    return el("span", "log-verdict is-" + slugify(verdict), VERDICT_LABELS[verdict]);
   }
 
   function renderEntry(entry, hideName) {

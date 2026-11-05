@@ -25,8 +25,8 @@
 # observation). The latter never gets a map pin or a location.
 #
 # Optional on a place (or a leaf area): notes (a list of remarks), verdict
-#   (best to worst: Lit|Pretty Good|It's Aight|Never Again), dishes (food
-#   only, `dish:`/notes/verdict each), location.
+#   (best to worst: Lit|Pretty Good|Not Bad|It's Aight|Never Again), dishes
+#   (food only, `dish:`/notes/verdict each), location.
 #
 # `location` overrides the geocoded key, on a group area (all its places) or
 # a single place (wins over the area's). Leave it off unless the default
@@ -126,6 +126,8 @@ regions:
     - trail: Cinder Cone
   - area: Burney
   - area: Death Valley National Park
+  - area: Point Reyes National Seashore
+  - area: Pinnacles National Park
   - area: Redwood National Park
     places:
     - trail: Fern Canyon
@@ -226,6 +228,32 @@ regions:
     - place: Navy Pier
     - place: Riverwalk
     - place: Shedd Aquarium
+    - place: Chicago Route 66 Start of the Trail Sign
+  - area: Dwight
+    places:
+    - place: Ambler's Texaco Gas Station
+  - area: Odell
+    places:
+    - place: Standard Oil of Illinois Gas Station
+  - area: Pontiac
+    places:
+    - place: Route 66 Association of Illinois
+  - area: Normal
+    places:
+    - food: Pizza Payaa
+      dishes:
+      - dish: Chipotle BBQ Chicken
+        verdict: It's Aight
+    - place: Sprague's Super Service Station
+  - area: Springfield
+    places:
+    - food: Cozy Dog Drive In
+  - area: Mt Olive
+    places:
+    - place: Soulsby Service Station
+  - area: Livingston
+    places:
+    - place: Pink Elephant Antique Mall
 - region: Indiana
   areas:
   - area: Indiana Dunes National Park
@@ -256,6 +284,15 @@ regions:
       - dish: Omelette
   notes:
   - Rolling cornfields
+- region: Kansas
+  areas:
+  - area: Galena
+    places:
+    - food: Mí Torito Mexican Restaurant
+      dishes:
+      - dish: Fajita Quesadilla
+        verdict: Not Bad
+    - place: Cars on the Route
 - region: Kentucky
   areas:
   - area: Mammoth Cave National Park
@@ -372,6 +409,31 @@ regions:
     - food: Steve's Marina Restaurant
       dishes:
       - dish: Fried catfish
+- region: Missouri
+  areas:
+  - area: St. Louis
+    places:
+    - place: Gateway Arch National Park
+  - area: Cuba
+    places:
+    - stay: Wagon Wheel Motel
+    - place: Route 66 Rocker
+    - food: Rivera Maya Mexican Restaurant
+      dishes:
+      - dish: Pollo Ranchero
+        verdict: It's Aight
+      - dish: Mole Poblano
+        verdict: It's Aight
+  - area: St. Robert
+    places:
+    - place: Uranus Missouri Towne Center
+    - food: Uranus Fudge Factory & General Store
+  - area: Lebanon
+    places:
+    - stay: Munger Moss Motel
+  - area: Springfield
+    places:
+    - place: Route 66 Car Museum
 - region: Montana
   areas:
   - area: Glacier National Park
@@ -441,6 +503,46 @@ regions:
         verdict: Pretty Good
       - dish: Gobi Manchurian Roll
         verdict: Pretty Good
+- region: New Mexico
+  areas:
+  - area: Roswell
+    places:
+    - food: Sara's Mediterranean Café & Grill
+      dishes:
+      - dish: Chicken Kabob
+        verdict: Not Bad
+      - dish: Falafel Bowl
+        verdict: Not Bad
+    - place: International UFO Museum and Research Center and Gift Shop
+  - area: Socorro
+    places:
+    - food: Yo Mama's Grill
+      dishes:
+      - dish: Bosque Burger with Green Chili
+        verdict: Not Bad
+  - area: Lincoln
+  - area: Capitan
+    places:
+    - place: Smokey Bear Historical Park
+      notes:
+      - Smokey Bear's grave (mascot for wildfire prevention). He was rescued from
+        a nearby wildfire as a cub.
+  - area: Magdalena
+    places:
+    - place: NRAO Very Large Array
+    - stay: Magdalena Motor Inn
+  - area: Tucumcari
+    places:
+    - place: Route 66 Monument
+    - stay: Blue Swallow Motel
+  - area: Ship Rock
+    notes:
+    - Towering natural rock formation sacred to Native American culture
+  - area: Gallup
+  - area: New Mexico
+    places:
+    - drive: US-70
+    - drive: US-380
 - region: New York
   areas:
   - area: New York City
@@ -548,6 +650,44 @@ regions:
     places:
     - trail: Brandywine Gorge Trail
     - trail: Ledges Trail
+- region: Oklahoma
+  areas:
+  - area: Stroud
+    places:
+    - food: Rock Cafe
+      dishes:
+      - dish: Chicken Fried Steak
+        verdict: It's Aight
+      notes:
+      - Sally Carrera from Cars movie was inspired by the owner. When a fire brought
+        down the cafe, the movie producers sent props and memorabilia to rebuild it.
+  - area: Oklahoma City
+    places:
+    - place: Pops
+      notes:
+      - Serves a variety of unique and weird soda flavors
+  - area: Catoosa
+    places:
+    - place: Blue Whale of Catoosa
+      notes:
+      - A man who wanted to spread animal awareness asked his neighbor to build this
+        plan of his; after 100 hours of labor, he refused to take payment after
+        learning about its purpose.
+  - area: Sapulpa
+    places:
+    - place: Heart of Route 66 Auto Museum
+  - area: Tulsa
+    places:
+    - place: Route 66 Musical Highway
+  - area: Hydro
+    places:
+    - place: Lucille's Historic Highway Gas Station
+  - area: Clinton
+    places:
+    - place: Oklahoma Route 66 Museum
+  - area: Elk City
+    places:
+    - place: National Route 66 Museum and Transportation Museum
 - region: Oregon
   areas:
   - area: Crater Lake National Park
@@ -557,6 +697,7 @@ regions:
 - region: Pennsylvania
   areas:
   - area: Kinzua Bridge State Park
+  - area: Fallingwater
   - area: Presque Isle State Park
   - area: Gettysburg
     notes:
@@ -657,6 +798,9 @@ regions:
   - area: Harrisburg
     places:
     - food: Nalan Indian Cuisine
+  - area: Philadelphia
+    places:
+    - place: Eastern State Penitentiary
   - area: PA Grand Canyon
     location: Pine Creek Gorge, Pennsylvania
     places:
@@ -771,11 +915,58 @@ regions:
       notes:
       - Best Mexican food I've had; one of the first places to introduce fajitas to the US
   - area: Austin
-    location: Circuit of the Americas, Texas
     places:
-    - event: MotoGP 2026
-    - place: Austin
-      location: Austin, Texas
+    - event: Formula 1 US GP
+      location: Circuit of the Americas
+    - event: MotoGP
+      location: Circuit of the Americas
+    - place: Capitol Building
+    - place: Sixth Street Historic District
+    - food: Ben & Lynn's
+      dishes:
+      - dish: 'Fried Chicken Sandwich (optional: Texas Dust)'
+        verdict: Lit
+    - food: Thai Zen
+      dishes:
+      - dish: Panang Curry
+        verdict: Pretty Good
+      - dish: Thai Basil Chili Fried Rice
+        verdict: Pretty Good
+    - food: Terry Black's BBQ
+      dishes:
+      - dish: Beef Brisket
+        verdict: It's Aight
+    - food: 1618 Asian Fusion
+      dishes:
+      - dish: Panang Curry
+        verdict: Pretty Good
+      - dish: Vegetable Dumplings
+      - dish: Thai Tum Yum & Coconut Fried Rice
+        verdict: Pretty Good
+  - area: Amarillo
+    places:
+    - food: The Big Texan Steak Ranch & Brewery
+      dishes:
+      - dish: Beef Tenderloin Steak
+        verdict: It's Aight
+    - place: Cadillac Ranch
+  - area: Shamrock
+    places:
+    - place: Conoco Tower Station & U-Drop Inn Cafe
+      notes:
+      - Real life inspiration for Ramone's House of Body Art from the Cars movie
+  - area: McLean
+    places:
+    - place: Restored 1929 Route 66 Gas Station
+  - area: Groom
+    places:
+    - place: Leaning Tower of Texas
+  - area: Adrian
+    places:
+    - place: Midpoint Cafe
+  - area: Glenrio
+    notes:
+    - Ghost town
 - region: Utah
   areas:
   - area: Salt Lake City
@@ -812,6 +1003,19 @@ regions:
     - trail: Hickman Bridge Trail
     - trail: Grand Wash
     - food: Curry Pizza
+  - area: Blanding
+    places:
+    - place: Edge of the Cedars State Park Museum
+    - food: Smoke Pizza Co.
+      dishes:
+      - dish: Chicken BBQ & Ranch Pizza
+        verdict: Not Bad
+  - area: Natural Bridges National Monument
+  - area: Utah
+    places:
+    - drive: Utah State Route 95
+    - drive: Moki Dugway
+    - drive: Hwy 261
 - region: Vermont
   areas:
   - area: Waterbury
