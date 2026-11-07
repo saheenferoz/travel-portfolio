@@ -7,6 +7,34 @@
   "gridColumns": 4,
   "photos": [
     {
+      "src": "photos/2026-11-04_Natural_Bridges_National_Monument.JPG",
+      "caption": "",
+      "location": "Natural Bridges National Monument",
+      "date": "2026-11-04",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-04_Ship_Rock,_New_Mexico.JPG",
+      "caption": "",
+      "location": "Ship Rock, New Mexico",
+      "date": "2026-11-04",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-04_White_Mesa,_Utah.JPG",
+      "caption": "",
+      "location": "White Mesa, Utah",
+      "date": "2026-11-04",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-03_Magdalena,_New_Mexico.JPG",
+      "caption": "",
+      "location": "Magdalena, New Mexico",
+      "date": "2026-11-03",
+      "map": ""
+    },
+    {
       "src": "photos/2026-11-01_Adrian,_Texas.JPG",
       "caption": "",
       "location": "Adrian, Texas",
@@ -38,6 +66,13 @@
       "src": "photos/2026-11-01_McLean,_Texas.jpg",
       "caption": "",
       "location": "McLean, Texas",
+      "date": "2026-11-01",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-01_Shamrock,_Texas.jpg",
+      "caption": "",
+      "location": "Shamrock, Texas",
       "date": "2026-11-01",
       "map": ""
     },

@@ -791,6 +791,10 @@
     "lat": 38.72239,
     "lng": -77.17003
   },
+  "Natural Bridges National Monument": {
+    "lat": 37.6026,
+    "lng": -110.01118
+  },
   "Natural Bridges National Monument, Utah": {
     "lat": 37.6026,
     "lng": -110.01118
@@ -1234,6 +1238,10 @@
   "West Virginia, United States": {
     "lat": 38.47584,
     "lng": -80.84084
+  },
+  "White Mesa, Utah": {
+    "lat": 37.46072,
+    "lng": -109.46107
   },
   "Wind Cave National Park, South Dakota": {
     "lat": 43.57887,
