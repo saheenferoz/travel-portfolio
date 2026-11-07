@@ -171,6 +171,10 @@
     "lat": 21.15275,
     "lng": -86.84258
   },
+  "Canyon de Chelly National Monument": {
+    "lat": 36.14335,
+    "lng": -109.44164
+  },
   "Canyonlands National Park, Utah": {
     "lat": 38.23326,
     "lng": -109.92066
@@ -750,6 +754,10 @@
   "Monterey, California": {
     "lat": 36.22311,
     "lng": -121.38774
+  },
+  "Monument Valley, Arizona": {
+    "lat": 36.98239,
+    "lng": -110.11111
   },
   "Mount Olive, Illinois": {
     "lat": 39.07222,

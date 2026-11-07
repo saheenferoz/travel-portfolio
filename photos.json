@@ -7,6 +7,27 @@
   "gridColumns": 4,
   "photos": [
     {
+      "src": "photos/2026-11-06_Canyon_de_Chelly_National_Monument_1.JPG",
+      "caption": "",
+      "location": "Canyon de Chelly National Monument",
+      "date": "2026-11-06",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-06_Canyon_de_Chelly_National_Monument_2.JPG",
+      "caption": "",
+      "location": "Canyon de Chelly National Monument",
+      "date": "2026-11-06",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-06_Canyon_de_Chelly_National_Monument_3.JPG",
+      "caption": "",
+      "location": "Canyon de Chelly National Monument",
+      "date": "2026-11-06",
+      "map": ""
+    },
+    {
       "src": "photos/2026-11-05_Goosenecks_State_Park.JPG",
       "caption": "",
       "location": "Goosenecks State Park",
@@ -24,6 +45,13 @@
       "src": "photos/2026-11-05_Moki_Dugway,_Utah.JPG",
       "caption": "",
       "location": "Moki Dugway, Utah",
+      "date": "2026-11-05",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-05_Monument_Valley,_Arizona.JPG",
+      "caption": "",
+      "location": "Monument Valley, Arizona",
       "date": "2026-11-05",
       "map": ""
     },
