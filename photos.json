@@ -7,6 +7,41 @@
   "gridColumns": 4,
   "photos": [
     {
+      "src": "photos/2026-10-31_Oklahoma_City.JPG",
+      "caption": "",
+      "location": "Oklahoma City",
+      "date": "2026-10-31",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-31_Stroud,_Oklahoma.jpg",
+      "caption": "",
+      "location": "Stroud, Oklahoma",
+      "date": "2026-10-31",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-30_Mount_Olive,_Illinois.JPG",
+      "caption": "",
+      "location": "Mount Olive, Illinois",
+      "date": "2026-10-30",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-30_St._Louis,_Missouri.JPG",
+      "caption": "",
+      "location": "St. Louis, Missouri",
+      "date": "2026-10-30",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-10-29_Dwight,_Illinois.JPG",
+      "caption": "",
+      "location": "Dwight, Illinois",
+      "date": "2026-10-29",
+      "map": ""
+    },
+    {
       "src": "photos/2026-10-24_Circuit_of_the_Americas.jpg",
       "caption": "",
       "location": "Circuit of the Americas",
