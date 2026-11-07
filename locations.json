@@ -415,6 +415,10 @@
     "lat": 47.14512,
     "lng": -91.47476
   },
+  "Goosenecks State Park": {
+    "lat": 37.17402,
+    "lng": -109.92679
+  },
   "Grand Canyon National Park, Arizona": {
     "lat": 36.30785,
     "lng": -112.2929
@@ -707,6 +711,10 @@
     "lat": 37.25378,
     "lng": -108.4556
   },
+  "Mexican Hat, Utah": {
+    "lat": 37.17231,
+    "lng": -109.86621
+  },
   "Miami, Florida": {
     "lat": 25.77416,
     "lng": -80.1936
@@ -734,6 +742,10 @@
   "Mobile, Alabama": {
     "lat": 30.69135,
     "lng": -88.04375
+  },
+  "Moki Dugway, Utah": {
+    "lat": 37.27505,
+    "lng": -109.93785
   },
   "Monterey, California": {
     "lat": 36.22311,
@@ -792,10 +804,6 @@
     "lng": -77.17003
   },
   "Natural Bridges National Monument": {
-    "lat": 37.6026,
-    "lng": -110.01118
-  },
-  "Natural Bridges National Monument, Utah": {
     "lat": 37.6026,
     "lng": -110.01118
   },

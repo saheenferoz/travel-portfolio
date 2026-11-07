@@ -7,6 +7,41 @@
   "gridColumns": 4,
   "photos": [
     {
+      "src": "photos/2026-11-05_Goosenecks_State_Park.JPG",
+      "caption": "",
+      "location": "Goosenecks State Park",
+      "date": "2026-11-05",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-05_Mexican_Hat,_Utah_1.JPG",
+      "caption": "",
+      "location": "Mexican Hat, Utah",
+      "date": "2026-11-05",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-05_Moki_Dugway,_Utah.JPG",
+      "caption": "",
+      "location": "Moki Dugway, Utah",
+      "date": "2026-11-05",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-05_Mexican_Hat,_Utah_2.jpg",
+      "caption": "",
+      "location": "Mexican Hat, Utah",
+      "date": "2026-11-05",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-05_Moki_Dugway,_Utah_2.JPG",
+      "caption": "",
+      "location": "Moki Dugway, Utah",
+      "date": "2026-11-05",
+      "map": ""
+    },
+    {
       "src": "photos/2026-11-04_Natural_Bridges_National_Monument.JPG",
       "caption": "",
       "location": "Natural Bridges National Monument",
