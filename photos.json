@@ -7,6 +7,41 @@
   "gridColumns": 4,
   "photos": [
     {
+      "src": "photos/2026-11-01_Adrian,_Texas.JPG",
+      "caption": "",
+      "location": "Adrian, Texas",
+      "date": "2026-11-01",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-01_Amarillo,_Texas.JPG",
+      "caption": "",
+      "location": "Amarillo, Texas",
+      "date": "2026-11-01",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-01_Elk_City,_Oklahoma.JPG",
+      "caption": "",
+      "location": "Elk City, Oklahoma",
+      "date": "2026-11-01",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-01_Glenrio,_Texas.jpg",
+      "caption": "",
+      "location": "Glenrio, Texas",
+      "date": "2026-11-01",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-01_McLean,_Texas.jpg",
+      "caption": "",
+      "location": "McLean, Texas",
+      "date": "2026-11-01",
+      "map": ""
+    },
+    {
       "src": "photos/2026-10-31_Oklahoma_City.JPG",
       "caption": "",
       "location": "Oklahoma City",
