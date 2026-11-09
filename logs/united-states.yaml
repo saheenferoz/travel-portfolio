@@ -71,6 +71,52 @@ regions:
     - trail: Giant Logs
     - trail: Agate House
     - trail: Painted Desert Rim
+  - area: Monument Valley
+    places:
+    - food: Goulding's Stagecoach Dining Room
+      dishes:
+      - dish: Fingers and Fries
+        verdict: It's Aight
+      - dish: Fry Bread
+        verdict: Not Bad
+    - stay: Goulding's Lodge
+  - area: Page
+    places:
+    - place: Antelope Canyon
+      notes:
+      - Best time for iconic sunbeams is April - July, 11am - 1pm
+      - Photo tours are longer with 3 hours in the canyon; you can take bags, tripods, and lunch
+    - place: Wahweap Viewpoint
+    - place: The New Wave
+    - place: Lake Powell
+    - place: Glen Canyon Dam Overlook
+    - place: Biidi The Arch
+    - place: Horseshoe Bend
+  - area: Canyon de Chelly National Monument
+    places:
+    - place: Tunnel Overlook
+    - place: Tsegi Overlook
+    - place: White House Overlook
+    - place: Junction Overlook
+    - place: Face Rock Overlook
+    - place: Spider Rock Overlook
+  - area: Holbrook
+    places:
+    - stay: Wigwam Motel
+  - area: Joseph City
+    places:
+    - place: Jack Rabbit Trading Post
+  - area: Winslow
+    places:
+    - place: Standin' on The Corner Foundation
+    - place: Graffiti Gas Station
+  - area: Flagstaff
+    places:
+    - place: Route 66 Street Sign - Flagstaff
+  - area: Sunset Crater Volcano National Monument
+    places:
+    - trail: Lava Flow Trail
+  - area: Wupatki National Monument
   - area: Phoenix
   - area: Tucson
   - area: Barringer Crater (Meteor Crater Natural Landmark)
@@ -1010,6 +1056,12 @@ regions:
       dishes:
       - dish: Chicken BBQ & Ranch Pizza
         verdict: Not Bad
+  - area: Goosenecks State Park
+  - area: Mexican Hat Rock
+  - area: Mexican Hat
+  - area: White Mesa
+  - area: Forrest Gump Point
+  - area: Lone Rock Beach
   - area: Natural Bridges National Monument
   - area: Utah
     places:

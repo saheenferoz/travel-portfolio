@@ -1508,6 +1508,218 @@
       "location": "Petrified Forest National Park"
     },
     {
+      "id": "arizona-monument-valley-goulding-s-stagecoach-dining-room",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Monument Valley",
+      "type": "food",
+      "name": "Goulding's Stagecoach Dining Room",
+      "location": "Monument Valley, Arizona",
+      "items": [
+        {
+          "name": "Fingers and Fries",
+          "verdict": "It's Aight"
+        },
+        {
+          "name": "Fry Bread",
+          "verdict": "Not Bad"
+        }
+      ]
+    },
+    {
+      "id": "arizona-monument-valley-goulding-s-lodge",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Monument Valley",
+      "type": "stay",
+      "name": "Goulding's Lodge",
+      "location": "Monument Valley, Arizona"
+    },
+    {
+      "id": "arizona-page-antelope-canyon",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Page",
+      "type": "sight",
+      "name": "Antelope Canyon",
+      "location": "Antelope Canyon, Arizona",
+      "notes": [
+        "Best time for iconic sunbeams is April - July, 11am - 1pm",
+        "Photo tours are longer with 3 hours in the canyon; you can take bags, tripods, and lunch"
+      ]
+    },
+    {
+      "id": "arizona-page-wahweap-viewpoint",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Page",
+      "type": "sight",
+      "name": "Wahweap Viewpoint",
+      "location": "Page, Arizona"
+    },
+    {
+      "id": "arizona-page-the-new-wave",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Page",
+      "type": "sight",
+      "name": "The New Wave",
+      "location": "Page, Arizona"
+    },
+    {
+      "id": "arizona-page-lake-powell",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Page",
+      "type": "sight",
+      "name": "Lake Powell",
+      "location": "Page, Arizona"
+    },
+    {
+      "id": "arizona-page-glen-canyon-dam-overlook",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Page",
+      "type": "sight",
+      "name": "Glen Canyon Dam Overlook",
+      "location": "Page, Arizona"
+    },
+    {
+      "id": "arizona-page-biidi-the-arch",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Page",
+      "type": "sight",
+      "name": "Biidi The Arch",
+      "location": "Page, Arizona"
+    },
+    {
+      "id": "arizona-page-horseshoe-bend",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Page",
+      "type": "sight",
+      "name": "Horseshoe Bend",
+      "location": "Page, Arizona"
+    },
+    {
+      "id": "arizona-canyon-de-chelly-national-monument-tunnel-overlook",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Canyon de Chelly National Monument",
+      "type": "sight",
+      "name": "Tunnel Overlook",
+      "location": "Canyon de Chelly National Monument"
+    },
+    {
+      "id": "arizona-canyon-de-chelly-national-monument-tsegi-overlook",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Canyon de Chelly National Monument",
+      "type": "sight",
+      "name": "Tsegi Overlook",
+      "location": "Canyon de Chelly National Monument"
+    },
+    {
+      "id": "arizona-canyon-de-chelly-national-monument-white-house-overlook",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Canyon de Chelly National Monument",
+      "type": "sight",
+      "name": "White House Overlook",
+      "location": "Canyon de Chelly National Monument"
+    },
+    {
+      "id": "arizona-canyon-de-chelly-national-monument-junction-overlook",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Canyon de Chelly National Monument",
+      "type": "sight",
+      "name": "Junction Overlook",
+      "location": "Canyon de Chelly National Monument"
+    },
+    {
+      "id": "arizona-canyon-de-chelly-national-monument-face-rock-overlook",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Canyon de Chelly National Monument",
+      "type": "sight",
+      "name": "Face Rock Overlook",
+      "location": "Canyon de Chelly National Monument"
+    },
+    {
+      "id": "arizona-canyon-de-chelly-national-monument-spider-rock-overlook",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Canyon de Chelly National Monument",
+      "type": "sight",
+      "name": "Spider Rock Overlook",
+      "location": "Canyon de Chelly National Monument"
+    },
+    {
+      "id": "arizona-holbrook-wigwam-motel",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Holbrook",
+      "type": "stay",
+      "name": "Wigwam Motel",
+      "location": "Holbrook, Arizona"
+    },
+    {
+      "id": "arizona-joseph-city-jack-rabbit-trading-post",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Joseph City",
+      "type": "sight",
+      "name": "Jack Rabbit Trading Post",
+      "location": "Joseph City, Arizona"
+    },
+    {
+      "id": "arizona-winslow-standin-on-the-corner-foundation",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Winslow",
+      "type": "sight",
+      "name": "Standin' on The Corner Foundation",
+      "location": "Winslow, Arizona"
+    },
+    {
+      "id": "arizona-winslow-graffiti-gas-station",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Winslow",
+      "type": "sight",
+      "name": "Graffiti Gas Station",
+      "location": "Winslow, Arizona"
+    },
+    {
+      "id": "arizona-flagstaff-route-66-street-sign-flagstaff",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Flagstaff",
+      "type": "sight",
+      "name": "Route 66 Street Sign - Flagstaff",
+      "location": "Flagstaff, Arizona"
+    },
+    {
+      "id": "arizona-sunset-crater-volcano-national-monument-lava-flow-trail",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Sunset Crater Volcano National Monument",
+      "type": "trail",
+      "name": "Lava Flow Trail",
+      "location": "Sunset Crater Volcano National Monument, Arizona"
+    },
+    {
+      "id": "arizona-wupatki-national-monument",
+      "country": "United States",
+      "region": "Arizona",
+      "area": "Wupatki National Monument",
+      "type": "sight",
+      "name": "Wupatki National Monument",
+      "location": "Wupatki National Monument, Arizona"
+    },
+    {
       "id": "arizona-phoenix",
       "country": "United States",
       "region": "Arizona",
@@ -5588,6 +5800,60 @@
           "verdict": "Not Bad"
         }
       ]
+    },
+    {
+      "id": "utah-goosenecks-state-park",
+      "country": "United States",
+      "region": "Utah",
+      "area": "Goosenecks State Park",
+      "type": "sight",
+      "name": "Goosenecks State Park",
+      "location": "Goosenecks State Park"
+    },
+    {
+      "id": "utah-mexican-hat-rock",
+      "country": "United States",
+      "region": "Utah",
+      "area": "Mexican Hat Rock",
+      "type": "sight",
+      "name": "Mexican Hat Rock",
+      "location": "Mexican Hat Rock, Utah"
+    },
+    {
+      "id": "utah-mexican-hat",
+      "country": "United States",
+      "region": "Utah",
+      "area": "Mexican Hat",
+      "type": "sight",
+      "name": "Mexican Hat",
+      "location": "Mexican Hat, Utah"
+    },
+    {
+      "id": "utah-white-mesa",
+      "country": "United States",
+      "region": "Utah",
+      "area": "White Mesa",
+      "type": "sight",
+      "name": "White Mesa",
+      "location": "White Mesa, Utah"
+    },
+    {
+      "id": "utah-forrest-gump-point",
+      "country": "United States",
+      "region": "Utah",
+      "area": "Forrest Gump Point",
+      "type": "sight",
+      "name": "Forrest Gump Point",
+      "location": "Forrest Gump Point, Utah"
+    },
+    {
+      "id": "utah-lone-rock-beach",
+      "country": "United States",
+      "region": "Utah",
+      "area": "Lone Rock Beach",
+      "type": "sight",
+      "name": "Lone Rock Beach",
+      "location": "Lone Rock Beach, Utah"
     },
     {
       "id": "utah-natural-bridges-national-monument",

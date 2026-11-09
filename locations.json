@@ -367,6 +367,10 @@
     "lat": 39.90626,
     "lng": -79.46793
   },
+  "Flagstaff, Arizona": {
+    "lat": 35.19875,
+    "lng": -111.65182
+  },
   "Flatirons, Colorado": {
     "lat": 39.98881,
     "lng": -105.09313
@@ -374,6 +378,10 @@
   "Flight 93 National Memorial, Pennsylvania": {
     "lat": 40.06177,
     "lng": -78.89714
+  },
+  "Forrest Gump Point, Utah": {
+    "lat": 37.10147,
+    "lng": -109.99084
   },
   "Franconia Notch State Park, New Hampshire": {
     "lat": 44.14438,
@@ -474,6 +482,10 @@
   "Hoboken, New Jersey": {
     "lat": 40.74331,
     "lng": -74.03238
+  },
+  "Holbrook, Arizona": {
+    "lat": 34.90371,
+    "lng": -110.15933
   },
   "Hoover Dam, Nevada": {
     "lat": 36.01572,
@@ -726,6 +738,10 @@
   "Mesa Verde National Park": {
     "lat": 37.25378,
     "lng": -108.4556
+  },
+  "Mexican Hat Rock, Utah": {
+    "lat": 37.1738,
+    "lng": -109.8487
   },
   "Mexican Hat, Utah": {
     "lat": 37.17231,
@@ -1151,6 +1167,10 @@
     "lat": 44.21568,
     "lng": -71.79727
   },
+  "Sunset Crater Volcano National Monument, Arizona": {
+    "lat": 35.37115,
+    "lng": -111.51132
+  },
   "Switzerland": {
     "lat": 46.79856,
     "lng": 8.23197
@@ -1290,6 +1310,10 @@
   "Woodstock, Vermont": {
     "lat": 43.62476,
     "lng": -72.51898
+  },
+  "Wupatki National Monument, Arizona": {
+    "lat": 35.56495,
+    "lng": -111.40585
   },
   "Yakima, Washington": {
     "lat": 46.60156,
