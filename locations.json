@@ -51,6 +51,10 @@
     "lat": 42.28137,
     "lng": -83.74846
   },
+  "Antelope Canyon, Arizona": {
+    "lat": 36.93027,
+    "lng": -111.42197
+  },
   "Apostle Islands National Lakeshore": {
     "lat": 46.9375,
     "lng": -90.58242
@@ -527,6 +531,10 @@
     "lat": 43.36149,
     "lng": -72.72344
   },
+  "Joseph City, Arizona": {
+    "lat": 34.95586,
+    "lng": -110.334
+  },
   "Journal Square, New Jersey": {
     "lat": 40.73101,
     "lng": -74.06229
@@ -890,6 +898,10 @@
   "Orlando, Florida": {
     "lat": 28.54212,
     "lng": -81.37905
+  },
+  "Page, Arizona": {
+    "lat": 36.91483,
+    "lng": -111.45729
   },
   "Palisade Head, Minnesota": {
     "lat": 47.32056,
@@ -1266,6 +1278,10 @@
   "Winneshiek Raceway, Decorah": {
     "lat": 43.30247,
     "lng": -91.77535
+  },
+  "Winslow, Arizona": {
+    "lat": 35.0242,
+    "lng": -110.69735
   },
   "Woodstock, Vermont": {
     "lat": 43.62476,

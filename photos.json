@@ -7,6 +7,34 @@
   "gridColumns": 4,
   "photos": [
     {
+      "src": "photos/2026-11-08_Antelope_Canyon,_Arizona.JPG",
+      "caption": "",
+      "location": "Antelope Canyon, Arizona",
+      "date": "2026-11-08",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-07_Joseph_City,_Arizona.JPG",
+      "caption": "",
+      "location": "Joseph City, Arizona",
+      "date": "2026-11-07",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-07_Page,_Arizona_1.JPG",
+      "caption": "",
+      "location": "Page, Arizona",
+      "date": "2026-11-07",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-07_Winslow,_Arizona.JPG",
+      "caption": "",
+      "location": "Winslow, Arizona",
+      "date": "2026-11-07",
+      "map": ""
+    },
+    {
       "src": "photos/2026-11-06_Canyon_de_Chelly_National_Monument_1.JPG",
       "caption": "",
       "location": "Canyon de Chelly National Monument",
@@ -122,6 +150,20 @@
       "src": "photos/2026-11-01_Glenrio,_Texas.jpg",
       "caption": "",
       "location": "Glenrio, Texas",
+      "date": "2026-11-01",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-01_Groom,_Texas.JPG",
+      "caption": "",
+      "location": "Groom, Texas",
+      "date": "2026-11-01",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-01_Hydro,_Oklahoma.JPG",
+      "caption": "",
+      "location": "Hydro, Oklahoma",
       "date": "2026-11-01",
       "map": ""
     },
