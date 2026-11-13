@@ -43,6 +43,10 @@
     "lat": 35.20729,
     "lng": -101.83712
   },
+  "Amboy, California": {
+    "lat": 34.55777,
+    "lng": -115.74444
+  },
   "Anjuna Beach, Goa": {
     "lat": 15.5761,
     "lng": 73.74018
@@ -434,6 +438,10 @@
   "Goosenecks State Park": {
     "lat": 37.17402,
     "lng": -109.92679
+  },
+  "Grand Canyon National Park": {
+    "lat": 36.30785,
+    "lng": -112.2929
   },
   "Grand Canyon National Park, Arizona": {
     "lat": 36.30785,

@@ -7,6 +7,27 @@
   "gridColumns": 4,
   "photos": [
     {
+      "src": "photos/2026-11-11_Amboy,_California.JPG",
+      "caption": "",
+      "location": "Amboy, California",
+      "date": "2026-11-11",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-09_Grand_Canyon_National_Park_1.JPG",
+      "caption": "",
+      "location": "Grand Canyon National Park",
+      "date": "2026-11-09",
+      "map": ""
+    },
+    {
+      "src": "photos/2026-11-09_Grand_Canyon_National_Park_2.JPG",
+      "caption": "",
+      "location": "Grand Canyon National Park",
+      "date": "2026-11-09",
+      "map": ""
+    },
+    {
       "src": "photos/2026-11-08_Antelope_Canyon,_Arizona.JPG",
       "caption": "",
       "location": "Antelope Canyon, Arizona",
